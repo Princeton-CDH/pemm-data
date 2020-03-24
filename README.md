@@ -9,4 +9,4 @@ Files in the data directory should *NOT* be edited on GitHub.
 This data model diagram shows how the documents in the data folder
 are related to each other.
 
-![data model diagram](docs/v0.2_data-model.svg)]
+![data model diagram](docs/v0.2_data-model.svg)
