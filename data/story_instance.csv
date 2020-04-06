@@ -1,4 +1,4 @@
-Manuscript,Canonical Story ID,Canonical Story Title,Folio Start,Column Start,Line Start,Folio End,Column End,Line End,Miracle Number,Number of Paintings,Incipit,Macomber Incipit,Confidence Score,Notes,,Story Incomplete,Ethiopic Story Number,Princeton Catalog,,,,,Folio Start Number,Folio Start Letter
+Manuscript,Canonical Story ID,Canonical Story Title,Folio Start,Column Start,Line Start,Folio End,Column End,Line End,Miracle Number,Number of Paintings,Incipit,Macomber Incipit,Confidence Score,Notes,,Story Incomplete,Ethiopic Story Number,Princeton Catalog Folios,Princeton Catalog Titles,,,,Folio Start Number,Folio Start Letter
 B-Dublin (CBL) 914,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,,,,,,,8,,,FALSE,,,,FALSE,,,,,,,,
 B-Dublin (CBL) 914,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,,,,,,,9,,,FALSE,,,,FALSE,,,,,,,,
 B-Dublin (CBL) 914,161,The pious monk (or: the Jew from Akhmim) whom Saint Mary made young.,,,,,,,10,,,FALSE,,,,FALSE,,,,,,,,
@@ -6155,107 +6155,107 @@ M-SWE (SWE) 15,162,The pious monk scribe who used to write Saint Mary's name in 
 M-SWE (SWE) 15,154,The two women who were attacked by robbers on their way to church.,64r,,,,,,,,,FALSE,,,,FALSE,,,,,,,64,r
 M-SWE (SWE) 15,400,The five sorrows of Saint Mary.,65v,,,,,,,,,FALSE,,,,FALSE,,,,,,,65,v
 M-SWE (SWE) 15,100,The daughter of the chief of the thieves is cured of her leprosy at the miraculous spring.,102v,,,,,,,,,FALSE,,,,FALSE,,,,,,,102,v
-PEM (PUL) 20,55,Some of the deceased great Fathers of the Desert appear to the monks of Scete.,1r,,,1v,,,1,,,FALSE,,,,FALSE,,,,,,,1,r
-PEM (PUL) 20,221,An Egyptian woman comes to Saint Mary in Bethlehem and is healed of her fever.,1v,,,2r,,,2,,,FALSE,,,,FALSE,,,,,,,1,v
-PEM (PUL) 20,,,2r,,,2v,,,3,,,FALSE,,,,FALSE,,,,,,,2,r
-PEM (PUL) 20,33,The French artist who fell from the scaffolding while painting frescoes.,3v,,,4r,,,4,,,FALSE,,,,FALSE,,,,,,,3,v
-PEM (PUL) 20,463,"Emperor Honorius, who lived like a monk.",4r,,,4v,,,5,,,FALSE,,,,FALSE,,,,,,,4,r
-PEM (PUL) 20,,,5r,,,5v,,,6,,,FALSE,,,,FALSE,,,,,,,5,r
-PEM (PUL) 20,,,5v,,,6r,,,7,,,FALSE,,,,FALSE,,,,,,,5,v
-PEM (PUL) 20,167,The woman who was prevented from fasting by her husband.,6r,,,6v,,,8,,,FALSE,,,,FALSE,,,,,,,6,r
-PEM (PUL) 20,170,Saint Mary saves from a lion a pious monk who had drunk too much wine.,9r,,,9v,,,9,,,FALSE,,,,FALSE,,,,,,,9,r
-PEM (PUL) 20,216,"Saint Mary appears to Sawla, the wife of the martyr, Giyorgis Haddis.",9v,,,9v,,,10,,,FALSE,,,,FALSE,,,,,,,9,v
-PEM (PUL) 20,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,22r,,,23v,,,11,,,FALSE,,,,FALSE,,,,,,,22,r
-PEM (PUL) 20,400,The five sorrows of Saint Mary.,23v,,,24r,,,12,,,FALSE,,,,FALSE,,,,,,,23,v
-PEM (PUL) 20,,,24v,,,24v,,,13,,,FALSE,,,,FALSE,,,,,,,24,v
-PEM (PUL) 20,184,The pious mower of hay to whom the gatekeeper gave his daughter in marriage.,25r,,,25r,,,14,,,FALSE,,,,FALSE,,,,,,,25,r
-PEM (PUL) 20,185,The rich woman who went with the monks to the manbalis for prayer and there saw a vision of Saint Mary.,25v,,,26v,,,15,,,FALSE,,,,FALSE,,,,,,,25,v
-PEM (PUL) 20,182,The bankrupt merchant to whom Satan offered two pearls if he would deny Christ and Saint Mary.,26r,,,27v,,,16,,,FALSE,,,,FALSE,,,,,,,26,r
-PEM (PUL) 20,204,The monk who was custodian of a church near a river and drowned while trying to cross to visit his lover.,27r,,,28v,,,17,,,FALSE,,,,FALSE,,,,,,,27,r
-PEM (PUL) 20,205,"The nun who used to pray for the dead, but lost her virginity and died before completing her penance.",28r,,,29v,,,18,,,FALSE,,,,FALSE,,,,,,,28,r
-PEM (PUL) 20,206,The nun whom Saint Mary admonished to recite the Hail Mary more attentively.,29r,,,29v,,,19,,,FALSE,,,,FALSE,,,,,,,29,r
-PEM (PUL) 20,,,29v,,,30v,,,20,,,FALSE,,,,FALSE,,,,,,,29,v
-PEM (PUL) 20,,,30v,,,30v,,,21,,,FALSE,,,,FALSE,,,,,,,30,v
-PEM (PUL) 20,,,31r,,,31r,,,22,,,FALSE,,,,FALSE,,,,,,,31,r
-PEM (PUL) 20,157,The pious official who was accused of embezzlement and of having an affair with the wife of his lord.,31r,,,32r,,,23,,,FALSE,,,,FALSE,,,,,,,31,r
-PEM (PUL) 20,20,The Arab woman who suffered from an issue of blood for many years.,32r,,,33v,,,24,,,FALSE,,,,FALSE,,,,,,,32,r
-PEM (PUL) 20,,,33v,,,35v,,,25,,,FALSE,,,,FALSE,,,,,,,33,v
-PEM (PUL) 20,171,The husband who broke his vow that he would live celibately with his wife.,35v,,,37r,,,26,,,FALSE,,,,FALSE,,,,,,,35,v
-PEM (PUL) 20,,,37r,,,39r,,,27,,,FALSE,,,,FALSE,,,,,,,37,r
-PEM (PUL) 20,,,39r,,,40r,,,28,,,FALSE,,,,FALSE,,,,,,,39,r
-PEM (PUL) 20,144,The pilgrim to Santiago whom Satan persuaded to mutilate himself after falling into a sexual sin.,40r,,,41v,,,29,,,FALSE,,,,FALSE,,,,,,,40,r
-PEM (PUL) 20,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,41v,,,42r,,,30,,,FALSE,,,,FALSE,,,,,,,41,v
-PEM (PUL) 20,161,The pious monk (or: the Jew from Akhmim) whom Saint Mary made young.,42r,,,43r,,,31,,,FALSE,,,,FALSE,,,,,,,42,r
-PEM (PUL) 20,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,43r,,,44r,,,32,,,FALSE,,,,FALSE,,,,,,,43,r
-PEM (PUL) 20,19,"The monk, Yǝsḥaq, who prayed for seven years that Saint Mary would appear to him.",44r,,,45r,,,33,,,FALSE,,,,FALSE,,,,,,,44,r
-PEM (PUL) 20,27,"Maryam from Dǝfrā, a child who wanted to receive Communion but was shut up in the house when her family went to church.",45r,,,46r,,,34,,,FALSE,,,,FALSE,,,,,,,45,r
-PEM (PUL) 20,33,The French artist who fell from the scaffolding while painting frescoes.,46r,,,47r,,,35,,,FALSE,,,,FALSE,,,,,,,46,r
-PEM (PUL) 20,54,Saint Mary carries a dying monk to Jerusalem.,47r,,,48r,,,36,,,FALSE,,,,FALSE,,,,,,,47,r
-PEM (PUL) 20,154,The two women who were attacked by robbers on their way to church.,48r,,,48v,,,37,,,FALSE,,,,FALSE,,,,,,,48,r
-PEM (PUL) 20,46,The church of Saint Mary that moved by itself to the shore of the Mediterranean Sea.,48v,,,49v,,,38,,,FALSE,,,,FALSE,,,,,,,48,v
-PEM (PUL) 20,48,The rich man from Colosse who was wounded in the eye while fighting the Qwez.,49v,,,50v,,,39,,,FALSE,,,,FALSE,,,,,,,49,v
-PEM (PUL) 20,57,The widow who could not find husbands for her three daughters.,50v,,,51v,,,40,,,FALSE,,,,FALSE,,,,,,,50,v
-PEM (PUL) 20,61,The two brothers who copied the Miracles of Mary and fell into the doing of a sin.,51v,,,52v,,,41,,,FALSE,,,,FALSE,,,,,,,51,v
-PEM (PUL) 20,131,The faded icon of Saint Mary that the mother-in-law wanted to discard.,52v,,,53r,,,42,,,FALSE,,,,FALSE,,,,,,,52,v
-PEM (PUL) 20,68,"Saint Mary appears to the martyr, Giyorgis Haddis, in prison.",53r,,,53v,,,43,,,FALSE,,,,FALSE,,,,,,,53,r
-PEM (PUL) 20,,,53v,,,53v,,,,,,FALSE,,,,FALSE,,,,,,,53,v
-PEM (PUL) 20,106,The rich man who threw dry bread to a beggar in the name of Saint Mary.,54r,,,55r,,,44,,,FALSE,,,,FALSE,,,,,,,54,r
-PEM (PUL) 20,109,The daughter of the rich man from Caesarea who could not deliver her baby.,55r,,,55v,,,45,,,FALSE,,,,FALSE,,,,,,,55,r
-PEM (PUL) 20,112,A poor woman with a broken leg is healed by the icon of Saint Mary in the church of Harat ar-Rum.,55v,,,55v,,,46,,,FALSE,,,,FALSE,,,,,,,55,v
-PEM (PUL) 20,,,56r,,,56v,,,47,,,FALSE,,,,FALSE,,,,,,,56,r
-PEM (PUL) 20,165,The sinful woman who despaired when she kept on sinning and swallowed a scorpion.,57r,,,57v,,,48,,,FALSE,,,,FALSE,,,,,,,57,r
-PEM (PUL) 20,201,A ship that was about to founder is saved when they pray to Saint Mary.,57v,,,58v,,,49,,,FALSE,,,,FALSE,,,,,,,57,v
-PEM (PUL) 20,200,The young man who offered the ring he had received from his girlfriend to the icon of Saint Mary.,58v,,,59v,,,50,,,FALSE,,,,FALSE,,,,,,,58,v
-PEM (PUL) 20,,,60r,,,60v,,,51,,,FALSE,,,,FALSE,,,,,,,60,r
-PEM (PUL) 20,200,The young man who offered the ring he had received from his girlfriend to the icon of Saint Mary.,61r,,,61v,,,50,,,FALSE,,,,FALSE,,,,,,,61,r
-PEM (PUL) 20,,,61v,,,61v,,,52,,,FALSE,,,,FALSE,,,,,,,61,v
-PEM (PUL) 20,,,62r,,,62v,,,53,,,FALSE,,,,FALSE,,,,,,,62,r
-PEM (PUL) 20,,,62v,,,62v,,,54,,,FALSE,,,,FALSE,,,,,,,62,v
-PEM (PUL) 20,99,"The stone-footed man (i. e., a man with gout) from France.",63r,,,63v,,,55,,,FALSE,,,,FALSE,,,,,,,63,r
-PEM (PUL) 20,,,64r,,,64v,,,56,,,FALSE,,,,FALSE,,,,,,,64,r
-PEM (PUL) 20,,,64v,,,64v,,,57,,,FALSE,,,,FALSE,,,,,,,64,v
-PEM (PUL) 20,,,65r,,,65r,,,58,,,FALSE,,,,FALSE,,,,,,,65,r
-PEM (PUL) 20,,,65r,,,66r,,,59,,,FALSE,,,,FALSE,,,,,,,65,r
-PEM (PUL) 20,55,Some of the deceased great Fathers of the Desert appear to the monks of Scete.,66r,,,66v,,,60,,,FALSE,,,,FALSE,,,,,,,66,r
-PEM (PUL) 20,,,66r,,,68r,,,61,,,FALSE,,,,FALSE,,,,,,,66,r
-PEM (PUL) 20,,,68r,,,69v,,,62,,,FALSE,,,,FALSE,,,,,,,68,r
-PEM (PUL) 20,378,Saint Mary appears to Yohannes Kama.,70r,,,71r,,,63,,,FALSE,,,,FALSE,,,,,,,70,r
-PEM (PUL) 20,,,71r,,,72r,,,64,,,FALSE,,,,FALSE,,,,,,,71,r
-PEM (PUL) 20,184,The pious mower of hay to whom the gatekeeper gave his daughter in marriage.,72r,,,72v,,,65,,,FALSE,,,,FALSE,,,,,,,72,r
-PEM (PUL) 20,190,The Muslim who found an icon of Saint Mary in his house.,73r,,,73v,,,66,,,FALSE,,,,FALSE,,,,,,,73,r
-PEM (PUL) 20,189,The mighty Goliath threatens to destroy the monastery of Saint Mary.,73v,,,74v,,,67,,,FALSE,,,,FALSE,,,,,,,73,v
-PEM (PUL) 20,,,75r,,,75r,,,68,,,FALSE,,,,FALSE,,,,,,,75,r
-PEM (PUL) 20,,,75r,,,75v,,,69,,,FALSE,,,,FALSE,,,,,,,75,r
-PEM (PUL) 20,115,The son of a rich official of Cappadocia is raised from the dead.,76r,,,76v,,,70,,,FALSE,,,,FALSE,,,,,,,76,r
-PEM (PUL) 20,,,76v,,,76v,,,71,,,FALSE,,,,FALSE,,,,,,,76,v
-PEM (PUL) 20,182,The bankrupt merchant to whom Satan offered two pearls if he would deny Christ and Saint Mary.,77r,,,77v,,,71,,,FALSE,,,,FALSE,,,,,,,77,r
-PEM (PUL) 20,197,The Jew of Constantinople who threw an icon of Saint Mary into the latrine.,78r,,,78v,,,73,,,FALSE,,,,FALSE,,,,,,,78,r
-PEM (PUL) 20,,,79r,,,79v,,,74,,,FALSE,,,,FALSE,,,,,,,79,r
-PEM (PUL) 20,132,The woman from Cairo whose children all died.,79v,,,80r,,,76,,,FALSE,,,,FALSE,,,,,,,79,v
-PEM (PUL) 20,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,80r,,,81r,,,76,,,FALSE,,,,FALSE,,,,,,,80,r
-PEM (PUL) 20,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",81r,,,81v,,,77,,,FALSE,,,,FALSE,,,,,,,81,r
-PEM (PUL) 20,7,The monk of Däbrä Qaləmon who did not fast.,81v,,,82r,,,78,,,FALSE,,,,FALSE,,,,,,,81,v
-PEM (PUL) 20,,,82r,,,82v,,,79,,,FALSE,,,,FALSE,,,,,,,82,r
-PEM (PUL) 20,,,82v,,,83r,,,80,,,FALSE,,,,FALSE,,,,,,,82,v
-PEM (PUL) 20,236,Saint Mary gives a thirsty dog water to drink from her shoe.,83r,,,84r,,,81,,,FALSE,,,,FALSE,,,,,,,83,r
-PEM (PUL) 20,404,Saint Mary gives a garment to a poor monk.,84r,,,84r,,,82,,,FALSE,,,,FALSE,,,,,,,84,r
-PEM (PUL) 20,,,84r,,,85r,,,83,,,FALSE,,,,FALSE,,,,,,,84,r
-PEM (PUL) 20,,,85r,,,85v,,,84,,,FALSE,,,,FALSE,,,,,,,85,r
-PEM (PUL) 20,229,The blessing given to the animals at Däbrä Qʷəsqʷam by the anointing of Saint Mary.,85v,,,86v,,,85,,,FALSE,,,,FALSE,,,,,,,85,v
-PEM (PUL) 20,224,"Saint Mary appears to Anthony, a monk of Däbrä Qʷəsqʷam.",86v,,,87r,,,86,,,FALSE,,,,FALSE,,,,,,,86,v
-PEM (PUL) 20,170,Saint Mary saves from a lion a pious monk who had drunk too much wine.,87r,,,87v,,,87,,,FALSE,,,,FALSE,,,,,,,87,r
-PEM (PUL) 20,,,87v,,,87v,,,88,,,FALSE,,,,FALSE,,,,,,,87,v
-PEM (PUL) 20,,,88r,,,88r,,,89,,,FALSE,,,,FALSE,,,,,,,88,r
-PEM (PUL) 20,,,88r,,,88v,,,90,,,FALSE,,,,FALSE,,,,,,,88,r
-PEM (PUL) 20,,,89r,,,89r,,,91,,,FALSE,,,,FALSE,,,,,,,89,r
-PEM (PUL) 20,184,The pious mower of hay to whom the gatekeeper gave his daughter in marriage.,90r,,,90r,,,92,,,FALSE,,,,FALSE,,,,,,,90,r
-PEM (PUL) 20,,,90r,,,90v,,,93,,,FALSE,,,,FALSE,,,,,,,90,r
-PEM (PUL) 20,,,91r,,,91v,,,94,,,FALSE,,,,FALSE,,,,,,,91,r
-PEM (PUL) 23,125,The story of the cannibal from Qemer.,24v,,,28v,,,1,,,FALSE,,,,FALSE,,,,,,,24,v
-PEM (PUL) 23,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,28v,,,29v,,,2,,,FALSE,,,,FALSE,,,,,,,28,v
-PEM (PUL) 23,54,Saint Mary carries a dying monk to Jerusalem.,29v,,,31r,,,3,,,FALSE,,,,FALSE,,,,,,,29,v
-PEM (PUL) 23,153,The young man who used to bring roses to the icon of Saint Mary.,31r,,,34v,,,4,,,FALSE,,,,FALSE,,,,,,,31,r
-PEM (PUL) 23,109,The daughter of the rich man from Caesarea who could not deliver her baby.,34v,,,35v,,,5,,,FALSE,,,,FALSE,,,,,,,34,v
+PEM (PUL) 20,55,Some of the deceased great Fathers of the Desert appear to the monks of Scete.,1r,,,1v,,,1,,"Vita, this ms is a mess; lots of folios out of order.",FALSE,,,,FALSE,,fols. 01rv: First Miracle of Mary,"How the Virgin Mary appeared with saints Abba Mäqars, Abba Yoḥannǝs Abba Bǝsoy, Abba Musse, Abba Yoḥannǝs at the monastry of Asqeṭǝs).",,,,1,r
+PEM (PUL) 20,221,An Egyptian woman comes to Saint Mary in Bethlehem and is healed of her fever.,1v,,,2r,,,2,,,FALSE,,,,FALSE,,fols. 01v-2r: Second Miracle of Mary,How the Virgin Mary healed a woman at Bethlehem).,,,,1,v
+PEM (PUL) 20,,,2r,,,2v,,,3,,,FALSE,,,,FALSE,,fols. 02rv: Third Miracle of Mary,"How the Virgin Mary left her handprint in the icon of the Virgin Mary when a certain priest burned incense and bowed to her icon andHow she brought holy water inside the church andHow Elarəya, daughter of King Zänun, left for the monastic life at Asqeṭǝs) (repeated later).",,,,2,r
+PEM (PUL) 20,33,The French artist who fell from the scaffolding while painting frescoes.,3v,,,4r,,,4,,,FALSE,,,,FALSE,,fols. 03v-4r: Fourth Miracle of Mary,"How the Virgin Mary saved the painter when he fell down from his scaffolding) (different version of Budge, Mary, 8).",,,,3,v
+PEM (PUL) 20,463,"Emperor Honorius, who lived like a monk.",4r,,,4v,,,5,,,FALSE,,,,FALSE,,fols. 04rv: Fifth Miracle of Mary,How the Virgin Mary appeared to King Anorewos andHow she led him to the ascetic life).,,,,4,r
+PEM (PUL) 20,,,5r,,,5v,,,6,,,FALSE,,,,FALSE,,fols. 05rv: Sixth Miracle of Mary,How the Virgin Mary saved the robber’s soul from judgment because he drank from water that sprang from her feet).,,,,5,r
+PEM (PUL) 20,,,5v,,,6r,,,7,,,FALSE,,,,FALSE,,fols. 05v-6r: Seventh Miracle of Mary,"How the Virgin Mary appeared to a certain ascetic woman to reassure her about the purity of her friends, other ascetics in the monastery) (similar to twenty-second miracle later in this manuscript).",,,,5,v
+PEM (PUL) 20,167,The woman who was prevented from fasting by her husband.,6r,,,6v,,,8,,,FALSE,,,,TRUE,,fols. 06rv: Eighth Miracle of Mary,"How the Virgin Mary rebuked a woman when she gave up fasting at her husband’s command) (incomplete at the end) (Budge, Mary, 99).",,,,6,r
+PEM (PUL) 20,170,Saint Mary saves from a lion a pious monk who had drunk too much wine.,9r,,,9v,,,9,,,FALSE,,,,FALSE,,fols. 09rv: Ninth Miracle of Mary,"How the Virgin Mary saved a drunken monk from a lion (Budge, Mary, 48).",,,,9,r
+PEM (PUL) 20,216,"Saint Mary appears to Sawla, the wife of the martyr, Giyorgis Haddis.",9v,,,9v,,,10,,,FALSE,,,,TRUE,,fols. 09v: Tenth Miracle of Mary,"How the Virgin Mary helped Säwla, wife of Giyorgis (the new martyr) when she wanted to bury the remain of her husband’s body) (incomplete at the end, folios including the end missing).",,,,9,v
+PEM (PUL) 20,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,22r,,,23v,,,11,,,FALSE,,,,FALSE,,fols. 22r-23v: Eleventh Miracle of Mary,"How the Virgin Mary accepted the book of her miracles compiled by Saint Hildefonsus [Däqsəyos], Bishop of Toledo (Budge, Mary 1; Strelcyn 15.1.1, 32.16.1).",,,,22,r
+PEM (PUL) 20,400,The five sorrows of Saint Mary.,23v,,,24r,,,12,,,FALSE,,,,FALSE,,fols. 23v-24r: Twelfth Miracle of Mary,How Jesus Christ asked the Virgin Mary about her five lamentations).,,,,23,v
+PEM (PUL) 20,,,24v,,,24v,,,13,,,FALSE,,,,TRUE,,fols. 24v: Thirteenth Miracle of Mary,"How the Virgin Mary saved a certain adulterous person from his temptation in Alexandria) (incomplete at the end, folios including the end missing from manuscript).",,,,24,v
+PEM (PUL) 20,184,The pious mower of hay to whom the gatekeeper gave his daughter in marriage.,25r,,,25r,,,14,,,FALSE,,,,TRUE,,fols. 25r: Fourteenth Miracle of Mary,"How the Virgin Mary helped a young impoverished man andHow the church keeper gave his daughter to him) (incomplete at the beginning, which is at 72rv).",,,,25,r
+PEM (PUL) 20,185,The rich woman who went with the monks to the manbalis for prayer and there saw a vision of Saint Mary.,25v,,,26v,,,15,,,FALSE,,,,FALSE,,fols. 25v-26v: Fifteenth Miracle of Mary,How the Virgin Mary appeared to a certain wealthy woman who was the patron of a monastery).,,,,25,v
+PEM (PUL) 20,182,The bankrupt merchant to whom Satan offered two pearls if he would deny Christ and Saint Mary.,26r,,,27v,,,16,,,FALSE,,,,FALSE,,fols. 26r-27v: Sixteenth Miracle of Mary,How the Virgin Mary appeared to the Färäsawi when he denied Christ but kept his devotion to the Virgin Mary).,,,,26,r
+PEM (PUL) 20,204,The monk who was custodian of a church near a river and drowned while trying to cross to visit his lover.,27r,,,28v,,,17,,,FALSE,,,,FALSE,,fols. 27r-28v: Seventeenth Miracle of Mary,"How the Virgin Mary saved from the hand of a demon a monk who fell in love with a certain woman and drowned while going to visit her) (Budge, Mary, 69).",,,,27,r
+PEM (PUL) 20,205,"The nun who used to pray for the dead, but lost her virginity and died before completing her penance.",28r,,,29v,,,18,,,FALSE,,,,FALSE,,fols. 28r-29v: Eighteenth Miracle of Mary,"How the Virgin Mary saved a certain nun who died before she finished her penitence andHow she appeared to the Abbess and told herHow the Virgin Mary saved her) (similar to Romances, Cleopatra 13?).",,,,28,r
+PEM (PUL) 20,206,The nun whom Saint Mary admonished to recite the Hail Mary more attentively.,29r,,,29v,,,19,,,FALSE,,,,FALSE,,fols. 29rv: Nineteenth Miracle of Mary,How the Virgin Mary helped a certain nun by encouraging her to pray Hail Mary everywhere).,,,,29,r
+PEM (PUL) 20,,,29v,,,30v,,,20,,,FALSE,,,,FALSE,,fols. 29v-30v: Twentieth Miracle of Mary,"How the icon of the Virgin Mary bled when a certain Jew cast it to the ground) (Budge, Mary, 68).",,,,29,v
+PEM (PUL) 20,,,30v,,,30v,,,21,,,FALSE,,,,FALSE,,fols. 30v: Twenty-first Miracle of Mary (,"zFragment: excerpt, unclear, probablyHow the Virgin Mary appeared at Däbrä Metmaq).",,,,30,v
+PEM (PUL) 20,,,31r,,,31r,,,22,,,FALSE,,,,TRUE,,fols. 31r: Twenty-second Miracle of Mary,"How the Virgin Mary appeared to the ascetic woman Arsema to reassure her about the purity of her friends, also at the monastery) (incomplete at the beginning, which is at 75r).",,,,31,r
+PEM (PUL) 20,157,The pious official who was accused of embezzlement and of having an affair with the wife of his lord.,31r,,,32r,,,23,,,FALSE,,,,FALSE,,fols. 31r-32r: Twenty-third Miracle of Mary,How the Virgin Mary saved a noble man named Armatəyas in Ephesus from hanging when he was falsely accused).,,,,31,r
+PEM (PUL) 20,20,The Arab woman who suffered from an issue of blood for many years.,32r,,,33v,,,24,,,FALSE,,,,FALSE,,fols. 32r-33v: Twenty-fourth Miracle of Mary,How the icon of the Virgin Mary at the Däbrä Qälmon monastery healed an Arab woman with hemorrhage).,,,,32,r
+PEM (PUL) 20,,,33v,,,35v,,,25,,,FALSE,,,,FALSE,,fols. 33v-35v: Twenty-fifth Miracle of Mary,"How a certain nun fled with a certain monk andHow the Virgin Mary fulfilled the duties of the nun during her absence) (Budge, Mary, 106).",,,,33,v
+PEM (PUL) 20,171,The husband who broke his vow that he would live celibately with his wife.,35v,,,37r,,,26,,,FALSE,,,,FALSE,,fols. 35v-37r: Twenty-sixth Miracle of Mary,"How the Virgin Mary saved a young man whose mother had promised him to the Devil) (Budge, Mary, 49).",,,,35,v
+PEM (PUL) 20,,,37r,,,39r,,,27,,,FALSE,,,,FALSE,,fols. 37r-39r: Twenty-seventh Miracle of Mary,"How the Virgin Mary delivered a certain Jew from a fiery furnace into which his father had cast him) (Budge, Mary, 59).",,,,37,r
+PEM (PUL) 20,,,39r,,,40r,,,28,,,FALSE,,,,FALSE,,fols. 39r-40r: Twenty-eighth Miracle of Mary,How Sybil the prophetess saw the Virgin Mary with Christ the Child inside the sun disk and revealed it to a king who did not want to be worshipped).,,,,39,r
+PEM (PUL) 20,144,The pilgrim to Santiago whom Satan persuaded to mutilate himself after falling into a sexual sin.,40r,,,41v,,,29,,,FALSE,,,,FALSE,,fols. 40r-41v: Twenty-ninth Miracle of Mary,"How the Virgin Mary obtained forgiveness for a monk named Ḥərnay who had mutilated himself and died under the influence of Satan in disguise as a saint Mar Ya’əqob [Jacob]) (Budge, Mary 101).",,,,40,r
+PEM (PUL) 20,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,41v,,,42r,,,30,,,FALSE,,,,FALSE,,fols. 41v-42r: Thirtieth Miracle of Mary,"How the Virgin Mary spoke from her picture to a devout worshipper) (Budge, Mary 2; Strelcyn 15.1.3, 32.16.2).",,,,41,v
+PEM (PUL) 20,161,The pious monk (or: the Jew from Akhmim) whom Saint Mary made young.,42r,,,43r,,,31,,,FALSE,,,,FALSE,,fols. 42r-43r: Thirty-first Miracle of Mary,"How the Virgin Mary healed the Jew of Akəmim, an elderly priest, when he fell and broke his back during his service in her church) (Budge, Mary, 3).",,,,42,r
+PEM (PUL) 20,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,43r,,,44r,,,32,,,FALSE,,,,FALSE,,fols. 43r-44: Thirty-second Miracle of Mary,"How the Virgin Mary appeared to the dying scribe Damianus of Philippi ) (Budge, Mary, 4).",,,,43,r
+PEM (PUL) 20,19,"The monk, Yǝsḥaq, who prayed for seven years that Saint Mary would appear to him.",44r,,,45r,,,33,,,FALSE,,,,FALSE,,fols. 44r-45r: Thirty-third Miracle of Mary,"How the Virgin Mary appeared to Isaac, the elderly monk, and promised to take him to herself after three days) (Budge, Mary, 6).",,,,44,r
+PEM (PUL) 20,27,"Maryam from Dǝfrā, a child who wanted to receive Communion but was shut up in the house when her family went to church.",45r,,,46r,,,34,,,FALSE,,,,FALSE,,fols. 45r-46r: Thirty-fourth Miracle of Mary,"How the Virgin Mary appeared out of her picture to Mary, the daughter of a certain God-fearing man, and promised to take her to Paradise after three days) (Budge, Mary, 7).",,,,45,r
+PEM (PUL) 20,33,The French artist who fell from the scaffolding while painting frescoes.,46r,,,47r,,,35,,,FALSE,,,,FALSE,,fols. 46r-47r: Thirty-fifth Miracle of Mary,"How a painter was saved by the Virgin Mary when he fell from a scaffold) (Budge, Mary, 8).",,,,46,r
+PEM (PUL) 20,54,Saint Mary carries a dying monk to Jerusalem.,47r,,,48r,,,36,,,FALSE,,,,FALSE,,fols. 47r-48r: Thirty-sixth Miracle of Mary,"How the Virgin Mary carried a sick person from the Monastery of the Pilgrims to Jerusalem and showed him where Jesus was crucified and buried and baptized him in the waters of the Jordan) (Budge, Mary, 9).",,,,47,r
+PEM (PUL) 20,154,The two women who were attacked by robbers on their way to church.,48r,,,48v,,,37,,,FALSE,,,,FALSE,,fols. 48r-v: Thirty-seventh Miracle of Mary,"How the Virgin Mary recovered the stolen property of two women called Juliana and Barbara, when they were on pilgrimage to Jerusalem) (Budge, Mary, 11; Strelcyn 32.16. 11).",,,,48,r
+PEM (PUL) 20,46,The church of Saint Mary that moved by itself to the shore of the Mediterranean Sea.,48v,,,49v,,,38,,,FALSE,,,,FALSE,,fols. 48v-49v: Thirty-eighth Miracle of Mary,"How the Virgin Mary moved the Monastery in Greece to Jericho road) (Budge, Mary, 13; Strelcyn 32.16. 13).",,,,48,v
+PEM (PUL) 20,48,The rich man from Colosse who was wounded in the eye while fighting the Qwez.,49v,,,50v,,,39,,,FALSE,,,,FALSE,,fols. 49v-50v-r: Thirty-ninth Miracle of Mary,"How the Virgin Mary healed the merchant from Colossae after being shot in the eye with an arrow by pirates) (Budge, Mary, 15; Strelcyn 32.16. 15).",,,,49,v
+PEM (PUL) 20,57,The widow who could not find husbands for her three daughters.,50v,,,51v,,,40,,,FALSE,,,,FALSE,,fols. 50v-51v: Fortieth Miracle of Mary,"How the Virgin Mary arranged marriages for two poor girls called Martha and Yäwahit) (Budge, Mary, 17; Strelcyn 32.16. 17).",,,,50,v
+PEM (PUL) 20,61,The two brothers who copied the Miracles of Mary and fell into the doing of a sin.,51v,,,52v,,,41,,,FALSE,,,,FALSE,,fols. 51v-52v: Forty-first Miracle of Mary,"How the Virgin Mary delivered the soul of the scribe who was writing the book of her miracles when the demons took him by mistake to hell) (Budge, Mary, 18; Strelcyn 32.16.18).",,,,51,v
+PEM (PUL) 20,131,The faded icon of Saint Mary that the mother-in-law wanted to discard.,52v,,,53r,,,42,,,FALSE,,,,FALSE,,fols. 52v53r: Forty-second Miracle of Mary,How the icon of the Virgin Mary spoke to a certain woman whose mother-in-law was opposed to her devotion to the icon of the Virgin andHow the icon disappeared because of the mother-in-law’s objection).,,,,52,v
+PEM (PUL) 20,68,"Saint Mary appears to the martyr, Giyorgis Haddis, in prison.",53r,,,53v,,,43,,,FALSE,,,,FALSE,,fols. 53rv: Forty-third Miracle of Mary,"How the Virgin Mary delivered from prison a certain man called Giyorgis the New Martyr) (Budge, Mary, 19; Strelcyn 32.16. 19).",,,,53,r
+PEM (PUL) 20,,,53v,,,53v,,,,,,FALSE,,,,FALSE,,fols. 53v:,zFragment: of a Miracle about a certain priest.,,,,53,v
+PEM (PUL) 20,106,The rich man who threw dry bread to a beggar in the name of Saint Mary.,54r,,,55r,,,44,,,FALSE,,,,FALSE,,fols. 54r-55r: Forty-fourth Miracle of Mary (,"How a certain rich man called Paqlima hurled a loaf at the head of a beggar and wounded him, andHow the Virgin Mary delivered his soul from demons) (Budge, Mary, 86).",,,,54,r
+PEM (PUL) 20,109,The daughter of the rich man from Caesarea who could not deliver her baby.,55r,,,55v,,,45,,,FALSE,,,,FALSE,,fols. 55rv: Forty-fifth Miracle of Mary,How the Virgin Mary helped a certain wealthy women from Caesarea to give birth to a child when her relatives brought her to the Icon of the Virgin Mary) (not in Budge),,,,55,r
+PEM (PUL) 20,112,A poor woman with a broken leg is healed by the icon of Saint Mary in the church of Harat ar-Rum.,55v,,,55v,,,46,,,FALSE,,,,TRUE,,fols. 55v: Forty-sixth Miracle of Mary,"How the Virgin Mary healed the foot of a widow from Ḥarətärom) (incomplete at the end) (Budge, Mary, 24).",,,,55,v
+PEM (PUL) 20,,,56r,,,56v,,,47,,,FALSE,,,,TRUE,,fols. 56rv: Forty-seventh Miracle of Mary,"How the Virgin Mary appeared to a certain shepherd and promised to take him to herself in paradise andHow she lead him to a certain monastery to die there) (incomplete at the end, folio flipped, continues on 60v).",,,,56,r
+PEM (PUL) 20,165,The sinful woman who despaired when she kept on sinning and swallowed a scorpion.,57r,,,57v,,,48,,,FALSE,,,,TRUE,,fols. 57rv: Forty-eighth Miracle of Mary,How the Icon of the Virgin Mary spoke to a certain woman who swallowed scorpion when she was depressed andHow the voice from the icon led her to a certain wise man for her healing) (incomplete at the beginning).,,,,57,r
+PEM (PUL) 20,201,A ship that was about to founder is saved when they pray to Saint Mary.,57v,,,58v,,,49,,,FALSE,,,,FALSE,,fols. 57v-58v: Forty-ninth Miracle of Mary,How the Virgin Mary saved the people on a certain ship on the sea when they were caught in a powerful storm).,,,,57,v
+PEM (PUL) 20,200,The young man who offered the ring he had received from his girlfriend to the icon of Saint Mary.,58v,,,59v,,,50,,,FALSE,,,,TRUE,,fols. 58v-59v and 61rv: Fiftieth Miracle of Mary,"How a certain young man placed a ring on the finger of a icon of the Virgin Mary andHow the virgin regarded it as an engagement ring) (incomplete at the end, which appears on 61rv) (Budge, Mary, 67).",,,,58,v
+PEM (PUL) 20,,,60r,,,60v,,,51,,,FALSE,,,,TRUE,,fols. 60rv: Fifty-first Miracle of Mary,"How the Virgin Mary sent the shepherd to the monastery andHow he died after he blessed the monks in the monastery) (incomplete at the beginning, a continuation of fol. 56v).",,,,60,r
+,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,
+PEM (PUL) 20,,,61v,,,61v,,,52,,,FALSE,,,,FALSE,,fols. 61v: Fifty-second Miracle of Mary,How the Virgin Mary helped a certain church whose leader had died very recently) (excerpt).,,,,61,v
+PEM (PUL) 20,,,62r,,,62v,,,53,,,FALSE,,,,FALSE,,fols. 62rv: Fifty-third Miracle of Mary,How the Virgin Mary saved a certain evil wealthy man’s soul from demons andHow she took him in to paradise).,,,,62,r
+PEM (PUL) 20,,,62v,,,62v,,,54,,,FALSE,,,,TRUE,,fols. 62v: Fifty-fourth Miracle of Mary,"How the Virgin Mary saved the soul of a wicked monastic leader after he died because he was devoted to her andHow he appeared to his disciple and told himHow she saved him from hell) (incomplete at the end, which is at 64rv).",,,,62,v
+PEM (PUL) 20,99,"The stone-footed man (i. e., a man with gout) from France.",63r,,,63v,,,55,,,FALSE,,,,TRUE,,fols. 63rv: Fifty-fifth Miracle of Mary,"How the Virgin Mary healed a man with a stone foot) (Budge, Mary, 22; Strelcyn 32.16.22) (incomplete at the end).",,,,63,r
+PEM (PUL) 20,,,64r,,,64v,,,56,,,FALSE,,,,TRUE,,fols. 64rv: Fifty-six Miracle of Mary,"How the Virgin Mary saved the soul of certain monk after he died) (incomplete at the beginning, which is at 61v).",,,,64,r
+PEM (PUL) 20,,,64v,,,64v,,,57,,,FALSE,,,,TRUE,,fols. 64v: Fifty-seven Miracle of Mary,"zFragment: our-line fragment, does not continue on 65r).",,,,64,v
+PEM (PUL) 20,,,65r,,,65r,,,58,,,FALSE,,,,TRUE,,fols. 65r: Fifty-eighth Miracle of Mary,zFragment: does not continue from 64v).,,,,65,r
+PEM (PUL) 20,,,65r,,,66r,,,59,,,FALSE,,,,FALSE,,fols. 65r-66r: Fifty-ninth Miracle of Mary,How the Virgin Mary saved the thief from hanging).,,,,65,r
+PEM (PUL) 20,55,Some of the deceased great Fathers of the Desert appear to the monks of Scete.,66r,,,66v,,,60,,,FALSE,,,,FALSE,,fols. 66r-68r: Sixty-first Miracle of Mary,How the Virgin Mary brought water to the well of Däbrä Məṭmaq).,,,,66,r
+PEM (PUL) 20,,,66r,,,68r,,,61,,,FALSE,,,,FALSE,,fols. 66rv: Sixtieth Miracle of Mary,How the Virgin Mary appeared in the monastery of Asqeṭəs with the church fathers).,,,,66,r
+PEM (PUL) 20,,,68r,,,69v,,,62,,,FALSE,,,,FALSE,,fols. 68r-69v: Sixty-second Miracle of Mary,How the Virgin Mary appeared to Deacon Yoḥannəs in the Pillar of Light).,,,,68,r
+PEM (PUL) 20,378,Saint Mary appears to Yohannes Kama.,70r,,,71r,,,63,,,FALSE,,,,FALSE,,fols. 70r-71r: Sixty-third Miracle of Mary,How the Virgin Mary appeared to Yoḥannəs Käma andHow she commanded him to build a church).,,,,70,r
+PEM (PUL) 20,,,71r,,,72r,,,64,,,FALSE,,,,FALSE,,fols. 71r-72r: Sixty-fourth Miracle of Mary,How the Virgin Mary punished the son of the king of the Egypt when he challenged the Virgin Mary and Jesus Christ ).,,,,71,r
+PEM (PUL) 20,184,The pious mower of hay to whom the gatekeeper gave his daughter in marriage.,72r,,,72v,,,65,,,FALSE,,,,TRUE,,fols. 72rv: Sixty-fifth Miracle of Mary,"How the Virgin Mary helped a young impoverished man andHow the church keeper gave his daughter to him) (incomplete, the end of the story is at 25r).",,,,72,r
+PEM (PUL) 20,190,The Muslim who found an icon of Saint Mary in his house.,73r,,,73v,,,66,,,FALSE,,,,TRUE,,fols. 73rv: Sixty-sixth Miracle of Mary,"How the icon of the Virgin Mary exuded oil and milk) (incomplete at the beginning) (Budge, Mary, 59).",,,,73,r
+PEM (PUL) 20,189,The mighty Goliath threatens to destroy the monastery of Saint Mary.,73v,,,74v,,,67,,,FALSE,,,,FALSE,,fols. 73v-74v: Sixty-seventh Miracle of Mary,"How the Virgin Mary raised a dead martyred knight to fight against an enemy of the church called Goliath (Goləyəd) (Budge, Mary, 60).",,,,73,v
+PEM (PUL) 20,,,75r,,,75r,,,68,,,FALSE,,,,TRUE,,fols. 75r: Sixty-eighth Miracle of Mary,"How the Virgin Mary left her handprint in the icon of the Virgin Mary when a certain priest burned incense and bowed to her icon andHow she brought holy water inside the church andHow Elarəya, daughter of King Zänun, left for the monastic life at Asqeṭǝs) (fragment)",,,,75,r
+PEM (PUL) 20,,,75r,,,75v,,,69,,,FALSE,,,,TRUE,,fols. 75rv: Sixty-ninth Miracle of Mary,"How the Virgin Mary appeared to an ascetic woman named Arsema to reassure her about the purity of her friends, also at the monastery) (incomplete at the end, the end is at 31r) (repeated).",,,,75,r
+PEM (PUL) 20,115,The son of a rich official of Cappadocia is raised from the dead.,76r,,,76v,,,70,,,FALSE,,,,TRUE,,fols. 76rv: Seventieth Miracle of Mary,How the Virgin Mary raised from the dead a certain man’s son) (incomplete at the beginning).,,,,76,r
+PEM (PUL) 20,,,76v,,,76v,,,71,,,FALSE,,,,TRUE,,fols. 76v: Seventy-first Miracle of Mary,"How the Virgin Mary helped a wicked prince who was devoted to the Virgin Mary but became mad) (incomplete at the end, see 79rv for end).",,,,76,v
+PEM (PUL) 20,182,The bankrupt merchant to whom Satan offered two pearls if he would deny Christ and Saint Mary.,77r,,,77v,,,71,,,FALSE,,,,TRUE,,fols. 77rv: Seventy-second Miracle of Mary,How the Virgin Mary saved the soul of a young man who denied God and the angels but kept his faith in the Virgin Mary) (excerpt).,,,,77,r
+PEM (PUL) 20,197,The Jew of Constantinople who threw an icon of Saint Mary into the latrine.,78r,,,78v,,,73,,,FALSE,,,,FALSE,,fols. 78rv: Seventy-third Miracle of Mary,"How a certain Jew of Constantinople threw to the ground a picture of the Virgin Mary and when it was restored it exuded oil that healed many) (Budge, Mary, 45).",,,,78,r
+PEM (PUL) 20,,,79r,,,79v,,,74,,,FALSE,,,,TRUE,,fols. 79rv: Seventy-fourth Miracle of Mary,"How the Virgin Mary wicked prince who was devoted to the Virgin Mary but became mad) (incomplete at the beginning, see 76r for beginning).",,,,79,r
+PEM (PUL) 20,132,The woman from Cairo whose children all died.,79v,,,80r,,,76,,,FALSE,,,,FALSE,,fols. 79v-80r: Seventy-fifth Miracle of Mary,How the Virgin Mary gave children to a certain woman whose nine children had died when the woman promised that they would become priests and deacons).,,,,79,v
+PEM (PUL) 20,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,80r,,,81r,,,76,,,FALSE,,,,FALSE,,fols. 80r-81r: Seventy-sixth Miracle of Mary,"How the Virgin Mary received the soul of Barok, a dissolute man) (Budge, Mary, 26).",,,,80,r
+PEM (PUL) 20,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",81r,,,81v,,,77,,,FALSE,,,,FALSE,,fols. 81rv: Seventy-seventh Miracle of Mary,"How the Virgin Mary received the soul of Anəsəṭasəyos of Rome) (Budge, Mary, 27).",,,,81,r
+PEM (PUL) 20,7,The monk of Däbrä Qaləmon who did not fast.,81v,,,82r,,,78,,,FALSE,,,,FALSE,,fols. 81v-82r: Seventy-eighth Miracle of Mary,"How the Virgin Mary helped a monk to escape the monastery of Qäləmon when persecuted by other monks when he breached the wall of the church by hitting it with his skull cap) (Budge, Mary, 28; Strelcyn 32.16.28).",,,,81,v
+PEM (PUL) 20,,,82r,,,82v,,,79,,,FALSE,,,,FALSE,,fols. 82rv: Seventy-ninth Miracle of Mary,How the Virgin Mary saved a thief from his persecutors).,,,,82,r
+PEM (PUL) 20,,,82v,,,83r,,,80,,,FALSE,,,,FALSE,,fols. 82v-83r: Eightieth Miracle of Mary,"How the Virgin Mary saved the woman in childbirth from drowning) (Budge, Mary, 32; Strelcyn 32.16. 31; Bland 2, also Vincent de Beauvais).",,,,82,v
+PEM (PUL) 20,236,Saint Mary gives a thirsty dog water to drink from her shoe.,83r,,,84r,,,81,,,FALSE,,,,FALSE,,fols. 83r-84r: Eighty-first Miracle of Mary,"How the Virgin Mary gave water to a thirsty dog) (Budge, Mary, 33; Strelcyn 32.16. 32).",,,,83,r
+PEM (PUL) 20,404,Saint Mary gives a garment to a poor monk.,84r,,,84r,,,82,,,FALSE,,,,FALSE,,fols. 84r: Eighty-second Miracle of Mary,"How the Virgin Mary gave a garment to a monk) (Budge, Mary, 93).",,,,84,r
+PEM (PUL) 20,,,84r,,,85r,,,83,,,FALSE,,,,FALSE,,fols. 84r-85r: Eighty-third Miracle of Mary,How the Virgin Mary begged her son to forgive the sins of a wealthy evil man).,,,,84,r
+PEM (PUL) 20,,,85r,,,85v,,,84,,,FALSE,,,,FALSE,,fols. 85rv: Eighty-fourth Miracle of Mary,How the Virgin Mary appeared before a certain woman in the monastery during church service).,,,,85,r
+PEM (PUL) 20,229,The blessing given to the animals at Däbrä Qʷəsqʷam by the anointing of Saint Mary.,85v,,,86v,,,85,,,FALSE,,,,FALSE,,fols. 85v-86v: Eighty-fifth Miracle of Mary,"How the Virgin Mary anointed the animal’s feet while she was at Däbrä Qʷusəqʷam, according to Saint Anthony).",,,,85,v
+PEM (PUL) 20,224,"Saint Mary appears to Anthony, a monk of Däbrä Qʷəsqʷam.",86v,,,87r,,,86,,,FALSE,,,,FALSE,,fols. 86v-87r: Eighty-sixth Miracle of Mary,"How the Virgin Mary appeared at Däbrä Qʷusəqʷam, according to Saint Anthony).",,,,86,v
+PEM (PUL) 20,170,Saint Mary saves from a lion a pious monk who had drunk too much wine.,87r,,,87v,,,87,,,FALSE,,,,FALSE,,fols. 87rv: Eighty-seventh Miracle of Mary,"How the Virgin Mary saved Timothy, a drunken monk, from a lion) (Budge, Mary, 48).",,,,87,r
+PEM (PUL) 20,,,87v,,,87v,,,88,,,FALSE,,,,FALSE,,fols. 87v: Eighty-eighth Miracle of Mary,How the Virgin Mary performed a miracle on her feast day at Wäme[?]) (excerpt).,,,,87,v
+PEM (PUL) 20,,,88r,,,88r,,,89,,,FALSE,,,,TRUE,,fols. 88r: Eighty-ninth Miracle of Mary,How the Church of the Virgin Mary in Getheseman will be an ark at the time of Christ’s coming) (incomplete at the beginning).,,,,88,r
+PEM (PUL) 20,,,88r,,,88v,,,90,,,FALSE,,,,TRUE,,fols. 88rv: Ninetieth Miracle of Mary,"How a certain priest left his handprint in the icon of the Virgin Mary when he bowed to her andHow the Virgin Mary brought holy water inside the church andHow Elarəya, daughter of King Zänun, left for the monastic life at Asqeṭǝs) (incomplete, the end is at 75v?).",,,,88,r
+PEM (PUL) 20,,,89r,,,89r,,,91,,,FALSE,,,,TRUE,,fols. 89r: Ninety-first Miracle of Mary,How the Virgin Mary helped a sick monk to receive the holy communion)(incomplete at the beginning).,,,,89,r
+PEM (PUL) 20,184,The pious mower of hay to whom the gatekeeper gave his daughter in marriage.,90r,,,90r,,,92,,,FALSE,,,,TRUE,,fols. 90r: Ninety-second Miracle of Mary,How the Virgin Mary helped a young impoverished man by appearing as a wealthy woman to the father of a young woman and giving him the money needed for the young man to marry her) (excerpt).,,,,90,r
+PEM (PUL) 20,,,90r,,,90v,,,93,,,FALSE,,,,TRUE,,fols. 90rv: Ninety-third Miracle of Mary,How the Virgin Mary persuaded her son to forgive the Ishamalite by telling him that he could no longer sit on her lap unless he forgave the man) (incomplete at the end).,,,,90,r
+PEM (PUL) 20,,,91r,,,91v,,,94,,,FALSE,,,,TRUE,,fols. 91rv: Ninety-fourth Miracle of Mary,How during her festival the Virgin Mary took a certain woman into paradise) (incomplete at the beginning).,,,,91,r
+PEM (PUL) 23,125,The story of the cannibal from Qemer.,24v,,,28v,,,1,,,FALSE,,,,FALSE,,fols. 24v-28v: First Miracle of Mary,"How the Virgin Mary saved the soul of the cannibal of Qəmər) (Budge, Mary, 29; Strelcyn 32.16.29).",,,,24,v
+PEM (PUL) 23,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,28v,,,29v,,,2,,,FALSE,,,,FALSE,,fols. 28v-29v: Second Miracle of Mary,"How the Virgin Mary spoke from her picture to a devout worshipper) (Budge, Mary 2; Strelcyn 15.1.3, 32.16.2).",,,,28,v
+PEM (PUL) 23,54,Saint Mary carries a dying monk to Jerusalem.,29v,,,31r,,,3,,,FALSE,,,,FALSE,,fols. 29v-31r: Third Miracle of Mary,"How the Virgin Mary carried a sick person from the Monastery of the Pilgrims to Jerusalem and showed him where Jesus was crucified and buried and baptized him in the waters of the Jordan) (Budge, Mary, 9; Strelcyn 32.16.9.",,,,29,v
+PEM (PUL) 23,153,The young man who used to bring roses to the icon of Saint Mary.,31r,,,34v,,,4,,,FALSE,,,,FALSE,,fols. 31r-34v: Fourth Miracle of Mary,"How the Virgin Mary appeared to a Roman youth called Zacharias who crowned her icon with roses andHow she saved him from bandits because they saw roses flowing from his mouth when he recited her Hail Mary andHow they converted and became monks) (Budge, Mary, 10).",,,,31,r
+PEM (PUL) 23,109,The daughter of the rich man from Caesarea who could not deliver her baby.,34v,,,35v,,,5,,,FALSE,,,,FALSE,,fols. 34v-35v: Fifth Miracle of Mary,How the Virgin Mary helped a wealthy woman from Caesarea during a painful childbirth) (not in Budge).,,,,34,v
 PEM (PUL) 41,,,6v,,,12r,,,1,,,FALSE,,,,FALSE,,,,,,,6,v
 PEM (PUL) 41,316-A,"Mary, Conception of cycle: The conception and nativity of Saint Mary.",13r,,,14v,,,2,,,FALSE,,,,FALSE,,,,,,,13,r
 PEM (PUL) 41,316-D,"Mary, Childhood of cycle: When she is three years old, Saint Mary is taken to the Temple.",14v,,,15v,,,3,,,FALSE,,,,FALSE,,,,,,,14,v
