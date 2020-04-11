@@ -1,17 +1,15 @@
 Name,Region,Notes,,Town/Country
-Africa confirmed (Ethiopia or Egypt),Africa confirmed,,,Ethiopia or Egypt
+Africa confirmed,Africa confirmed,,,
 Africa Egypt confirmed,Africa Egypt confirmed,,,
 Africa Ethiopia confirmed,Africa Ethiopia confirmed,,,
 Africa Egypt confirmed (Scete),Africa Egypt confirmed,,,Scete
 Africa Egypt confirmed (Däbrä Metmaq),Africa Egypt confirmed,,,Däbrä Metmaq
-Africa Ethiopia confirmed,Africa Ethiopia confirmed,,,
 ,,,,
+Africa probably,Africa probably,,,
 Africa Egypt probably,Africa Egypt probably,,,
 Africa Ethiopia probably,Africa Ethiopia probably,,,
-Africa confirmed,Africa confirmed,,,
 ,,,,
-,,,,
-,,,,
+,Europe confirmed,,,
 "Europe confirmed (Montserrat, France)",Europe confirmed,,,"Montserrat, France"
 Europe confirmed (France),Europe confirmed,,,France
 Europe confirmed (Germany),Europe confirmed,,,Germany
@@ -23,8 +21,9 @@ Europe confirmed (Ireland),Europe confirmed,,,Ireland
 Europe confirmed (Scotland),Europe confirmed,,,Scotland
 Europe confirmed (Greece),Europe confirmed,,,Greece
 Europe confirmed (Hungary),Europe confirmed,,,Hungary
-Europe probably (Poland),Europe probably,,,Poland
-Europe confirmed,Europe confirmed,,,
+,,,,
+Europe probably,Europe probably,,,
+,Europe probably,,,Poland
 Europe probably (France),Europe probably,,,France
 Europe probably (Germany),Europe probably,,,Germany
 Europe probably (Aragon),Europe probably,,,Aragon
@@ -37,21 +36,13 @@ Europe probably (Hungary),Europe probably,,,Hungary
 Europe probably (Poland),Europe probably,,,Poland
 Europe probably,Europe probably,,,
 ,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
+Levant confirmed,Levant confirmed,,,
 Levant confirmed (Jerusalem),Levant confirmed,,,Jerusalem
 Levant confirmed (Bethlehem),Levant confirmed,,,Bethlehem
 Levant confirmed (Syria),Levant confirmed,,,Syria
 Levant confirmed,Levant confirmed,,,
+,,,,
+,Levant probably,,,
 Levant probably (Jerusalem),Levant probably,,,Jerusalem
 Levant probably (Bethlehem),Levant probably,,,Bethlehem
 Levant probably (Syria),Levant probably,,,Syria
