@@ -9,7 +9,7 @@ Africa probably,Africa probably,,,
 Africa Egypt probably,Africa Egypt probably,,,
 Africa Ethiopia probably,Africa Ethiopia probably,,,
 ,,,,
-,Europe confirmed,,,
+Europe confirmed,Europe confirmed,,,
 "Europe confirmed (Montserrat, France)",Europe confirmed,,,"Montserrat, France"
 Europe confirmed (France),Europe confirmed,,,France
 Europe confirmed (Germany),Europe confirmed,,,Germany
@@ -23,7 +23,7 @@ Europe confirmed (Greece),Europe confirmed,,,Greece
 Europe confirmed (Hungary),Europe confirmed,,,Hungary
 ,,,,
 Europe probably,Europe probably,,,
-,Europe probably,,,Poland
+Europe probably (Poland),Europe probably,,,Poland
 Europe probably (France),Europe probably,,,France
 Europe probably (Germany),Europe probably,,,Germany
 Europe probably (Aragon),Europe probably,,,Aragon
@@ -42,7 +42,7 @@ Levant confirmed (Bethlehem),Levant confirmed,,,Bethlehem
 Levant confirmed (Syria),Levant confirmed,,,Syria
 Levant confirmed,Levant confirmed,,,
 ,,,,
-,Levant probably,,,
+Levant probably,Levant probably,,,
 Levant probably (Jerusalem),Levant probably,,,Jerusalem
 Levant probably (Bethlehem),Levant probably,,,Bethlehem
 Levant probably (Syria),Levant probably,,,Syria
