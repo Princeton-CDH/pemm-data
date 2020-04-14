@@ -1,7 +1,7 @@
 Manuscript Name,ID,Title,Collection,Original Collection,Total Stories,Total Folios,Total Pages,Century,Date Range Start,Date Range End,Date Note,Provenance,Link,Notes,,Columns per page,Lines per column,Characters per line,Hamburg MS ID,Latitude,Longitude,Place of Origin
 B-Dublin (CBL) 914,914,,B-Dublin (CBL),,39,,,1769-77,,,,,not online 3/22/2020,,,,,,,,,
 B-Oslo (SCOL) 248,248,,B-Oslo (SCOL),,35,,,Late 17th,,,,,,,,,,,,,,
-C-Berlin (BS) 1,1,,C-Berlin (BS),,86,,,17-18th,,,,,,,,,,,,,,
+C-Berlin (BS) 1,1,,C-Berlin (BS),,86,,,end of 17th-beg of 18th says Cerulli,,,Date from catalog,,,"Cerulli says it has 85 stories; says ms no is ""Berlin code of the StaatsBibliothek: Petermann II Nach 45""; Cerulli says no information on where it comes from",,,,,,,,Unknown
 C-Dublin (CBL) 915,915,,C-Dublin (CBL),,1,,,19th,,,,,,,,,,,,,,
 C-Dublin (CBL) 950,950,,C-Dublin (CBL),,2,,,17th,,,,,,,,,,,,,,
 C-Dublin (CBL) 951,951,,C-Dublin (CBL),,34,,,19th,,,,,,,,,,,,,,
@@ -19,9 +19,9 @@ Duke (Duke) 12,12,,Duke (Duke),,96,,,19-20th,,,,,,,,,,,,,,
 EMDL (HMML) 2,2,,EMDL (HMML),,0,,,,,,,,,,,,,,,,,
 EMDL (HMML) 681,681,,EMDL (HMML),,13,,,,,,,,,,,,,,,,,
 EMIP (EMIP) 253,253,,EMIP (EMIP),,2,,,19th,1800,1899,,,,,,,,,EMIP00253,,,
-EMIP (EMIP) 601,601,,EMIP (EMIP),,380,199,,20th,1950,1950,,,,,,,,,EMIP00601,,,
-EMIP (EMIP) 3238,3238,,EMIP (EMIP),,0,46,,,,,,,,,,,,,,,,
-EMML (HMML) 22,22,Tamere Mariyam.,EMML (HMML),,77,,,19-20th,,,,St. Markos (Mark) Church,,,,,,,EMML22,,,"South: Addis Ababa, Enṭoṭṭo"
+EMIP (EMIP) 601,601,,EMIP (EMIP),,380,199,,20th,1950,1950,,"Mekane Yesus Library, digitized at",,EMIP 601 = MYS 1,,,,,EMIP00601,,,"South: Addis Ababa, Ledata"
+EMIP (EMIP) 3238,3238,,EMIP (EMIP),,0,46,,19th,,,Date from catalog,,,Weiner Codex 463 = EMIP 3238 ,,,,,,,,
+EMML (HMML) 22,22,Tamere Mariyam.,EMML (HMML),,77,,,19-20th,,,,"St. Markos (Mark) Church, microfilmed at",,,,,,,EMML22,,,"South: Addis Ababa, Enṭoṭṭo"
 EMML (HMML) 76,76,Te'amire Mariam.,EMML (HMML),,37,,,Late 19th,,,,St. Ragu'el Church,,,,,,,EMML76,,,"South: Addis Ababa, Enṭoṭṭo"
 EMML (HMML) 142,142,Te'amire Mariam.,EMML (HMML),,3,,,19-20th,,,,St. Urael Church,,,,,,,EMML142,,,"South: Addis Ababa, Bole"
 EMML (HMML) 168,168,,EMML (HMML),,3,,,1918-19,,,,St. Stephen Church,,,,,,,EMML168,,,"South: Addis Ababa, Bole"
@@ -202,7 +202,7 @@ H-Berlin (BS) 158,158,,H-Berlin (BS),,1,,,17-18th,,,,,,,,,,,,,,
 L-Uppsala (UU) 30,30,,L-Uppsala (UU),,71,,,16th-17th,,,,,,,,,,,,,,
 L-Uppsala (UU) 31,31,,L-Uppsala (UU),,17,,,1563-97,,,,,,,,,,,,,,
 L-Uppsala (UU) 32,32,,L-Uppsala (UU),,46,,,1883-1913,,,,,,,,,,,,,,
-M-Dourgne (AEC) 1,1,,M-Dourgne (AEC),,75,,,16th,,,Date from king's name,,,,,,,,,,,
+M-Dourgne (AEC) 1,1,,M-Dourgne (AEC),,75,,,16th,,,,,,,,,,,,,,
 M-SWE (SWE) 15,15,,M-SWE (SWE),,9,,,Early 19th,,,,,,,,,,,,,,
 PEM (PUL) 8,8,,PEM (PUL),,27,,,1700-1750,,,Date from ms (paleography),,,"Manuscript old and damaged, some top parts of folios missing; so some characters illegible; technical problem--PUL did not photograph some folios; PUL Catalog dated this manuscript to 1800s, but that is too late, says Vita.",,2,15,8,,,,
 PEM (PUL) 20,20,,PEM (PUL),,95,,,,,,,,,,,,,,,,,
