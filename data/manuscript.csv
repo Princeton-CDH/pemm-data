@@ -1,4 +1,4 @@
-Manuscript Name,ID,Title,Collection,Original Collection,Total Stories,Total Folios,Total Pages,Century,Date Range Start,Date Range End,Date Note,Provenance,Link,Notes,,Columns per page,Lines per column,Characters per line,Hamburg MS ID,Latitude,Longitude,Place of Origin
+Manuscript Name,ID,Title,Collection,Original Collection,Total Stories,Total Folios,Total Pages,Century,Date Range Start,Date Range End,Date Note,Provenance,Link,Notes,,Columns per page,Lines per column,Characters per line,Hamburg MS ID,Latitude,Longitude,Place Recorded in (not place of origin)
 B-Dublin (CBL) 914,914,,B-Dublin (CBL),,39,,,1769-77,,,,,not online 3/22/2020,,,,,,,,,
 B-Oslo (SCOL) 248,248,,B-Oslo (SCOL),,35,,,Late 17th,,,,,,,,,,,,,,
 C-Berlin (BS) 1,1,,C-Berlin (BS),,86,,,end of 17th-beg of 18th says Cerulli,,,Date from catalog,,,"Cerulli says it has 85 stories; says ms no is ""Berlin code of the StaatsBibliothek: Petermann II Nach 45""; Cerulli says no information on where it comes from",,,,,,,,Unknown
@@ -213,11 +213,11 @@ PEM (PUL) 46,46,,PEM (PUL),,142,,,,,,,,,,,,,,,,,
 PEM (PUL) 47,47,,PEM (PUL),,41,,,,,,,,,,,,,,,,,
 S-London (BL) 14,14,"Arde't-Salot Za-Muse -- Miracles of the Virgin Mary, of Gabra Manfas Qeddus, and of the Archangel Michael",S-London (BL),,1,90,,19th,,,,,,"Indeed, only one Miracle of Mary (evidence: catalogue).",,2,21,,,,,
 S-London (BL) 15,15,Miracles of the Virgin Mary -- Miracles of the Archangel Michael -- Miscellanea,S-London (BL),,6,32,,16-17th,,,,,,"Seven Miracles of Mary, but the folio with the first miracle is wanting. 15-16th centuries according to the catalogue.",,1,9-14,,,,,
-S-London (BL) 17,17,Psalter,S-London (BL),,6,169,,19th,,,,,,Five Miracles of Mary are bound in before the Paslter in the 19th century.,,2,13,,,,,"Magdala, Ethiopia"
+S-London (BL) 17,17,Psalter,S-London (BL),,6,169,,19th,,,,,,Five Miracles of Mary are bound in before the Paslter in the 19th century.,,2,13,,,,,Magdala
 S-London (BL) 28,28,Psalter,S-London (BL),,1,172,,19th,,,,,,"172 ff. + 2 front flyleaves and 2 end fly-leaves unnumbered; ff 147r-172 r in two columns. Indeed, only one Miracle of Mary (evidence: catalogue).",,2,23,,,,,
 S-London (BL) 32,32,Mazmura Dengel -- Weddase Maryam -- Anqasa Berhan -- Sebhata Dengel -- Prayers and Hymns -- Genealogy of Ethiopian Monks -- Mashafa Ser'at -- Malke' of the Trinity -- Miracles of the Virgin Mary,S-London (BL),,33,166,,18th,,,,,,"Indeed, 33 miracles (evidence: catalogue)",,2,17,,,,,
 S-London (BL) 35,35,Hasaba Heg -- Kidan -- Poem in Honour of the Virgin Mary and one of her Miracles -- Weddase Maryam -- Anqasa Berhan,S-London (BL),,1,73,,17th,,,,,,"Indeed, only one Miracle of Mary (evidence: catalogue).",,1,13-15,,,,,
-S-London (BL) 39,39,"The Anaphora of the Virgin Mary by Cyriacus -- Mashafa Ser'at or Yahegenna Yaser'at Mashaf, Introduction to the Miracles of the Virgin Mary, in Amharic -- Three Miracles of the Virgin Mary",S-London (BL),,4,92,,20th,,,,,,Three miracles according to the catalogue.,,,12-16,,,,,
+S-London (BL) 39,39,"The Anaphora of the Virgin Mary by Cyriacus -- Mashafa Ser'at or Yahegenna Yaser'at Mashaf, Introduction to the Miracles of the Virgin Mary, in Amharic -- Three Miracles of the Virgin Mary",S-London (BL),,4,92,,20th,,,,,,Three miracles according to the catalogue.,,1,12-16,,,,,
 S-Paris (BNF) 381,381,,S-Paris (BNF),,1,,,18-19th,,,,,,,,,,,,,,
 S-Rome (ANL) 23,23,,S-Rome (ANL),,34,,,20th,,,,,,,,,,,,,,
 S-Rome (ANL) 43,43,,S-Rome (ANL),,34,,,20th,,,,,,,,,,,,,,
