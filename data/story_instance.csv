@@ -159,6 +159,7 @@ C-Berlin (BS) 1,110,Emperor Arcadius and the golden statue of Saint Mary; he ask
 C-Berlin (BS) 1,171,The husband who broke his vow that he would live celibately with his wife.,,,,,,,83,,,FALSE,,,,FALSE,,,,,,,,,
 C-Berlin (BS) 1,126,The man who was possessed by a spirit of epilepsy [nagargar] for 47 years.,,,,,,,84,,,FALSE,,,,FALSE,,,,,,,,,
 C-Berlin (BS) 1,30,The poor man from Aragon [Spain] who was buried alive in a gold mine.,,,,,,,85,,,FALSE,,,,FALSE,,,,,,,,,
+C-Dublin (CBL) 915,384,The monk whose only good work was observing the fast of Saint Mary.,2v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,2,v
 C-Dublin (CBL) 950,470,Saint Mary receives the Pact of Mercy (kidan mehret) (Synaxary entry for the 16th of Yakkatit),,,,,,,2,,,FALSE,,,,FALSE,,,,,,,,,
 C-Dublin (CBL) 950,157,The pious official who was accused of embezzlement and of having an affair with the wife of his lord.,,,,,,,3,,,FALSE,,,,FALSE,,,,,,,,,
 C-Dublin (CBL) 951,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,,,,,,,1,,,FALSE,,,,FALSE,,,,,,,,,
@@ -475,7 +476,6 @@ C-Veroli (BGV) 1,145,The priest who could only say the Mass of the Virgin Mary.,
 C-Veroli (BGV) 1,146,The knight who wanted to seduce the daughter of the cobbler.,,,,,,,148,,,FALSE,,,,FALSE,,,,,,,,,
 C-Veroli (BGV) 1,147,The Jewish boy who received Holy Communion with his Christian companions.,,,,,,,149,,,FALSE,,,,FALSE,,,,,,,,,
 C-Veroli (BGV) 1,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,150,,,FALSE,,,,FALSE,,,,,,,,,
-W-London (BM) 77,137,The Emperor of Rome who erected an altar in his palace.,32v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,32,v
 CR-Paris (BNF) 51,68,"Saint Mary appears to the martyr, Giyorgis Haddis, in prison.",59v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,59,v
 CR-Paris (BNF) 51,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,61r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,61,r
 CR-Paris (BNF) 51,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",65v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,65,v
@@ -522,7 +522,6 @@ CR-Paris (BNF) 52,119,"Mary, Assumption of cycle: When Tafoneya lays hands on th
 CR-Paris (BNF) 52,134,The nominal Christian from Sidon who encountered a dragon.,,,,,,,44,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 52,170,Saint Mary saves from a lion a pious monk who had drunk too much wine.,,,,,,,45,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 52,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,,,,,,,47,,,FALSE,,,,FALSE,,,,,,,,,
-CR-Paris (BNF) 52,275,Saint Mary appears to Saint Theodore the Anatolian.,,,,,,,148,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 52,405,Saint Mary heals a poor man from skin disease whom people had refused to carry to church.,,,,,,,48,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 52,113,The virgin who sinned with many lovers.,,,,,,,49,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 52,383,The man who would not eat before receiving Holy Communion.,,,,,,,50,,,FALSE,,,,FALSE,,,,,,,,,
@@ -625,10 +624,10 @@ CR-Paris (BNF) 52,270,Saint Mary appears to Saint Nicholas and gives him priestl
 CR-Paris (BNF) 52,271,"Saint Mary appears to the brother of Saint Basil, Saint Gregory, bishop of ""the Islands"" (i.e. of Nyassa).",,,,,,,145,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 52,272,Saint Mary appears to Saint Paphnutius.,,,,,,,146,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 52,273,"Däbrä Qaləmon miracles: Saint Mary raises Andrew, a disciple of Abba Samuˀel of Däbrä Qaləmon, from the dead.",,,,,,,147,,,FALSE,,,,FALSE,,,,,,,,,
+CR-Paris (BNF) 52,275,Saint Mary appears to Saint Theodore the Anatolian.,,,,,,,148,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 52,164,A nun in prison for her faith prays for two virgins.,,,,,,,149,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 52,277,Vision of a certain saint about the fate of a priest who swore falsely.,,,,,,,150,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 53,14,The composition of the Wǝddāse Maryam by the Syrian potter.,,,,,,,1,,,FALSE,,,,FALSE,,,,,,,,,
-CR-Paris (BNF) 53,168,The noblewoman who was persuaded by her spiritual father to give away her fine clothes.,,,,,,,101,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 53,91,"Scete miracles: Saint Mary blesses Scete, which Saint Macarius chooses for his monastery.",,,,,,,2,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 53,127,"Saint Basil cycle: Saint Basil and the Jewish merchant of Caesarea who stole a golden plate from the church, but later became a Christian.",,,,,,,3,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 53,116,The beggar at the church of Qirqos in Amhara from whose head a horn grew.,,,,,,,4,,,FALSE,,,,FALSE,,,,,,,,,
@@ -729,6 +728,7 @@ CR-Paris (BNF) 53,159,"A nun sacristan elopes with a priest, but afterwards they
 CR-Paris (BNF) 53,160,The bee keeper who consulted a sorceress to have more honey.,,,,,,,98,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 53,165,The sinful woman who despaired when she kept on sinning and swallowed a scorpion.,,,,,,,99,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 53,166,"The prudent monk who suspected that the food that the monks were eating was harmful, but then saw Saint Mary making it tasty for them.",,,,,,,100,,,FALSE,,,,FALSE,,,,,,,,,
+CR-Paris (BNF) 53,168,The noblewoman who was persuaded by her spiritual father to give away her fine clothes.,,,,,,,101,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 53,169,The rich merchant from Constantinople who lost all his money and made the icon of Saint Mary his guarantor when he borrowed money from a usurer.,,,,,,,102,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 53,171,The husband who broke his vow that he would live celibately with his wife.,,,,,,,103,,,FALSE,,,,FALSE,,,,,,,,,
 CR-Paris (BNF) 53,185,The rich woman who went with the monks to the manbalis for prayer and there saw a vision of Saint Mary.,,,,,,,104,,,FALSE,,,,FALSE,,,,,,,,,
@@ -812,7 +812,6 @@ CR-Paris (BNF) 55,148,The pregnant woman who was caught by the tide while going 
 CR-Paris (BNF) 55,236,Saint Mary gives a thirsty dog water to drink from her shoe.,79v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,79,v
 CR-Paris (BNF) 55,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,91r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,91,r
 CR-Paris (BNF) 57,125,The story of the cannibal from Qemer.,35r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,35,r
-W-London (BM) 77,202,The Jew who attacked the icon of Saint Mary when he failed to obtain by litigation someone else's property.,102r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,102,r
 Duke (Duke) 12,210,"Thecla cycle: Thecla is taken to Alexandria to see her brother, Abba Esi, in a boat guided by the Archangels Gabriel and Sureyal.",8r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,8,r
 Duke (Duke) 12,200,The young man who offered the ring he had received from his girlfriend to the icon of Saint Mary.,9v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,9,v
 Duke (Duke) 12,165,The sinful woman who despaired when she kept on sinning and swallowed a scorpion.,11r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,11,r
@@ -1641,6 +1640,7 @@ EMML (HMML) 2058,3,Vision of Theophilus of Alexandria (continued): The Holy Fami
 EMML (HMML) 2058,5,The Frenchman whose wife was unable to have children.,23v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,23,v
 EMML (HMML) 2058,8,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,28v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,28,v
 EMML (HMML) 2058,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,29v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,29,v
+EMML (HMML) 2058,10,Qommos Raphael from Däbrä ʾƎnṣǝnā and the sacrament of confession.,30r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,30,r
 EMML (HMML) 2058,11,Däbrä Qaləmon miracles: An Arab who has contempt for Saint Mary’s icon at Däbrä Qaləmon is punished.,31r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,31,r
 EMML (HMML) 2058,12,The composition of the Maṣḥafa ḥawi by Patriarch Gabriel Ibn Tarīk.,31v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,31,v
 EMML (HMML) 2058,15,"Amnut, the custodian of a church in Egypt, quarrels with his bishop.",34r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,34,r
@@ -2685,7 +2685,6 @@ EMML (HMML) 2424,444,Saint Mary helps a poor man become wealthy.,143v,,,,,,,,,FA
 EMML (HMML) 2424,105,The withered olive tree at the gate of the church in Endules.,147r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,147,r
 EMML (HMML) 2461,471,Däbrä Metmaq miracles: The annual apparition of Saint Mary at Däbrä Metmaq,40v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,40,v
 EMML (HMML) 2461,478,The dogs of the hunter praise Saint Mary.,223v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,223,v
-EMML (HMML) 2058,10,Qommos Raphael from Däbrä ʾƎnṣǝnā and the sacrament of confession.,30r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,30,r
 EMML (HMML) 2513,294,"Mary, Conception of cycle: The descent of the holy seed from Adam to Saint Mary.",90v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,90,v
 EMML (HMML) 2550,418,"Christ, Nativity of cycle: A soldier redeems the Child Jesus from another soldier who was thinking of handing him over to King Herod.",17v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,17,v
 EMML (HMML) 2550,415,The thief who was caught stealing from the church of Saint Mary and was released by his captors when he prayed to her.,21r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,21,r
@@ -4325,7 +4324,6 @@ EMML (HMML) 5182,159,"A nun sacristan elopes with a priest, but afterwards they 
 EMML (HMML) 5182,200,The young man who offered the ring he had received from his girlfriend to the icon of Saint Mary.,32r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,32,r
 EMML (HMML) 5182,146,The knight who wanted to seduce the daughter of the cobbler.,37r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,37,r
 EMML (HMML) 5182,156,The young novice whom Saint Mary encouraged to persevere in his vocation,42r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,42,r
-EMML (HMML) 5520,157,The pious official who was accused of embezzlement and of having an affair with the wife of his lord.,154r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,154,r
 EMML (HMML) 5420,161,The pious monk (or: the Jew from Akhmim) whom Saint Mary made young.,10r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,10,r
 EMML (HMML) 5420,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,10v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,10,v
 EMML (HMML) 5420,309,Saint Mary appears to an official who kidnapped a girl that had made a vow of virginity.,11v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,11,v
@@ -4451,6 +4449,7 @@ EMML (HMML) 5520,106,The rich man who threw dry bread to a beggar in the name of
 EMML (HMML) 5520,109,The daughter of the rich man from Caesarea who could not deliver her baby.,147v,,,,,,,,ወሀለወት፡ አሐቲ፡ ብእሲት፡ እምዐባይተ፡ ሀገረ፡ ቂሳርያ፡ ወኮነ፡ አቡሃ፡ ባዕለ፡ በሕቁ፡ በወርቅ፡ ወበብሩር፡ ወበንዋየ፡ ዝንቱ፡ ዓለም፡ ኃላፊት,TRUE,High,,,FALSE,,,,,,,,147,v
 EMML (HMML) 5520,236,Saint Mary gives a thirsty dog water to drink from her shoe.,149r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,149,r
 EMML (HMML) 5520,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,150v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,150,v
+EMML (HMML) 5520,157,The pious official who was accused of embezzlement and of having an affair with the wife of his lord.,154r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,154,r
 EMML (HMML) 5520,167,The woman who was prevented from fasting by her husband.,156r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,156,r
 EMML (HMML) 5520,385,The hungry man whom Saint Mary used to feed.,157r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,157,r
 EMML (HMML) 5520,31,The cupbearer of the king of France.,158r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,158,r
@@ -5769,26 +5768,26 @@ EMML (HMML) 876,289,"Emperor Zärˀa Yaˁəqob and Batergela Maryam, who is prot
 EMML (HMML) 876,602,"A woman marries seven times, but each time her husband is killed by a demon.",199v,,,,,,,,ወካዕበ፡ ንዜንወክሙ፡ ወናየድዓክሙ፡ ንስቲተ፡ መጠነ፡ ንክል፡ ነጊረ፡ ዘገብረት፡ ተአምረ፡ ወመንክረ፡ ለአሐቲ፡ ብእሲት፡ እንተ፡ ባቲ፡ ጋኔን፡ ወይቀትል፡ ውእቱ፡ መንፈስ፡ ርኵስ፡ ኵሎ፡ ዘአውሰባ፡ ለይእቲ፡ ብእሲት፡ ወቀተለት፡ ፯፡ ዕደወ,TRUE,High,,,FALSE,,,,,,,,199,v
 EMML (HMML) 894,536,"Mary, Annuciation of cycle: The Annunciation.",2v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,2,v
 EMML (HMML) 896,559,"Däbrä Metmaq miracles: A history of Däbrä Metmaq, its construction, destruction and reconstruction.",151r,,,,,,,,ስምዑ፡ ኦአኃውየ፡ ፍቁራን፡ ክርስቶሳውያን፡ ውሉዳ፡ ለቤተ፡ ክርስቲያን፡ ንንግርክሙ፡ ዜና፡ ነገር፡ ዘይከውን፡ ውስተ፡ ቤተ፡ ክርስቲያን፡ ዘሕንጽት፡ በስማ፡ ለእግዝእትነ፡…. ስምዑ፡ በእዝነ፡ ልቡና፡ ንቤ፡ ንዜንወክሙ፡ ዜናሃ፡ ለእግዝእትነ፡ ማርያም፡ እለ፡ ታፈቅርዋ፡ ወአጽምዑ፡ በለብዎ። እስመ፡ ዝንቱ፡ ደብር፡ ማኅደረ፡ ስብሐቲሁ፡ ለእግዚአብሔር,TRUE,High,,,FALSE,,,,,,,,151,r
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
-EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
 EMML (HMML) 9002,1001,A monk falls in love with a nun at a monastery.,174r,2,,,,,,,ተብህለ፡ ከመ፡ ሀሎ፡ አሐዱ፡ ድብር፡ ዘደናግ፡ ውስተ፡ አሐቲ፡ ሀገር፡ወሀለወት፡ ውስተ፡ ውእቱ፡ ደብር፡ ብእሲት,FALSE,High,,,FALSE,,,,,,,,174,r
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+EMML (HMML) 9002,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
 EMML (HMML) 929,124,Saint Basil cycle: Saint Basil and the rich man who refused to give him a tablet [saleda] for an icon of Saint Mary.,69v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,69,v
 EMML (HMML) 929,472,"Archbishop Tilas, who was seized by Jews while carrying a golden chalice.",70v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,70,v
 EMML (HMML) 929,509,The brother of Emperor Constantine who wanted to marry the empress while Constantine was on pilgrimage to Jerusalem.,72v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,72,v
@@ -5931,6 +5930,7 @@ H-Berlin (BS) 59,173,"The two brothers from Rome, Peter, a deacon, and Stephen, 
 H-Berlin (BS) 59,174,Saint Mary saves the soul of a rich sinner who had repented and was planning to build a monastery and become a monk.,,,,,,,47,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,175,"Pachomius, the avaricious patriarch of Rome, who sold the chrism of the church.",,,,,,,48,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,176,The avaricious priest who visited a dying man who loved bribes.,,,,,,,49,,,FALSE,,,,FALSE,,,,,,,,,
+H-Berlin (BS) 59,177,The nun who was dissuaded from eloping with a knight by a vision of Hell.,,,,,,,50,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,178,The shepherd near the church of Saint Paul in Rome who was possessed by a demon.,,,,,,,51,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,179,The monk who has carried by the bretheren to church when he became too sick to walk.,,,,,,,52,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,180,The rich knight who was advised by an abbot to pray to Saint Mary to win the heart of the woman with whom he was in love.,,,,,,,53,,,FALSE,,,,FALSE,,,,,,,,,
@@ -5939,7 +5939,7 @@ H-Berlin (BS) 59,182,The bankrupt merchant to whom Satan offered two pearls if h
 H-Berlin (BS) 59,183,A herdsman saves his beasts in a storm by praying to Saint Mary.,,,,,,,56,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,184,The pious mower of hay to whom the gatekeeper gave his daughter in marriage.,,,,,,,57,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,185,The rich woman who went with the monks to the manbalis for prayer and there saw a vision of Saint Mary.,,,,,,,58,,,FALSE,,,,FALSE,,,,,,,,,
-H-Berlin (BS) 59,177,The nun who was dissuaded from eloping with a knight by a vision of Hell.,,,,,,,50,,,FALSE,,,,FALSE,,,,,,,,,
+H-Berlin (BS) 59,186,The robber whom a bishop was commanded to bury after he was executed.,,,,,,,59,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,,,,,,,60,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,74,The wife of a pagan official who wished to pray at the Holy Sepulcher is prevented until she is baptized.,,,,,,,61,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,82,"Katir, the old priest from Elkesus, who was about to be dismissed from the church.",,,,,,,62,,,FALSE,,,,FALSE,,,,,,,,,
@@ -5949,7 +5949,6 @@ H-Berlin (BS) 59,210,"Thecla cycle: Thecla is taken to Alexandria to see her bro
 H-Berlin (BS) 59,263,Saint John Chrysostom defends a woman whom Nestorius had told the people to spit upon.,,,,,,,66,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,293,"Mary, Nativity of cycle: Saint Mary heals the daughter of Arsaban while still in the womb of Saint Anne.",,,,,,,67,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,254,"Mary, Assumption of cycle: Christ, together with Saint Mary and the angels, appears to the Apostles and asks them to build churches in his name and hers throughout the world.",,,,,,,68,,,FALSE,,,,FALSE,,,,,,,,,
-H-Berlin (BS) 59,186,The robber whom a bishop was commanded to bury after he was executed.,,,,,,,59,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,255,Christ makes Saint Peter head of the Church.,,,,,,,69,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,70,The people of Romeya appeal to Patriarch Dionysius to find King Mareqos.,,,,,,,70,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,467,Samuˀel of Wali miracles: Christ orders Abba Samu'el of Wali to celebrate Mass for the feast of Saint Mary.,,,,,,,71,,,FALSE,,,,FALSE,,,,,,,,,
@@ -5976,12 +5975,12 @@ L-Uppsala (UU) 30,163,"The Muslim whom Saint Mary told to receive baptism. Later
 L-Uppsala (UU) 30,19,"The monk, Yǝsḥaq, who prayed for seven years that Saint Mary would appear to him.",,,,,,,18,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,27,"Maryam from Dǝfrā, a child who wanted to receive Communion but was shut up in the house when her family went to church.",,,,,,,19,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,33,The French artist who fell from the scaffolding while painting frescoes.,,,,,,,20,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,43,"The story of the blind priest, Yohannes Bakansi.",,,,,,,26,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,54,Saint Mary carries a dying monk to Jerusalem.,,,,,,,21,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,153,The young man who used to bring roses to the icon of Saint Mary.,,,,,,,22,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,154,The two women who were attacked by robbers on their way to church.,,,,,,,23,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,16,Three Arabs who were journeying to the Rif on the Nile in Egypt.,,,,,,,24,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,46,The church of Saint Mary that moved by itself to the shore of the Mediterranean Sea.,,,,,,,25,,,FALSE,,,,FALSE,,,,,,,,,
+L-Uppsala (UU) 30,43,"The story of the blind priest, Yohannes Bakansi.",,,,,,,26,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,48,The rich man from Colosse who was wounded in the eye while fighting the Qwez.,,,,,,,27,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,59,"Elizabeth, the blind daughter of Abraham and Gera Anest of Baderman.",,,,,,,28,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,57,The widow who could not find husbands for her three daughters.,,,,,,,29,,,FALSE,,,,FALSE,,,,,,,,,
@@ -6226,7 +6225,6 @@ PEM (PUL) 20,165,The sinful woman who despaired when she kept on sinning and swa
 PEM (PUL) 20,201,A ship that was about to founder is saved when they pray to Saint Mary.,57v,,,58v,,,49,,,FALSE,,,,FALSE,,,fols. 57v-58v: Forty-ninth Miracle of Mary,How the Virgin Mary saved the people on a certain ship on the sea when they were caught in a powerful storm).,,,,57,v
 PEM (PUL) 20,200,The young man who offered the ring he had received from his girlfriend to the icon of Saint Mary.,58v,,,59v,,,50,,,FALSE,,,,TRUE,,,fols. 58v-59v and 61rv: Fiftieth Miracle of Mary,"How a certain young man placed a ring on the finger of a icon of the Virgin Mary andHow the virgin regarded it as an engagement ring) (incomplete at the end, which appears on 61rv) (Budge, Mary, 67).",,,,58,v
 PEM (PUL) 20,,,60r,,,60v,,,51,,,FALSE,,,,TRUE,,,fols. 60rv: Fifty-first Miracle of Mary,"How the Virgin Mary sent the shepherd to the monastery andHow he died after he blessed the monks in the monastery) (incomplete at the beginning, a continuation of fol. 56v).",,,,60,r
-,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
 PEM (PUL) 20,,,61v,,,61v,,,52,,,FALSE,,,,FALSE,,,fols. 61v: Fifty-second Miracle of Mary,How the Virgin Mary helped a certain church whose leader had died very recently) (excerpt).,,,,61,v
 PEM (PUL) 20,,,62r,,,62v,,,53,,,FALSE,,,,FALSE,,,fols. 62rv: Fifty-third Miracle of Mary,How the Virgin Mary saved a certain evil wealthy man’s soul from demons andHow she took him in to paradise).,,,,62,r
 PEM (PUL) 20,,,62v,,,62v,,,54,,,FALSE,,,,TRUE,,,fols. 62v: Fifty-fourth Miracle of Mary,"How the Virgin Mary saved the soul of a wicked monastic leader after he died because he was devoted to her andHow he appeared to his disciple and told himHow she saved him from hell) (incomplete at the end, which is at 64rv).",,,,62,v
@@ -6447,7 +6445,6 @@ PEM (PUL) 46,27,"Maryam from Dǝfrā, a child who wanted to receive Communion bu
 PEM (PUL) 46,33,The French artist who fell from the scaffolding while painting frescoes.,14v,,,15v,,,9,,,FALSE,,,,FALSE,,,fols. 014v-15v: Ninth Miracle of Mary,"How a painter was saved by the Virgin Mary when he fell from a scaffold) (Budge, Mary, 8, Strelcyn ??).",,,,14,v
 PEM (PUL) 46,54,Saint Mary carries a dying monk to Jerusalem.,15v,,,16r,,,10,,,FALSE,,,,FALSE,,,fols. 015v-16r: Tenth Miracle of Mary,"How the Virgin Mary carried a sick person from the Monastery of the Pilgrims to Jerusalem and showed him where Jesus was crucified and buried and baptized him in the waters of the Jordan) (Budge, Mary, 9; Strelcyn 32.16.9.",,,,15,v
 PEM (PUL) 46,153,The young man who used to bring roses to the icon of Saint Mary.,16r,,,17r,,,11,,,FALSE,,,,FALSE,,,fols. 016r-17r: Eleventh Miracle of Mary,"How the Virgin Mary appeared to a Roman youth called Zacharias who crowned her icon with roses andHow she saved him from bandits because they saw roses flowing from his mouth when he recited her sälam andHow they converted and became monks) (Budge, Mary, 10).",,,,16,r
-PEM (PUL) 46,154,The two women who were attacked by robbers on their way to church.,17r,,,17v,,,,,,FALSE,,,,FALSE,,,fols. 017rv: Miracle of Mary,"How the Virgin Mary recovered the stolen property of two women called Juliana and Barbara, when they were on pilgrimage to Jerusalem) (Budge, Mary, 11; Strelcyn 32.16. 11).",,,,,
 PEM (PUL) 46,16,Three Arabs who were journeying to the Rif on the Nile in Egypt.,17v,,,18r,,,12,,,FALSE,,,,FALSE,,,fols. 017v-18r: Twelfth Miracle of Mary,"How the Virgin Mary saved two Muslims from the storm when they called on her name) (Budge, Mary, 12; Strelcyn 32.16. 12).",,,,17,v
 PEM (PUL) 46,46,The church of Saint Mary that moved by itself to the shore of the Mediterranean Sea.,18r,,,18v,,,13,,,FALSE,,,,FALSE,,,fols. 018rv: Thirteenth Miracle of Mary,"How the Virgin Mary moved the Monastery of Ǝkona) (Budge, Mary, 13; Strelcyn 32.16. 13).",,,,18,r
 PEM (PUL) 46,43,"The story of the blind priest, Yohannes Bakansi.",19r,,,19v,,,14,,,FALSE,,,,FALSE,,,fols. 019rv: Fourteenth Miracle of Mary,"How the Virgin Mary healed the eyes of Yoḥannəs Bäkänəsi, the blind priest in Egypt, by anointing him with milk from her breasts) (Budge, Mary, 14; Strelcyn 32.16.14.",,,,19,r
@@ -6543,7 +6540,6 @@ PEM (PUL) 46,80,Däbrä Qʷəsqʷam miracles: The monks of Saint Anthony celebra
 PEM (PUL) 46,,,117r,,,118r,,,100,,,FALSE,,,,FALSE,,,fols. 117r-118r: One Hundredth Miracle of Mary,How the Virgin Mary commanded the people to kill a person named Käṭib who stole cattle from Däbrä Qusqʷam in the year of the martyrs 1048 [1332 AD]).,,,,117,r
 PEM (PUL) 46,88,A Roman official is prevented from approaching the Holy Sepulcher.,118r,,,118v,,,101,,,FALSE,,,,FALSE,,,fols. 118rv: One Hundredth and First Miracle of Mary,"How the Virgin Mary helped a Roman prefect when a mysterious ram prevented him from visiting Christ’s tomb until he had become a follower of the Virgin Mary) (Budge, Mary,39).",,,,118,r
 PEM (PUL) 46,89,Scete miracles: Emperor Zeno builds churches in Scete.,118v,,,120r,,,102,,,FALSE,,,,FALSE,,,fols. 118v-120r: One Hundredth and Second Miracle of Mary,"How Zäyənun, King of Rome, built the monastery of Asketəs andHow the Virgin Mary appeared at the dedication of the church).",,,,118,v
-PEM (PUL) 46,91,"Scete miracles: Saint Mary blesses Scete, which Saint Macarius chooses for his monastery.",120r,,,123r,,,103,,,FALSE,,,,FALSE,,,fols. 120r-123r: One Hundredth and Third Miracle of Mary,How the Holy Family visited Egypt and blessed Asketəs andHow God sent Mäqarəs to build the monastery).,,,,,
 PEM (PUL) 46,,,123r,,,125r,,,104,,,FALSE,,,,FALSE,,,fols. 123r-125r: One Hundredth and Fourth Miracle of Mary,How the Virgin Mary helped a man called Mika’el to be a martyr for the sake of the true faith).,,,,123,r
 PEM (PUL) 46,34,The devout Muslim who became a Christian when Saint Mary appeared to him.,125r,,,126v,,,105,,,FALSE,,,,FALSE,,,fols. 125r-126v: One Hundredth and Fifth Miracle of Mary,How the Virgin Mary helped a Muslim when he was lost in the wilderness andHow he converted to Christianity).,,,,125,r
 PEM (PUL) 46,136,The thief whom the king's soldiers could not kill.,126v,,,128r,,,106,,,FALSE,,,,FALSE,,,fols. 126v-128r: One Hundredth and Sixth Miracle of Mary,How the Virgin Mary saved Qiras the thief).,,,,126,v
@@ -6578,6 +6574,8 @@ PEM (PUL) 46,,,162r,,,164r,,,132,,,FALSE,,,,FALSE,,,fols. 162r-164r: One Hundred
 PEM (PUL) 46,,,164r,,,166r,,,132,,,FALSE,,,,FALSE,,,fols. 164r-166r: One Hundredth and Thirty-second Miracle of Mary,"How the Virgin Mary helped Archbishop [of Alexandria] Gäbrə’el when he tried to send his book, Book of Hawi, to Saint Anthony’s Monastery ).",,,,164,r
 PEM (PUL) 46,,,166r,,,166r,,,132,,,FALSE,,,,FALSE,,,fols. 166r: One Hundredth and Thirty-second Miracle of Mary,How the Virgin Mary blinded those Muslims who plundered the church called Däbrä Adwäya)(incomplete).,,,,166,r
 PEM (PUL) 46,154,The two women who were attacked by robbers on their way to church.,,,,,,,11,,,FALSE,,,,FALSE,,,,,,,,,
+PEM (PUL) 46,91,"Scete miracles: Saint Mary blesses Scete, which Saint Macarius chooses for his monastery.",120r,,,123r,,,103,,,FALSE,,,,FALSE,,,fols. 120r-123r: One Hundredth and Third Miracle of Mary,How the Holy Family visited Egypt and blessed Asketəs andHow God sent Mäqarəs to build the monastery).,,,,,
+PEM (PUL) 46,154,The two women who were attacked by robbers on their way to church.,17r,,,17v,,,,,,FALSE,,,,FALSE,,,fols. 017rv: Miracle of Mary,"How the Virgin Mary recovered the stolen property of two women called Juliana and Barbara, when they were on pilgrimage to Jerusalem) (Budge, Mary, 11; Strelcyn 32.16. 11).",,,,,
 PEM (PUL) 47,316-D,"Mary, Childhood of cycle: When she is three years old, Saint Mary is taken to the Temple.",13r,,,15r,,,1,,,FALSE,,,,FALSE,,,,,,,,13,r
 PEM (PUL) 47,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,15r,,,19r,,,2,,,FALSE,,,,FALSE,,,,,,,,15,r
 PEM (PUL) 47,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,19r,,,20r,,,3,,,FALSE,,,,FALSE,,,,,,,,19,r
@@ -6654,35 +6652,34 @@ S-London (BL) 15,100,The daughter of the chief of the thieves is cured of her le
 S-London (BL) 15,101,Saint Mary saves the soul of a thief who was slain by the miraculous spring.,10r,,,11v,,,6,,,FALSE,,Incipit is given in the catalogue (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,,,,,,10,r
 S-London (BL) 15,114,The brigands who killed each other at the miraculous spring.,11v,,,13r,,,7,,,FALSE,,Incipit is given in the catalogue (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,,,,,,11,v
 S-London (BL) 17,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,3r,,,,,,1,,,FALSE,,Incipit is given in the catalogue (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,,,,,,3,r
-S-London (BL) 17,43,"The story of the blind priest, Yohannes Bakansi.",4r,,,,,,,,,FALSE,,Incipit is given in the catalogue (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,,,,,,4,r
 S-London (BL) 17,66,"Saint Mary appears as a winged maiden to John, a monk of Saint Macarius.",4r,1,,,,,2,,,FALSE,,Incipit is given in the catalogue (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,,,,,,4,r
+S-London (BL) 17,43,"The story of the blind priest, Yohannes Bakansi.",4r,,,,,,,,,FALSE,,the miracle isn't listed in the catalogue (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,,,,,,4,r
 S-London (BL) 17,46,The church of Saint Mary that moved by itself to the shore of the Mediterranean Sea.,4v,1,,,,,3,,,FALSE,,Incipit is given in the catalogue (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,,,,,,4,v
 S-London (BL) 17,48,The rich man from Colosse who was wounded in the eye while fighting the Qwez.,6r,1,,,,,4,,,FALSE,,Incipit is given in the catalogue (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,,,,,,6,r
 S-London (BL) 17,27,"Maryam from Dǝfrā, a child who wanted to receive Communion but was shut up in the house when her family went to church.",7r,2,,,,,5,,,FALSE,,Incipit is given in the catalogue (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,,,,,,7,r
-S-London (BL) 28,385,The hungry man whom Saint Mary used to feed.,165r,,,,,,1,,,FALSE,,,,FALSE,,,,,,,,165,r
-S-London (BL) 32,14,The composition of the Wǝddāse Maryam by the Syrian potter.,39r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,39,r
-S-London (BL) 32,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,,,,,,,1,,,FALSE,,,,FALSE,,,,,,,,,
-S-London (BL) 32,61,The two brothers who copied the Miracles of Mary and fell into the doing of a sin.,,,,,,,18,,,FALSE,,,,FALSE,,,,,,,,,
-S-London (BL) 32,83,The story of the two brothers from Dalga who were dyers.,,,,,,,21,,,FALSE,,,,FALSE,,,,,,,,,
-S-London (BL) 32,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,,,,,,,2,,,FALSE,,,,FALSE,,,,,,,,,
-S-London (BL) 32,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,31,,,FALSE,,,,FALSE,,,,,,,,,
-S-London (BL) 32,161,The pious monk (or: the Jew from Akhmim) whom Saint Mary made young.,,,,,,,3,,,FALSE,,,,FALSE,,,,,,,,,
-S-London (BL) 32,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,,,,,,,4,,,FALSE,,,,FALSE,,,,,,,,,
-S-London (BL) 32,163,"The Muslim whom Saint Mary told to receive baptism. Later, as Bishop of Rome, he cut off his hand because of a carnal thought.",,,,,,,5,,,FALSE,,,,FALSE,,,,,,,,,
-S-London (BL) 32,19,"The monk, Yǝsḥaq, who prayed for seven years that Saint Mary would appear to him.",,,,,,,6,,,FALSE,,,,FALSE,,,,,,,,,
-S-London (BL) 32,27,"Maryam from Dǝfrā, a child who wanted to receive Communion but was shut up in the house when her family went to church.",,,,,,,7,,,FALSE,,,,FALSE,,,,,,,,,
-S-London (BL) 32,33,The French artist who fell from the scaffolding while painting frescoes.,,,,,,,8,,,FALSE,,,,FALSE,,,,,,,,,
-S-London (BL) 32,54,Saint Mary carries a dying monk to Jerusalem.,,,,,,,9,,,FALSE,,,,FALSE,,,,,,,,,
-S-London (BL) 32,153,The young man who used to bring roses to the icon of Saint Mary.,,,,,,,10,,,FALSE,,,,FALSE,,,,,,,,,
-S-London (BL) 32,154,The two women who were attacked by robbers on their way to church.,,,,,,,11,,,FALSE,,,,FALSE,,,,,,,,,
+S-London (BL) 28,385,The hungry man whom Saint Mary used to feed.,165r,2,,165v,1,,1,,,FALSE,,Incipit is given in the catalogue (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,,,,,,165,r
+S-London (BL) 32,14,The composition of the Wǝddāse Maryam by the Syrian potter.,39r,2,,42v,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,,,,,,39,r
+S-London (BL) 32,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,98r,1,,,,,1,,,FALSE,,,,FALSE,,,,,,,,98,r
+S-London (BL) 32,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,100v,2,,,,,2,,,FALSE,,,,FALSE,,,,,,,,100,v
+S-London (BL) 32,161,The pious monk (or: the Jew from Akhmim) whom Saint Mary made young.,101r,1,,,,,3,,,FALSE,,,,FALSE,,,,,,,,101,r
+S-London (BL) 32,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,103v,1,,,,,4,,,FALSE,,,,FALSE,,,,,,,,103,v
+S-London (BL) 32,163,"The Muslim whom Saint Mary told to receive baptism. Later, as Bishop of Rome, he cut off his hand because of a carnal thought.",104v,2,,,,,5,,,FALSE,,,,FALSE,,,,,,,,104,v
+S-London (BL) 32,19,"The monk, Yǝsḥaq, who prayed for seven years that Saint Mary would appear to him.",106v,1,,,,,6,,,FALSE,,,,FALSE,,,,,,,,106,v
+S-London (BL) 32,27,"Maryam from Dǝfrā, a child who wanted to receive Communion but was shut up in the house when her family went to church.",108v,2,,,,,7,,,FALSE,,,,FALSE,,,,,,,,108,v
+S-London (BL) 32,33,The French artist who fell from the scaffolding while painting frescoes.,110v,2,,,,,8,,,FALSE,,,,FALSE,,,,,,,,110,v
+S-London (BL) 32,54,Saint Mary carries a dying monk to Jerusalem.,112v,2,,,,,9,,,FALSE,,,,FALSE,,,,,,,,112,v
+S-London (BL) 32,153,The young man who used to bring roses to the icon of Saint Mary.,114r,1,,,,,10,,,FALSE,,,,FALSE,,,,,,,,114,r
+S-London (BL) 32,154,The two women who were attacked by robbers on their way to church.,117v,2,,,,,11,,,FALSE,,,,FALSE,,,,,,,,117,v
 S-London (BL) 32,16,Three Arabs who were journeying to the Rif on the Nile in Egypt.,,,,,,,12,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 32,46,The church of Saint Mary that moved by itself to the shore of the Mediterranean Sea.,,,,,,,13,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 32,43,"The story of the blind priest, Yohannes Bakansi.",,,,,,,14,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 32,48,The rich man from Colosse who was wounded in the eye while fighting the Qwez.,,,,,,,15,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 32,59,"Elizabeth, the blind daughter of Abraham and Gera Anest of Baderman.",,,,,,,16,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 32,57,The widow who could not find husbands for her three daughters.,,,,,,,17,,,FALSE,,,,FALSE,,,,,,,,,
+S-London (BL) 32,61,The two brothers who copied the Miracles of Mary and fell into the doing of a sin.,,,,,,,18,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 32,68,"Saint Mary appears to the martyr, Giyorgis Haddis, in prison.",,,,,,,19,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 32,82,"Katir, the old priest from Elkesus, who was about to be dismissed from the church.",,,,,,,20,,,FALSE,,,,FALSE,,,,,,,,,
+S-London (BL) 32,83,The story of the two brothers from Dalga who were dyers.,,,,,,,21,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 32,99,"The stone-footed man (i. e., a man with gout) from France.",,,,,,,22,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 32,103,"Bishop Mercurius, whom the patriarch wanted to remove because of leprosy.",,,,,,,23,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 32,112,A poor woman with a broken leg is healed by the icon of Saint Mary in the church of Harat ar-Rum.,,,,,,,24,,,FALSE,,,,FALSE,,,,,,,,,
@@ -6692,6 +6689,7 @@ S-London (BL) 32,142,"The deacon's prayer that contained five times ""Rejoice!""
 S-London (BL) 32,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,28,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 32,125,The story of the cannibal from Qemer.,,,,,,,29,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 32,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,,,,,,,30,,,FALSE,,,,FALSE,,,,,,,,,
+S-London (BL) 32,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,31,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 32,236,Saint Mary gives a thirsty dog water to drink from her shoe.,,,,,,,32,,,FALSE,,,,FALSE,,,,,,,,,
 S-London (BL) 35,311,A stream runs uphill after his neighbor had diverted it.,16r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,16,r
 S-London (BL) 39,294,"Mary, Conception of cycle: The descent of the holy seed from Adam to Saint Mary.",88v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,88,v
@@ -7188,6 +7186,7 @@ W-London (BM) 77,159,"A nun sacristan elopes with a priest, but afterwards they 
 W-London (BM) 77,166,"The prudent monk who suspected that the food that the monks were eating was harmful, but then saw Saint Mary making it tasty for them.",27r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,27,r
 W-London (BM) 77,167,The woman who was prevented from fasting by her husband.,28r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,28,r
 W-London (BM) 77,168,The noblewoman who was persuaded by her spiritual father to give away her fine clothes.,28v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,28,v
+W-London (BM) 77,137,The Emperor of Rome who erected an altar in his palace.,32v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,32,v
 W-London (BM) 77,138,"Saint Mary commands a deacon to give Christian burial to a sinful deacon assassinated by his enemies; when they disinter him, a flower is found in his mouth.",33v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,33,v
 W-London (BM) 77,144,The pilgrim to Santiago whom Satan persuaded to mutilate himself after falling into a sexual sin.,38r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,38,r
 W-London (BM) 77,146,The knight who wanted to seduce the daughter of the cobbler.,39v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,39,v
@@ -7221,6 +7220,8 @@ W-London (BM) 77,195,The peasant who became rich from other people's goods.,95r,
 W-London (BM) 77,197,The Jew of Constantinople who threw an icon of Saint Mary into the latrine.,95v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,95,v
 W-London (BM) 77,198,The woman from Rome who killed the baby she bore after sleeping with her son,96v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,96,v
 W-London (BM) 77,200,The young man who offered the ring he had received from his girlfriend to the icon of Saint Mary.,99v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,99,v
+W-London (BM) 77,202,The Jew who attacked the icon of Saint Mary when he failed to obtain by litigation someone else's property.,102r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,102,r
+W-London (BM) 77,204,The monk who was custodian of a church near a river and drowned while trying to cross to visit his lover.,103v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,103,v
 W-London (BM) 77,98,Saint Basil cycle: The proud men who wanted to have a splendid icon of Saint Mary made.,105r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,105,r
 W-London (BM) 77,113,The virgin who sinned with many lovers.,106v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,106,v
 W-London (BM) 77,126,The man who was possessed by a spirit of epilepsy [nagargar] for 47 years.,109v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,109,v
@@ -7253,11 +7254,11 @@ Z-Paris (BNF) 53,618,The governor believes in Christ and rebukes the Jews (conti
 Z-Paris (BNF) 53,619,"Mary, Childhood of: The Spirit tells the Apostles to take Saint Mary from the Temple.",51r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,51,r
 Z-Paris (BNF) 53,623,"Mary, Dormition of cycle: The Dormition.",55v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,55,v
 Z-Paris (BNF) 53,614,"Mary, Assumption of: The Apostles decree that the events concerning the Transitus of Saint Mary that they have witnessed three times should be written down and that be commemorated three times a year.",57r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,57,r
-Z-Paris (BNF) 54,614,"Mary, Assumption of: The Apostles decree that the events concerning the Transitus of Saint Mary that they have witnessed three times should be written down and that be commemorated three times a year.",72,,,,,,,,,FALSE,,,,FALSE,,,,,,,,7,2
 Z-Paris (BNF) 54,617,"Mary, Assumption of: When the Jews try to seize Saint Mary and the Apostles in Bethlehem, they are taken by the Spirit to the Temple, the house being left empty.",53,,,,,,,,,FALSE,,,,FALSE,,,,,,,,5,3
 Z-Paris (BNF) 54,618,The governor believes in Christ and rebukes the Jews (continuation of the preceding miracle).,56,,,,,,,,,FALSE,,,,FALSE,,,,,,,,5,6
 Z-Paris (BNF) 54,619,"Mary, Childhood of: The Spirit tells the Apostles to take Saint Mary from the Temple.",61,,,,,,,,,FALSE,,,,FALSE,,,,,,,,6,1
 Z-Paris (BNF) 54,623,"Mary, Dormition of cycle: The Dormition.",68,,,,,,,,,FALSE,,,,FALSE,,,,,,,,6,8
+Z-Paris (BNF) 54,614,"Mary, Assumption of: The Apostles decree that the events concerning the Transitus of Saint Mary that they have witnessed three times should be written down and that be commemorated three times a year.",72,,,,,,,,,FALSE,,,,FALSE,,,,,,,,7,2
 Z-Paris (BNF) 60,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,,,,,,,1,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 60,404,Saint Mary gives a garment to a poor monk.,,,,,,,2,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 60,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,,,,,,,3,,,FALSE,,,,FALSE,,,,,,,,,
@@ -7394,7 +7395,6 @@ Z-Paris (BNF) 61,125,The story of the cannibal from Qemer.,,,,,,,28,,,FALSE,,,,F
 Z-Paris (BNF) 61,186,The robber whom a bishop was commanded to bury after he was executed.,,,,,,,29,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 61,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,30,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 62,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,,,,,,,1,,,FALSE,,,,FALSE,,,,,,,,,
-Z-Paris (BNF) 62,65,Däbrä Qʷəsqʷam miracles: The vinedresser of Manfalut who gave his earnings to the builders of Däbrä Qʷəsqʷam.,,,,,,,21,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 62,135,The sinful deacon who was healed by a drop of Saint Mary's milk.,,,,,,,2,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 62,136,The thief whom the king's soldiers could not kill.,,,,,,,3,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 62,210,"Thecla cycle: Thecla is taken to Alexandria to see her brother, Abba Esi, in a boat guided by the Archangels Gabriel and Sureyal.",,,,,,,4,,,FALSE,,,,FALSE,,,,,,,,,
@@ -7414,6 +7414,7 @@ Z-Paris (BNF) 62,70,The people of Romeya appeal to Patriarch Dionysius to find K
 Z-Paris (BNF) 62,46,The church of Saint Mary that moved by itself to the shore of the Mediterranean Sea.,,,,,,,18,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 62,49,Saint Mary appears during Mass in the church at Meneta Sard.,,,,,,,19,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 62,58,"The story of the martyr, Saint Victor, and his mother, Martha.",,,,,,,20,,,FALSE,,,,FALSE,,,,,,,,,
+Z-Paris (BNF) 62,65,Däbrä Qʷəsqʷam miracles: The vinedresser of Manfalut who gave his earnings to the builders of Däbrä Qʷəsqʷam.,,,,,,,21,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 62,66,"Saint Mary appears as a winged maiden to John, a monk of Saint Macarius.",,,,,,,22,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 62,112,A poor woman with a broken leg is healed by the icon of Saint Mary in the church of Harat ar-Rum.,,,,,,,23,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 62,115,The son of a rich official of Cappadocia is raised from the dead.,,,,,,,24,,,FALSE,,,,FALSE,,,,,,,,,
@@ -7492,11 +7493,10 @@ Z-Paris (BNF) 63,131,The faded icon of Saint Mary that the mother-in-law wanted 
 Z-Paris (BNF) 63,132,The woman from Cairo whose children all died.,,,,,,,29,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 63,138,"Saint Mary commands a deacon to give Christian burial to a sinful deacon assassinated by his enemies; when they disinter him, a flower is found in his mouth.",,,,,,,30,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 63,154,The two women who were attacked by robbers on their way to church.,,,,,,,31,,,FALSE,,,,FALSE,,,,,,,,,
-W-London (BM) 77,204,The monk who was custodian of a church near a river and drowned while trying to cross to visit his lover.,103v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,103,v
 Z-Paris (BNF) 70,400,The five sorrows of Saint Mary.,,,,,,,1,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 70,404,Saint Mary gives a garment to a poor monk.,,,,,,,2,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 70,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,,,,,,,3,,,FALSE,,,,FALSE,,,,,,,,,
-C-Dublin (CBL) 915,384,The monk whose only good work was observing the fast of Saint Mary.,2v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,2,v
+,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
 ,,,,,,,,,,,,FALSE,High,,,FALSE,,,,,,,,,
 ,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
 ,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
