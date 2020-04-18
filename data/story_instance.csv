@@ -5956,20 +5956,21 @@ H-Berlin (BS) 59,467,Samuˀel of Wali miracles: Christ orders Abba Samu'el of Wa
 H-Berlin (BS) 59,130,"The story of Saint Alexius [Abdo l a-Masih], son of Emperor Theodosius.",,,,,,,72,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 59,463,"Emperor Honorius, who lived like a monk.",,,,,,,73,,,FALSE,,,,FALSE,,,,,,,,,
 H-Berlin (BS) 74,14,The composition of the Wǝddāse Maryam by the Syrian potter.,,,,,,,11,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,,,,,,,1,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,14,The composition of the Wǝddāse Maryam by the Syrian potter.,,,,,,,2,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,,,,,,,3,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,247,"Mary, Assumption of cycle: Saint John the Evangelist sees a vision of Saint Mary in glory.",,,,,,,4,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,179,The monk who has carried by the bretheren to church when he became too sick to walk.,,,,,,,5,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,40,The miraculous spring of Mehzab.,,,,,,,6,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,217,The history ot Däbrä Mahew near Jerusalem and its miraculous spring.,,,,,,,7,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,266,Saint Mary appears to the disciples of Mar Barsuma in the form of a dove.,,,,,,,8,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,531,Saint Mary comes to a church in the form of a white dove to heal from smallpox a man whose only good work was celebrating her commemoration.,,,,,,,8,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,147,The Jewish boy who received Holy Communion with his Christian companions.,,,,,,,9,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,170,Saint Mary saves from a lion a pious monk who had drunk too much wine.,,,,,,,10,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,12,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,167,The woman who was prevented from fasting by her husband.,,,,,,,13,,,FALSE,,,,FALSE,,,,,,,,,
-L-Uppsala (UU) 30,195,The peasant who became rich from other people's goods.,,,,,,,14,,,FALSE,,,,FALSE,,,,,,,,,
+L-Uppsala (UU) 30,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,15,,,,,,1,,,FALSE,,,,FALSE,,,,,,,,1,5
+L-Uppsala (UU) 30,14,The composition of the Wǝddāse Maryam by the Syrian potter.,17v,,,,,,2,,,FALSE,,,,FALSE,,,,,,,,17,v
+L-Uppsala (UU) 30,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,21r,,,,,,3,,,FALSE,,,,FALSE,,,,,,,,21,r
+L-Uppsala (UU) 30,247,"Mary, Assumption of cycle: Saint John the Evangelist sees a vision of Saint Mary in glory.",21v,,,,,,4,,,FALSE,,,,FALSE,,,,,,,,21,v
+L-Uppsala (UU) 30,179,The monk who has carried by the bretheren to church when he became too sick to walk.,23v,,,,,,5,,,FALSE,,,,FALSE,,,,,,,,23,v
+L-Uppsala (UU) 30,40,The miraculous spring of Mehzab.,24v,,,,,,6,,,FALSE,,,,FALSE,,,,,,,,24,v
+L-Uppsala (UU) 30,217,The history ot Däbrä Mahew near Jerusalem and its miraculous spring.,25v,,,,,,7,,,FALSE,,,,FALSE,,,,,,,,25,v
+L-Uppsala (UU) 30,266,Saint Mary appears to the disciples of Mar Barsuma in the form of a dove.,26v,,,,,,8,,,FALSE,,,,FALSE,,,,,,,,26,v
+L-Uppsala (UU) 30,531,Saint Mary comes to a church in the form of a white dove to heal from smallpox a man whose only good work was celebrating her commemoration.,26v,,,,,,8,,,FALSE,,,,FALSE,,,,,,,,26,v
+L-Uppsala (UU) 30,147,The Jewish boy who received Holy Communion with his Christian companions.,27v,,,,,,9,,,FALSE,,,,FALSE,,,,,,,,27,v
+L-Uppsala (UU) 30,170,Saint Mary saves from a lion a pious monk who had drunk too much wine.,29r,,,,,,10,,,FALSE,,,,FALSE,,,,,,,,29,r
+L-Uppsala (UU) 30,160,The bee keeper who consulted a sorceress to have more honey.,30r,,,,,,11,,,FALSE,,,,FALSE,,,,,,,,,
+L-Uppsala (UU) 30,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",31v,,,,,,12,,,FALSE,,,,FALSE,,,,,,,,31,v
+L-Uppsala (UU) 30,167,The woman who was prevented from fasting by her husband.,32v,,,,,,13,,,FALSE,,,,FALSE,,,,,,,,32,v
+L-Uppsala (UU) 30,195,The peasant who became rich from other people's goods.,33v,,,,,,14,,,FALSE,,,,FALSE,,,,,,,,33,v
 L-Uppsala (UU) 30,161,The pious monk (or: the Jew from Akhmim) whom Saint Mary made young.,,,,,,,15,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,,,,,,,16,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,163,"The Muslim whom Saint Mary told to receive baptism. Later, as Bishop of Rome, he cut off his hand because of a carnal thought.",,,,,,,17,,,FALSE,,,,FALSE,,,,,,,,,
@@ -6014,6 +6015,7 @@ L-Uppsala (UU) 30,66,"Saint Mary appears as a winged maiden to John, a monk of S
 L-Uppsala (UU) 30,201,A ship that was about to founder is saved when they pray to Saint Mary.,,,,,,,56,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,137,The Emperor of Rome who erected an altar in his palace.,,,,,,,57,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,138,"Saint Mary commands a deacon to give Christian burial to a sinful deacon assassinated by his enemies; when they disinter him, a flower is found in his mouth.",,,,,,,58,,,FALSE,,,,FALSE,,,,,,,,,
+L-Uppsala (UU) 30,,,,,,,,,59,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,141-A,The bishop for whom Saint Mary tailored a new sackcloth sends a penitent to Santiago.,,,,,,,60,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,61,,,FALSE,,,,FALSE,,,,,,,,,
 L-Uppsala (UU) 30,144,The pilgrim to Santiago whom Satan persuaded to mutilate himself after falling into a sexual sin.,,,,,,,62,,,FALSE,,,,FALSE,,,,,,,,,
