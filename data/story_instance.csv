@@ -7178,21 +7178,40 @@ VL-Vatican (BAV) 298,201,A ship that was about to founder is saved when they pra
 VL-Vatican (BAV) 298,116,The beggar at the church of Qirqos in Amhara from whose head a horn grew.,238v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,238,v
 VL-Vatican (BAV) 298,122,King Dawit miracles: The miracle concerning the golden ink during the reign of King Dawit.,240v,,,,,,,,,FALSE,,,,FALSE,,,,,,,,240,v
 VL-Vatican (BAV) 298,32,The husband who denied Christ when he became poor.,241r,,,,,,,,,FALSE,,,,FALSE,,,,,,,,241,r
-W-London (BM) 77,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,2v,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,2,v
-W-London (BM) 77,106,The rich man who threw dry bread to a beggar in the name of Saint Mary.,4v,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,4,v
-W-London (BM) 77,144,The pilgrim to Santiago whom Satan persuaded to mutilate himself after falling into a sexual sin.,7v,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,7,v
-W-London (BM) 77,145,The priest who could only say the Mass of the Virgin Mary.,9r,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,9,r
-W-London (BM) 77,185,The rich woman who went with the monks to the manbalis for prayer and there saw a vision of Saint Mary.,14r,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,14,r
+W-London (BM) 77,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,2v,1,,4v,1,,1,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,2,v
+W-London (BM) 77,106,The rich man who threw dry bread to a beggar in the name of Saint Mary.,4v,1,,5v,2,,2,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,4,v
+W-London (BM) 77,153,The young man who used to bring roses to the icon of Saint Mary.,5v,2,,6v,1,,3,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,6v,2,,7r,2,,4,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,144,The pilgrim to Santiago whom Satan persuaded to mutilate himself after falling into a sexual sin.,7r,2,,9r,1,,5,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,7,r
+W-London (BM) 77,145,The priest who could only say the Mass of the Virgin Mary.,9r,1,,10r,2,,6,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,9,r
+W-London (BM) 77,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,10r,2,,11r,1,,7,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,309,Saint Mary appears to an official who kidnapped a girl that had made a vow of virginity.,11r,1,,11v,2,,8,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,125,The story of the cannibal from Qemer.,11v,2,,13v,2,,9,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,185,The rich woman who went with the monks to the manbalis for prayer and there saw a vision of Saint Mary.,14r,1,,15r,2,,10,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,14,r
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
 W-London (BM) 77,159,"A nun sacristan elopes with a priest, but afterwards they repent.",20v,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,20,v
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
 W-London (BM) 77,166,"The prudent monk who suspected that the food that the monks were eating was harmful, but then saw Saint Mary making it tasty for them.",27r,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,27,r
 W-London (BM) 77,167,The woman who was prevented from fasting by her husband.,28r,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,28,r
 W-London (BM) 77,168,The noblewoman who was persuaded by her spiritual father to give away her fine clothes.,28v,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,28,v
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
 W-London (BM) 77,137,The Emperor of Rome who erected an altar in his palace.,32v,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,32,v
 W-London (BM) 77,138,"Saint Mary commands a deacon to give Christian burial to a sinful deacon assassinated by his enemies; when they disinter him, a flower is found in his mouth.",33v,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,33,v
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
 W-London (BM) 77,144,The pilgrim to Santiago whom Satan persuaded to mutilate himself after falling into a sexual sin.,38r,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,38,r
 W-London (BM) 77,146,The knight who wanted to seduce the daughter of the cobbler.,39v,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,39,v
 W-London (BM) 77,147,The Jewish boy who received Holy Communion with his Christian companions.,42r,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,42,r
 W-London (BM) 77,150,The divorced wife who prayed for revenge against her rival.,45r,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,45,r
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
 W-London (BM) 77,155,"The sister of Emperor Constantine who prayed to know how Saint Mary bore the Word of God, but then failed to recognize her Son when he appeared to her in church.",51r,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,51,r
 W-London (BM) 77,156,The young novice whom Saint Mary encouraged to persevere in his vocation,52r,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,52,r
 W-London (BM) 77,169,The rich merchant from Constantinople who lost all his money and made the icon of Saint Mary his guarantor when he borrowed money from a usurer.,54r,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,54,r
@@ -7247,6 +7266,20 @@ W-London (BM) 77,412,A child and his mother see the icon of Saint Mary weeping f
 W-London (BM) 77,384,The monk whose only good work was observing the fast of Saint Mary.,140v,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,140,v
 W-London (BM) 77,383,The man who would not eat before receiving Holy Communion.,143r,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,143,r
 W-London (BM) 77,30,The poor man from Aragon [Spain] who was buried alive in a gold mine.,143v,,,,,,,,,FALSE,,Incipit is not given in the catalogue (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847 / by W. Wright.),,FALSE,,,,,,,,143,v
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
+W-London (BM) 77,,,,,,,,,,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 101,14,The composition of the Wǝddāse Maryam by the Syrian potter.,,,,,,,1,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 101,400,The five sorrows of Saint Mary.,,,,,,,2,,,FALSE,,,,FALSE,,,,,,,,,
 Z-Paris (BNF) 22,400,The five sorrows of Saint Mary.,,,,,,,3,,,FALSE,,,,FALSE,,,,,,,,,
