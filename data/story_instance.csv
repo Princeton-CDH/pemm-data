@@ -5396,6 +5396,7 @@ EMML (HMML) 730,342,The man who borrowed for a wedding a silken garment from the
 EMML (HMML) 730,343,The Muslim who was unable to open the church he was intending to plunder.,271v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,271,v
 EMML (HMML) 730,344,A goat comes miraculously to be slaughtered.,271v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,271,v
 EMML (HMML) 730,345,The robbers who took from a monk his clothes and the cover of an icon of Saint Mary that he was carrying.,272r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,272,r
+EMML (HMML) 730,346,The abbot who fell sick while on a missionary Journey.,272v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 EMML (HMML) 730,366,A young monk is horrified when he has a sexual dream.,276r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,276,r
 EMML (HMML) 730,367,"When a couple tries to marry their son whom they had dedicated to Saint Mary, he falls sick to the point of death.",277r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,277,r
 EMML (HMML) 730,368,The monk from a monstery on an island who could not find his boat when he wanted to return.,278v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,278,v
@@ -7583,14 +7584,15 @@ Z-Paris (BNF) 70,404,Saint Mary gives a garment to a poor monk.,,,,,,,2,,,FALSE,
 Z-Paris (BNF) 70,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,,,,,,,3,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 ,,,,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 GEM (PUL) 17,13,,9v,2,9,11v,1,20,1,,ተብህለ፡ ኮነ፡ ከመ፡  ሀሎ፡ ፩ብእሲ፡ በቤተ፡ ክርስቲያን፡ ዘጥልጥያ፡ ኤጲስ፡ ቆጶስ፡ ዘስሙ፡ ደቅስዮስ፡ ወኮነ፡ ብእሴ፡ ክቡረ፡ ወኄረ፡ ወያፈቅራ፡ ለእግዝትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡,FALSE,High,,,,,,FALSE,,,,,,,
-GEM (PUL) 17,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,11v,1,3,12r,1,20,2,,ወሀሎ፡ ፩ብእሲ፡ ገባራዊ፡ ዘያፈቅራ፡ ለእግዝትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ በኵሉ፡ ልቡ፡ ወአያፀርዕ፡ በአፉሁ፡ዝክረ፡ ስማ፡ በፍርሃት፡ ወበረዓድ፡ ወበጊዜ፡ ይሰግድ፡. .።,FALSE,Medium,,,FALSE,,,FALSE,,,,,,11,v
-GEM (PUL) 17,161,The pious monk (or: the Jew from Akhmim) whom Saint Mary made young.,12r,2,6,12v,2,14,3,,ወሀሎ፡ ፩ብእሲ፡ ዕብራዊ፡ ዘልህቀ፡ በሀገረ፡ አክሚም፡ ዘያፈቅራ፡ ለእግዝትነ፡ ቅድስት፡ ድንግል፡ በክልኤ፡ ማርያም፡ ወላዲተ፡ አምላክ፡ እምሥርወ፡ ልቡ፡ ወያወትር፡ አንብቦተ፡ ሰላማ፡ ለእግዝትነ፡,FALSE,High,,,FALSE,,,FALSE,,,,,,12,r
+GEM (PUL) 17,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,11v,1,3,12r,1,20,2,,ወሀሎ፡ ፩ብእሲ፡ ገባራዊ፡ ዘያፈቅራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ በኵሉ፡ ልቡ፡ ወአያፀርዕ፡ በአፉሁ፡ዝክረ፡ ስማ፡ በፍርሃት፡ ወበረዓድ፡ ወበጊዜ፡ ይሰግድ፡. .።,FALSE,Medium,,,FALSE,,,FALSE,,,,,,11,v
+GEM (PUL) 17,161,The pious monk (or: the Jew from Akhmim) whom Saint Mary made young.,12r,2,6,12v,2,14,3,,ወሀሎ፡ ፩ብእሲ፡ ዕብራዊ፡ ዘልህቀ፡ በሀገረ፡ አክሚም፡ ዘያፈቅራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በክልኤ፡ ማርያም፡ ወላዲተ፡ አምላክ፡ እምሥርወ፡ ልቡ፡ ወያወትር፡ አንብቦተ፡ ሰላማ፡ ለእግዝትነ፡,FALSE,High,,,FALSE,,,FALSE,,,,,,12,r
 GEM (PUL) 17,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,13r,1,1,13v,2,3,4,,ወሀሎ፡  ፩መነኮስ፡ ዘይነብር፡ በውስተ፡ ሀገር፡ ፊልጵስዩስ፡ ዘስሙ፡ ድምያኖስ፡ ወያፈቅራ፡ ለእግዝትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ እምሥርወ፡ ልቡ፡ ወይትለዓክ፡ በኵሉ፡ ክሂሎቱ፡,FALSE,High,,,FALSE,,,FALSE,,,,,,13,r
 GEM (PUL) 17,163,"The Muslim whom Saint Mary told to receive baptism. Later, as Bishop of Rome, he cut off his hand because of a carnal thought.",13v,2,10,14v,2,4,5,,ወሀሎ፡ ፩ብእሲ፡ እምጳጳስተ፡ ሮሜ፡ ዘይብልዎ፡ አባሰ፡ ወኄር፡ውእቱ፡ብእሲሁ፡ ውእቱ፡ ወይፈርሆ፡ ለእግዚአብሔር፡ ወየዓቅብ፡ ነፍሶ፡ እምዝሙት፡ ወእምሕሊና፡ እኩይ፡,FALSE,High,,,FALSE,,,FALSE,,,,,,13,v
-GEM (PUL) 17,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,14v,2,10,15v,2,13,6,,ወሀሎ፡ ፩ብእሲ፡ መነኮስ፡ ኄር፡ ዘይብልዎ፡ ይስሐቅ፡ ወያዕቆብ፡  ነፍሶ፡ እምዝሙት፡ ወእምሕሊና፡ እኩይ፡ ወያፈቅራ፡ ለእግዝትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ በኵሉ፡ ኃይሉ፡ ወእምንእሱ፡ ነበረ፡ በአሐቲ፡ ደብር፡ በመዋዕሊሁ፡ ለአባ፡ ገብርኤል፡,FALSE,High,,,FALSE,,,FALSE,,,,,,14,v
+GEM (PUL) 17,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,14v,2,10,15v,2,13,6,,ወሀሎ፡ ፩ብእሲ፡ መነኮስ፡ ኄር፡ ዘይብልዎ፡ ይስሐቅ፡ ወያዕቆብ፡  ነፍሶ፡ እምዝሙት፡ ወእምሕሊና፡ እኩይ፡ ወያፈቅራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ በኵሉ፡ ኃይሉ፡ ወእምንእሱ፡ ነበረ፡ በአሐቲ፡ ደብር፡ በመዋዕሊሁ፡ ለአባ፡ ገብርኤል፡,FALSE,High,,,FALSE,,,FALSE,,,,,,14,v
 GEM (PUL) 17,27,"Maryam from Dǝfrā, a child who wanted to receive Communion but was shut up in the house when her family went to church.",15v,2,19,16v,2,8,7,,ወሀሎ፡ ፩ብእሲ፡ ፈራሄ፡ እግዚአብሔር፡ ወሀገሩሰ፡ ድፍራ፡ ወአውሰበ፡ ብእሲተ፡ ወወለደ፡ እምኔሃ፡ ፫ውለደ፡ ፪ተ፡ ተባዕተ፡ ወአሐተ፡ ወለተ፡         ወይእቲሰ፡ ትንዕስ፡ ወስማ፡ ማርያም፡ ወሞተት፡ እሞሙ። ,FALSE,High,,,FALSE,,,FALSE,,,,,,15,v
-GEM (PUL) 17,,,16v,2,13,,,,8,,,FALSE,,,,FALSE,,,FALSE,,,,,,16,v
-GEM (PUL) 17,,,,,,,,,9,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+GEM (PUL) 17,33,The French artist who fell from the scaffolding while painting frescoes.,16v,2,13,17v,2,11,8,,"ወሀሎ፡ ፩ብእሲ፡ ሠዓሊ፡ ወአልቦ፡ ዘይትማሰሎ፡ በገቢረ፡ ሥዕል፡
+ በውእቱ፡ አዝማን፡ ወያፈቅራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ በኵሉ፡ ልቡ፡ ወሶበ፡ ይገብር፡ ሥዕላ፡ በተናቅቆ፡ ",FALSE,High,,,FALSE,,,FALSE,,,,,,16,v
+GEM (PUL) 17,54,Saint Mary carries a dying monk to Jerusalem.,17v,2,16,18r,2,20,9,,ወሀለወት፡ ሥዕለ፡ እግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ በደብረ፡ ነጋድያን፡ በቤተ፡ ሕሙማን፡ ,FALSE,,,,FALSE,,,FALSE,,,,,,17,v
 GEM (PUL) 17,,,,,,,,,10,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 GEM (PUL) 17,,,,,,,,,11,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 GEM (PUL) 17,,,,,,,,,12,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
