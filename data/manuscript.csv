@@ -229,13 +229,13 @@ VL-Vatican (BAV) 267,267,,VL-Vatican (BAV),,58,,,20th,1900,1999,,,,,,,,,,,,,,
 VL-Vatican (BAV) 272,272,,VL-Vatican (BAV),,66,,,16th,1500,1599,,,,,,,,,,,,,,
 VL-Vatican (BAV) 298,298,,VL-Vatican (BAV),,281,,,1730-55,1730,1755,,,,,,,,,,,,,,
 W-London (BM) 77,77,,W-London (BM),,102,198,,15th,1400,1499,,,http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_652_fs001r,160 miracles of Mary (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847. By W. Wright. pp 46-47),,2,20-21,,BLorient652,,,Magdala,,
-Z-Paris (BNF) 22,22,,Z-Paris (BNF),,1,,,1813-47,1813,1847,,,,,,,,,BNFet22,,,,,
-Z-Paris (BNF) 53,53,,Z-Paris (BNF),,5,,,16th,1500,1599,,,,,,,,,BNFet53,,,,,
-Z-Paris (BNF) 54,54,,Z-Paris (BNF),,5,,,16th,1500,1599,,,,,,,,,BNFet54,,,,,
-Z-Paris (BNF) 60,60,,Z-Paris (BNF),,105,,,18th,1700,1799,,,,,,,,,BNFet60,,,,,
-Z-Paris (BNF) 61,61,,Z-Paris (BNF),,30,,,18th,1700,1799,,,,,,,,,BNFet61,,,,,
-Z-Paris (BNF) 62,62,,Z-Paris (BNF),,69,,,16th,1500,1599,,,,,,,,,BNFet62,,,,,
-Z-Paris (BNF) 63,63,,Z-Paris (BNF),,31,,,18th,1700,1799,,,,,,,,,BNFet63,,,,,
-Z-Paris (BNF) 70,70,,Z-Paris (BNF),,3,,,19th,1800,1899,,,,,,,,,BNFet70,,,,,
-Z-Paris (BNF) 101,101,,Z-Paris (BNF),,2,,,17th,1600,1699,,,,,,,,,BNFet101,,,,,
+Z-Paris (BNF) 22,22,"Psalms, Canticles, Miracle of Mary, Wǝddāse Māryām, ʾAnqaṣa bǝrhān",Z-Paris (BNF),,1,138,,1813-47,1813,1847,Date from king's name,,,,,1,25,,BNFet22,,,,1,0
+Z-Paris (BNF) 53,53,"Lǝdatā la-Māryām, Zenā la-Māryām wa-fǝlsatā",Z-Paris (BNF),,5,64,,16th,1500,1599,Date from ms (paleography),,,,,2,22,,BNFet53,,,,Not given in the catalog. Not given on Beta Masaheft.,1
+Z-Paris (BNF) 54,54,Maṣḥafa ʿǝraftā la-Māryām; Zenā la-Māryām wa-fǝlsatā,Z-Paris (BNF),,5,84,,16th,1500,1599,Date from ms (paleography),,,,,2,19,,BNFet54,,,,Not given in the catalog. Not given on Beta Masaheft.,0
+Z-Paris (BNF) 60,60,"Miracles of Mary with ʾAkko-nu bǝʾsi, Office for the consecration of an image or statue of Mary",Z-Paris (BNF),,105,184,,18th,1700,1799,Date from ms (paleography),,,,,2,17,,BNFet60,,,,105,8
+Z-Paris (BNF) 61,61,Miracles of Mary with ʾAkko-nu bǝʾsi,Z-Paris (BNF),,30,127,,18th,1700,1799,Date from ms (paleography),,,,,1,12-15,,BNFet61,,,,29,9
+Z-Paris (BNF) 62,62,Miracles of Mary,Z-Paris (BNF),,69,113,,16th,1500,1599,Date from ms (paleography),,,,,2,18,,BNFet62,,,,69,0
+Z-Paris (BNF) 63,63,Miracles of Mary,Z-Paris (BNF),,31,49,,18th,1700,1799,Date from ms (paleography),,,,,2,18,,BNFet63,,,,31,0
+Z-Paris (BNF) 70,70,Prayers and Liturgies,Z-Paris (BNF),,3,100,,19th,1800,1899,Date from ms (paleography),,,,,2,13-15,,BNFet70,,,,Not given in the catalog. 3 on Beta Masaheft.,0
+Z-Paris (BNF) 101,101,"Two Miracles of Mary, ʾArgānona Māryām",Z-Paris (BNF),,2,143,,17th,1600,1699,Date from ms (paleography),,,,,2,16,,BNFet101,,,,2,0
 GEM (PUL) 17,17,The Miracles of Mary,GEM (PUL),,66,75,,19th,1800,1899,Date from catalog,,https://dpul.princeton.edu/msstreasures/catalog/4t64gr70w,,,2,20-21,,,,,,62,not given
