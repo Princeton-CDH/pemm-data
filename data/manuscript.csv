@@ -146,7 +146,7 @@ EMML (HMML) 3421,3421,Te'amire Mariam.,EMML (HMML),,1,,,18th,1700,1799,,Waldeya 
 EMML (HMML) 3472,3472,Te'amire Mariam.,EMML (HMML),,1,,,18th,1700,1799,,Takla Haymanot Church,https://www.vhmml.org/readingRoom/view/205286,,,,,,EMML3472,,,"South: Gubbālāfto, Yağğu, Wallo",,
 EMML (HMML) 3475,3475,Te'amire Mariam.,EMML (HMML),,21,,,18th,1700,1799,,Marto Mika'el Church,,,https://w3id.org/vhmml/readingRoom/view/205289,,,,EMML3475,,,"South: Gubbālāfto, Yağğu, Wallo",,
 EMML (HMML) 3497,3497,,EMML (HMML),,1,,,18th,1700,1799,,Sawa Meda Qirqos,,,https://w3id.org/vhmml/readingRoom/view/205311,,,,EMML3497,,,"South: Gubbālāfto, Yağğu, Wallo",,
-EMML (HMML) 3536,3536,Te'amire Mariam.,EMML (HMML),,78,,,15th,1400,1499,,Zambo Takla Haymanot,https://www.vhmml.org/readingRoom/view/205350,,,,,,EMML3536,9.69204,39.83159,"South: Ḥarr Ambā, Ankobar, Shoa",,
+EMML (HMML) 3536,3536,Te'amire Mariam.,EMML (HMML),,78,137,,15th,1400,1499,,Zambo Takla Haymanot,https://www.vhmml.org/readingRoom/view/205350,,,2,20,,EMML3536,9.69204,39.83159,"South: Ḥarr Ambā, Ankobar, Shoa",,
 EMML (HMML) 3572,3572,Teamire Mariam.,EMML (HMML),,37,,,18th,1700,1799,,Armaneya Maryam Church,,,https://w3id.org/vhmml/readingRoom/view/205386,,,,EMML3572,,,"South: Ḥarr Ambā, Ankobar, Shoa",,
 EMML (HMML) 3805,3805,Teamire Mariam.,EMML (HMML),,3,,,20th,1900,1999,,Waldeya Mika'el Church,,,https://w3id.org/vhmml/readingRoom/view/205613,,,,EMML3805,,,"South: Yağğu, Wallo",,
 EMML (HMML) 3841,3841,Teamire Mariam.,EMML (HMML),,1,,,17-18th,1600,1799,,Wanzaya Abbo,,,https://w3id.org/vhmml/readingRoom/view/205648,,,,EMML3841,,,"South: Yağğu, Wallo",,
@@ -228,14 +228,14 @@ S-Rome (ANL) 133,133,,S-Rome (ANL),,1,,,17th,1600,1699,,,,,,,,,,,,,,
 VL-Vatican (BAV) 267,267,,VL-Vatican (BAV),,58,,,20th,1900,1999,,,,,,,,,,,,,,
 VL-Vatican (BAV) 272,272,,VL-Vatican (BAV),,66,,,16th,1500,1599,,,,,,,,,,,,,,
 VL-Vatican (BAV) 298,298,,VL-Vatican (BAV),,281,,,1730-55,1730,1755,,,,,,,,,,,,,,
-W-London (BM) 77,77,,W-London (BM),,102,198,,15th,1400,1499,Date from ms (paleography),,http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_652_fs001r,160 miracles of Mary (Catalogue of the Ethiopic Manuscripts in the British Museum acquired since the year 1847. By W. Wright. pp 46-47),,2,20-21,,BLorient652,,,Magdala,,
-Z-Paris (BNF) 22,22,"Psalms, Canticles, Miracle of Mary, Wǝddāse Māryām, ʾAnqaṣa bǝrhān",Z-Paris (BNF),,1,138,,1813-47,1813,1847,Date from king's name,,,,,1,25,,BNFet22,,,,1,0
-Z-Paris (BNF) 53,53,"Lǝdatā la-Māryām, Zenā la-Māryām wa-fǝlsatā",Z-Paris (BNF),,5,64,,16th,1500,1599,Date from ms (paleography),,,,,2,22,,BNFet53,,,,Not given in the catalog. Not given on Beta Masaheft.,1
-Z-Paris (BNF) 54,54,Maṣḥafa ʿǝraftā la-Māryām; Zenā la-Māryām wa-fǝlsatā,Z-Paris (BNF),,5,84,,16th,1500,1599,Date from ms (paleography),,,,,2,19,,BNFet54,,,,Not given in the catalog. Not given on Beta Masaheft.,0
-Z-Paris (BNF) 60,60,"Miracles of Mary with ʾAkko-nu bǝʾsi, Office for the consecration of an image or statue of Mary",Z-Paris (BNF),,105,184,,18th,1700,1799,Date from ms (paleography),,,,,2,17,,BNFet60,,,,105,8
-Z-Paris (BNF) 61,61,Miracles of Mary with ʾAkko-nu bǝʾsi,Z-Paris (BNF),,30,127,,18th,1700,1799,Date from ms (paleography),,,,,1,12-15,,BNFet61,,,,29,9
-Z-Paris (BNF) 62,62,Miracles of Mary,Z-Paris (BNF),,69,113,,16th,1500,1599,Date from ms (paleography),,,,,2,18,,BNFet62,,,,69,0
-Z-Paris (BNF) 63,63,Miracles of Mary,Z-Paris (BNF),,31,49,,18th,1700,1799,Date from ms (paleography),,,,,2,18,,BNFet63,,,,31,0
-Z-Paris (BNF) 70,70,Prayers and Liturgies,Z-Paris (BNF),,3,100,,19th,1800,1899,Date from ms (paleography),,,,,2,13-15,,BNFet70,,,,Not given in the catalog. 3 on Beta Masaheft.,0
-Z-Paris (BNF) 101,101,"Two Miracles of Mary, ʾArgānona Māryām",Z-Paris (BNF),,2,143,,17th,1600,1699,Date from ms (paleography),,,,,2,16,,BNFet101,,,,2,0
+W-London (BM) 77,77,,W-London (BM),,102,198,,15th,1400,1499,,a church in the Gondar area.,http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_652_fs001r,Provenance information is from Beta Masaheft. Place (from where the manuscript was looted) is from catalog.,,2,20-21,,BLorient652,,,Magdala,160,
+Z-Paris (BNF) 22,22,"Psalms, Canticles, Miracle of Mary, Wǝddāse Māryām, ʾAnqaṣa bǝrhān",Z-Paris (BNF),,1,138,,1813-47,1813,1847,,,,,,1,25,,BNFet22,,,,1,0
+Z-Paris (BNF) 53,53,"Lǝdatā la-Māryām, Zenā la-Māryām wa-fǝlsatā",Z-Paris (BNF),,5,64,,16th,1500,1599,,,,,,2,22,,BNFet53,,,,Not given in the catalog. Not given on Beta Masaheft.,1
+Z-Paris (BNF) 54,54,Maṣḥafa ʿǝraftā la-Māryām; Zenā la-Māryām wa-fǝlsatā,Z-Paris (BNF),,5,84,,16th,1500,1599,,,,,,2,19,,BNFet54,,,,Not given in the catalog. Not given on Beta Masaheft.,0
+Z-Paris (BNF) 60,60,"Miracles of Mary with ʾAkko-nu bǝʾsi, Office for the consecration of an image or statue of Mary",Z-Paris (BNF),,105,184,,18th,1700,1799,,,,,,2,17,,BNFet60,,,,105,8
+Z-Paris (BNF) 61,61,Miracles of Mary with ʾAkko-nu bǝʾsi,Z-Paris (BNF),,30,127,,18th,1700,1799,,,,,,1,12-15,,BNFet61,,,,29,9
+Z-Paris (BNF) 62,62,Miracles of Mary,Z-Paris (BNF),,69,113,,16th,1500,1599,,,,,,2,18,,BNFet62,,,,69,0
+Z-Paris (BNF) 63,63,Miracles of Mary,Z-Paris (BNF),,31,49,,18th,1700,1799,,,,,,2,18,,BNFet63,,,,31,0
+Z-Paris (BNF) 70,70,Prayers and Liturgies,Z-Paris (BNF),,3,100,,19th,1800,1899,,,,,,2,13-15,,BNFet70,,,,Not given in the catalog. 3 on Beta Masaheft.,0
+Z-Paris (BNF) 101,101,"Two Miracles of Mary, ʾArgānona Māryām",Z-Paris (BNF),,2,143,,17th,1600,1699,,,,,,2,16,,BNFet101,,,,2,0
 GEM (PUL) 17,17,The Miracles of Mary,GEM (PUL),,66,75,,19th,1800,1899,Date from catalog,,https://dpul.princeton.edu/msstreasures/catalog/4t64gr70w,,,2,20-21,,,,,,62,not given
