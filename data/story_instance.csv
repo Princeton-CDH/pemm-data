@@ -23,7 +23,7 @@ B-Dublin (CBL) 914,112,A poor woman with a broken leg is healed by the icon of S
 B-Dublin (CBL) 914,158,The prioress who became pregnant after sinning with a servant.,,,,,,,33,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 B-Dublin (CBL) 914,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,,,,,,,34,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 B-Dublin (CBL) 914,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,35,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-B-Dublin (CBL) 914,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,36,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+B-Dublin (CBL) 914,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,,,,,,,36,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 B-Dublin (CBL) 914,125,The story of the cannibal from Qemer.,,,,,,,37,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 B-Dublin (CBL) 914,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,,,,,,,38,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 B-Dublin (CBL) 914,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,39,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
@@ -64,7 +64,7 @@ B-Oslo (SCOL) 248,112,A poor woman with a broken leg is healed by the icon of Sa
 B-Oslo (SCOL) 248,158,The prioress who became pregnant after sinning with a servant.,,,,,,,28,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 B-Oslo (SCOL) 248,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,,,,,,,29,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 B-Oslo (SCOL) 248,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,30,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-B-Oslo (SCOL) 248,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,31,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+B-Oslo (SCOL) 248,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,,,,,,,31,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 B-Oslo (SCOL) 248,125,The story of the cannibal from Qemer.,,,,,,,32,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 B-Oslo (SCOL) 248,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,,,,,,,33,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 B-Oslo (SCOL) 248,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,,,,,,,34,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
@@ -100,7 +100,7 @@ C-Berlin (BS) 1,112,A poor woman with a broken leg is healed by the icon of Sain
 C-Berlin (BS) 1,158,The prioress who became pregnant after sinning with a servant.,,,,,,,25,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
 C-Berlin (BS) 1,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,,,,,,,26,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
 C-Berlin (BS) 1,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,27,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
-C-Berlin (BS) 1,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,28,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
+C-Berlin (BS) 1,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,,,,,,,28,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
 C-Berlin (BS) 1,125,The story of the cannibal from Qemer.,,,,,,,29,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
 C-Berlin (BS) 1,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,,,,,,,30,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
 C-Berlin (BS) 1,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,31,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
@@ -130,9 +130,9 @@ C-Berlin (BS) 1,24,The Christians gathered for a feast of Saint Mary are saved f
 C-Berlin (BS) 1,4,"Deacon Michael, the grocer and the ring that was found in the fish.",,,,,,,53,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
 C-Berlin (BS) 1,5,The Frenchman whose wife was unable to have children.,,,,,,,54,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
 C-Berlin (BS) 1,6,"During the famine of 1120 MM [likely 1404 CE], the Arabs try to plunder the monasteries of Egypt.",,,,,,,55,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
-C-Berlin (BS) 1,8,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,56,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
+C-Berlin (BS) 1,8,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who did not fast.,,,,,,,56,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
 C-Berlin (BS) 1,50,Däbrä Qaləmon miracles: Abba Samuˀel of Däbrä Qaləmon intercedes for an angel who had disobeyed the command of God.,,,,,,,57,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
-C-Berlin (BS) 1,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,,,,,,,58,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
+C-Berlin (BS) 1,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,,,,,,,58,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
 C-Berlin (BS) 1,11,Däbrä Qaləmon miracles: An Arab who has contempt for Saint Mary’s icon at Däbrä Qaləmon is punished.,,,,,,,59,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
 C-Berlin (BS) 1,20,The Arab woman who suffered from an issue of blood for many years.,,,,,,,60,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
 C-Berlin (BS) 1,134,The nominal Christian from Sidon who encountered a dragon.,,,,,,,61,,,FALSE,,"Incipit is not given in the catalog (Il Codice della Staatsbibliothek di Berlino del Libro dei Miracoli di Maria /  by Cerulli, Enrico 1957).",,FALSE,,,FALSE,,,,,,,
@@ -190,7 +190,7 @@ C-Dublin (CBL) 951,112,A poor woman with a broken leg is healed by the icon of S
 C-Dublin (CBL) 951,158,The prioress who became pregnant after sinning with a servant.,,,,,,,25,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 C-Dublin (CBL) 951,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,,,,,,,26,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 C-Dublin (CBL) 951,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,27,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-C-Dublin (CBL) 951,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,28,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+C-Dublin (CBL) 951,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,,,,,,,28,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 C-Dublin (CBL) 951,125,The story of the cannibal from Qemer.,,,,,,,29,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 C-Dublin (CBL) 951,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,,,,,,,30,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 C-Dublin (CBL) 951,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,31,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
@@ -336,9 +336,9 @@ C-Veroli (BGV) 1,3,Vision of Theophilus of Alexandria (continued): The Holy Fami
 C-Veroli (BGV) 1,4,"Deacon Michael, the grocer and the ring that was found in the fish.",,,,,,,4,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 C-Veroli (BGV) 1,5,The Frenchman whose wife was unable to have children.,,,,,,,5,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 C-Veroli (BGV) 1,6,"During the famine of 1120 MM [likely 1404 CE], the Arabs try to plunder the monasteries of Egypt.",,,,,,,6,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-C-Veroli (BGV) 1,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,7,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-C-Veroli (BGV) 1,8,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,8,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-C-Veroli (BGV) 1,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,,,,,,,9,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+C-Veroli (BGV) 1,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,,,,,,,7,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+C-Veroli (BGV) 1,8,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who did not fast.,,,,,,,8,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+C-Veroli (BGV) 1,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,,,,,,,9,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 C-Veroli (BGV) 1,10,Qommos Raphael from Däbrä ʾƎnṣǝnā and the sacrament of confession.,,,,,,,10,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 C-Veroli (BGV) 1,11,Däbrä Qaləmon miracles: An Arab who has contempt for Saint Mary’s icon at Däbrä Qaləmon is punished.,,,,,,,11,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 C-Veroli (BGV) 1,12,The composition of the Maṣḥafa ḥawi by Patriarch Gabriel Ibn Tarīk.,,,,,,,12,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
@@ -511,7 +511,7 @@ CR-Paris (BNF) 52,103,"Bishop Mercurius, whom the patriarch wanted to remove bec
 CR-Paris (BNF) 52,158,The prioress who became pregnant after sinning with a servant.,,,,,,,32,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 CR-Paris (BNF) 52,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,,,,,,,33,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 CR-Paris (BNF) 52,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,34,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-CR-Paris (BNF) 52,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,35,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+CR-Paris (BNF) 52,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,,,,,,,35,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 CR-Paris (BNF) 52,125,The story of the cannibal from Qemer.,,,,,,,36,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 CR-Paris (BNF) 52,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,,,,,,,37,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 CR-Paris (BNF) 52,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,38,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
@@ -522,7 +522,7 @@ CR-Paris (BNF) 52,263,Saint John Chrysostom defends a woman whom Nestorius had t
 CR-Paris (BNF) 52,119,"Mary, Assumption of cycle: When Tafoneya lays hands on the bier of Saint Mary, an angel cuts his arms off.",,,,,,,43,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 CR-Paris (BNF) 52,134,The nominal Christian from Sidon who encountered a dragon.,,,,,,,44,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 CR-Paris (BNF) 52,170,Saint Mary saves from a lion a pious monk who had drunk too much wine.,,,,,,,45,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-CR-Paris (BNF) 52,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,,,,,,,47,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+CR-Paris (BNF) 52,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,,,,,,,47,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 CR-Paris (BNF) 52,405,Saint Mary heals a poor man from skin disease whom people had refused to carry to church.,,,,,,,48,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 CR-Paris (BNF) 52,113,The virgin who sinned with many lovers.,,,,,,,49,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 CR-Paris (BNF) 52,383,The man who would not eat before receiving Holy Communion.,,,,,,,50,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
@@ -761,7 +761,7 @@ CR-Paris (BNF) 54,112,A poor woman with a broken leg is healed by the icon of Sa
 CR-Paris (BNF) 54,158,The prioress who became pregnant after sinning with a servant.,81r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,81,r
 CR-Paris (BNF) 54,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,86v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,86,v
 CR-Paris (BNF) 54,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",89r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,89,r
-CR-Paris (BNF) 54,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,91r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,91,r
+CR-Paris (BNF) 54,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,91r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,91,r
 CR-Paris (BNF) 54,125,The story of the cannibal from Qemer.,99v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,99,v
 CR-Paris (BNF) 54,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),107v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,107,v
 CR-Paris (BNF) 54,236,Saint Mary gives a thirsty dog water to drink from her shoe.,110v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,110,v
@@ -811,7 +811,7 @@ CR-Paris (BNF) 55,142,"The deacon's prayer that contained five times ""Rejoice!"
 CR-Paris (BNF) 55,125,The story of the cannibal from Qemer.,72v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,72,v
 CR-Paris (BNF) 55,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),78r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,78,r
 CR-Paris (BNF) 55,236,Saint Mary gives a thirsty dog water to drink from her shoe.,79v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,79,v
-CR-Paris (BNF) 55,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,91r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,91,r
+CR-Paris (BNF) 55,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,91r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,91,r
 CR-Paris (BNF) 57,125,The story of the cannibal from Qemer.,35r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,35,r
 Duke (Duke) 12,210,"Thecla cycle: Thecla is taken to Alexandria to see her brother, Abba Esi, in a boat guided by the Archangels Gabriel and Sureyal.",8r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,8,r
 Duke (Duke) 12,200,The young man who offered the ring he had received from his girlfriend to the icon of Saint Mary.,9v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,9,v
@@ -951,7 +951,7 @@ EMIP (EMIP) 601,112,A poor woman with a broken leg is healed by the icon of Sain
 EMIP (EMIP) 601,158,The prioress who became pregnant after sinning with a servant.,18r,,,19r,,,25,,,FALSE,,,,FALSE,,,FALSE,,,,,,18,r
 EMIP (EMIP) 601,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,19r,,,19v,,,26,,,FALSE,,,,FALSE,,,FALSE,,,,,,19,r
 EMIP (EMIP) 601,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",19v,,,20r,,,27,,,FALSE,,,,FALSE,,,FALSE,,,,,,19,v
-EMIP (EMIP) 601,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,20r,,,21r,,,28,,,FALSE,,,,FALSE,,,FALSE,,,,,,20,r
+EMIP (EMIP) 601,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,20r,,,21r,,,28,,,FALSE,,,,FALSE,,,FALSE,,,,,,20,r
 EMIP (EMIP) 601,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,21r,,,21v,,,29,,,FALSE,,,,FALSE,,,FALSE,,,,,,21,r
 EMIP (EMIP) 601,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),21v,,,22r,,,30,,,FALSE,,,,FALSE,,,FALSE,,,,,,21,v
 EMIP (EMIP) 601,106,The rich man who threw dry bread to a beggar in the name of Saint Mary.,22r,,,22v,,,31,,,FALSE,,,,FALSE,,,FALSE,,,,,,22,r
@@ -987,7 +987,7 @@ EMIP (EMIP) 601,4,"Deacon Michael, the grocer and the ring that was found in the
 EMIP (EMIP) 601,207,The monk who saved the church of Saint Mary in Atrib by his prayers when its destruction had been ordered by the Caliph.,37r,,,41r,,,61,,,FALSE,,,,FALSE,,,FALSE,,,,,,37,r
 EMIP (EMIP) 601,108,Patriarch Abraham and the interpretation of the parable of the mustard seed.,41r,,,43r,,,62,,,FALSE,,,,FALSE,,,FALSE,,,,,,41,r
 EMIP (EMIP) 601,,,43r,,,46r,,,63,,,FALSE,,,,FALSE,,,FALSE,,,,,,43,r
-EMIP (EMIP) 601,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,46r,,,47r,,,64,,,FALSE,,,,FALSE,,,FALSE,,,,,,46,r
+EMIP (EMIP) 601,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,46r,,,47r,,,64,,,FALSE,,,,FALSE,,,FALSE,,,,,,46,r
 EMIP (EMIP) 601,,,47r,,,47v,,,65,,,FALSE,,,,FALSE,,,FALSE,,,,,,47,r
 EMIP (EMIP) 601,169,The rich merchant from Constantinople who lost all his money and made the icon of Saint Mary his guarantor when he borrowed money from a usurer.,47v,,,49r,,,66,,,FALSE,,,,FALSE,,,FALSE,,,,,,47,v
 EMIP (EMIP) 601,,,49r,,,49v,,,67,,,FALSE,,,,FALSE,,,FALSE,,,,,,49,r
@@ -1586,7 +1586,7 @@ EMML (HMML) 2044,640,Däbrä Sedeneya miracles: Some officials visit the icon of
 EMML (HMML) 2044,439,The European who tried to steal the icon of Saint Mary from Däbrä Sedeneya.,50v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,50,v
 EMML (HMML) 2044,440,Christ gives Ethiopia as tithes to Saint Mary.,51r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,51,r
 EMML (HMML) 2044,458,Däbrä Metmaq miracles: The Muslims who spent the night at the ruins of Däbrä Metmaq.,106r,,,,,,,,ነገር፡ ዘከመ፡ ዜነወ፡ አሐዱ፡ ብእሲ፡ ዘተብህለት፡ ዘገብረት፡ ተአምረ፡ በደብረ፡ ምጥማቅ፡ ድኅረ፡ አንሐልዋ፡ ተንበላት፡ ለቤተ፡ ክርስቲያን። ወእንዘ፡ የሐውሩ፡ ተንበላት፡ ፱፡ ወ፪፡ ደቂቆሙ፡ ንዑሳን፡ ኀበ፡ ነጊድ፡ ወአግማለ፡ ወአዕዱገ፡ ፅዒኖሙ፡ ወበጽሑ፡ ኀበ፡ ደብረ፡ ምጥማቅ፡ ወይእቲ፡ ዕለት፡ በዓላ፡ ለእግዝእትነ፡ ማርያም,TRUE,High,,,FALSE,,,FALSE,,,,,,106,r
-EMML (HMML) 2056,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,19r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,19,r
+EMML (HMML) 2056,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,19r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,19,r
 EMML (HMML) 2056,26,The European who wanted to steal the bars of the door to the Manger at Bethlehem.,31r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,31,r
 EMML (HMML) 2056,17,"Nəkʷal, the deacon from Margawkim, who spent his master’s money on the poor.",46r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,46,r
 EMML (HMML) 2056,5,The Frenchman whose wife was unable to have children.,49r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,49,r
@@ -1611,7 +1611,7 @@ EMML (HMML) 2056,224,Däbrä Qʷəsqʷam miracles: Saint Mary appears to Anthony
 EMML (HMML) 2056,231,Vision of Timothy of Alexandria (continued): The life of Saint Mary to the birth of Christ.,128v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,128,v
 EMML (HMML) 2056,214,Abba Behor has a vision of Saint Mary.,131r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,131,r
 EMML (HMML) 2056,3,Vision of Theophilus of Alexandria (continued): The Holy Family returns from Egypt.,132v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,132,v
-EMML (HMML) 2056,8,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,135v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,135,v
+EMML (HMML) 2056,8,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who did not fast.,135v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,135,v
 EMML (HMML) 2056,25,ʾƎmma Yoḥannǝs and the Ethiopian monk who was on pilgrimage to Jerusalem.,140v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,140,v
 EMML (HMML) 2056,78,"The conversion of the Muslim, Rewh, who is renamed Entons Haddis.",142r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,142,r
 EMML (HMML) 2056,91,"Scete miracles: Saint Mary blesses Scete, which Saint Macarius chooses for his monastery.",144r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,144,r
@@ -1638,8 +1638,8 @@ EMML (HMML) 2058,1-A,Vision of Theophilus of Alexandria (opening),16r,,,,,,,,,FA
 EMML (HMML) 2058,2,Vision of Theophilus of Alexandria (continued): Satan urges Herod to pursue the Holy Family.,20r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,20,r
 EMML (HMML) 2058,3,Vision of Theophilus of Alexandria (continued): The Holy Family returns from Egypt.,21r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,21,r
 EMML (HMML) 2058,5,The Frenchman whose wife was unable to have children.,23v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,23,v
-EMML (HMML) 2058,8,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,28v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,28,v
-EMML (HMML) 2058,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,29v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,29,v
+EMML (HMML) 2058,8,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who did not fast.,28v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,28,v
+EMML (HMML) 2058,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,29v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,29,v
 EMML (HMML) 2058,10,Qommos Raphael from Däbrä ʾƎnṣǝnā and the sacrament of confession.,30r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,30,r
 EMML (HMML) 2058,11,Däbrä Qaləmon miracles: An Arab who has contempt for Saint Mary’s icon at Däbrä Qaləmon is punished.,31r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,31,r
 EMML (HMML) 2058,12,The composition of the Maṣḥafa ḥawi by Patriarch Gabriel Ibn Tarīk.,31v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,31,v
@@ -1921,7 +1921,7 @@ EMML (HMML) 2060,4,"Deacon Michael, the grocer and the ring that was found in th
 EMML (HMML) 2060,48,The rich man from Colosse who was wounded in the eye while fighting the Qwez.,16r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,16,r
 EMML (HMML) 2060,190,The Muslim who found an icon of Saint Mary in his house.,16v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,16,v
 EMML (HMML) 2060,11,Däbrä Qaləmon miracles: An Arab who has contempt for Saint Mary’s icon at Däbrä Qaləmon is punished.,17v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,17,v
-EMML (HMML) 2060,8,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,18v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,18,v
+EMML (HMML) 2060,8,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who did not fast.,18v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,18,v
 EMML (HMML) 2060,59,"Elizabeth, the blind daughter of Abraham and Gera Anest of Baderman.",21r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,21,r
 EMML (HMML) 2060,57,The widow who could not find husbands for her three daughters.,22v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,22,v
 EMML (HMML) 2060,12,The composition of the Maṣḥafa ḥawi by Patriarch Gabriel Ibn Tarīk.,23v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,23,v
@@ -2064,7 +2064,7 @@ EMML (HMML) 2060,99,"The stone-footed man (i. e., a man with gout) from France."
 EMML (HMML) 2060,103,"Bishop Mercurius, whom the patriarch wanted to remove because of leprosy.",193v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,193,v
 EMML (HMML) 2060,112,A poor woman with a broken leg is healed by the icon of Saint Mary in the church of Harat ar-Rum.,194r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,194,r
 EMML (HMML) 2060,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,194v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,194,v
-EMML (HMML) 2060,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,195r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,195,r
+EMML (HMML) 2060,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,195r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,195,r
 EMML (HMML) 2060,125,The story of the cannibal from Qemer.,196v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,196,v
 EMML (HMML) 2060,293,"Mary, Nativity of cycle: Saint Mary heals the daughter of Arsaban while still in the womb of Saint Anne.",198v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,198,v
 EMML (HMML) 2066,315,"Mary, Childhood of cycle: Saint Mary stays in the Temple.",25r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,25,r
@@ -2072,7 +2072,7 @@ EMML (HMML) 2066,13,The composition of the Miracles of Mary by Bishop Hildephons
 EMML (HMML) 2066,400,The five sorrows of Saint Mary.,27v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,27,v
 EMML (HMML) 2066,120,The reopening of the church in Harat Zuwayla.,28r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,28,r
 EMML (HMML) 2066,4,"Deacon Michael, the grocer and the ring that was found in the fish.",29v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,29,v
-EMML (HMML) 2066,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,31v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,31,v
+EMML (HMML) 2066,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,31v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,31,v
 EMML (HMML) 2066,325,Holy Family journey cycle: The Holy Family hides from thieves in a sycamore tree at Däbrä Metmaq.,33r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,33,r
 EMML (HMML) 2066,50,Däbrä Qaləmon miracles: Abba Samuˀel of Däbrä Qaləmon intercedes for an angel who had disobeyed the command of God.,34v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,34,v
 EMML (HMML) 2066,321,Holy Family journey cycle: The rich Egyptian woman who refused to give water to the Holy Family.,36v,,,,,,,,ወኮነ፡ ዝንቱ፡ ነገር፡ እምድኅረ፡ ወለደቶ፡ ለእግዚእነ፡ ኢየሱስ፡ ክርስቶስ፡ ወአዘዘ፡ ሄሮድስ፡ ከመ፡ ይቅትሉ፡ ሕፃናተ፡ ዘክልኤ፡ ዓማት። ወሰሚዓ፡ እግዝእትነ፡ ማርያም፡ አጐየየቶ፡ ለፍቁር፡ ወልዳ፡ ውስተ፡ ምድረ፡ ግብጽ። ወእንዘ፡ ትትጐየይ፡ ወአብጽሐቶ፡ ውስተ፡ አሐቲ፡ ሀገር፡ እምአህጉረ፡ ግብጽ፡ ኃምስ፡ ወአኃዞ፡ ለፍቁር፡ ወልዳ፡ ጽምዓ፡ ማይ፡ እስመ፡ ጊዜ፡ ቀትር፡ ውእቱ። ወቦአት፡ ውስተ፡ ቤተ፡ አሐቲ፡ ብእሲት፡ ከመ፡ ትስእል፡ ማየ፡ ለፍቁር፡ ወልዳ፡ ዘውእቱ፡ ወሀቤ፡ ዝናማት፡ ወይእቲሰ፡ ብእሲት፡ ባዕልት፡ ጥቀ፡ እምንዋየ፡ ዝንቱ፡ ዓለም፡ ወበምግባረ፡ ኀጢአት፡ ወነዳይት፡ ይእቲ፡ በምግባረ፡ ሠናይ፡ ወድርክት፡ ይእቲ፡ ካልእታ፡ ለኤልዛቤል,TRUE,High,,,FALSE,,,FALSE,,,,,,36,v
@@ -2158,7 +2158,7 @@ EMML (HMML) 2066,112,A poor woman with a broken leg is healed by the icon of Sai
 EMML (HMML) 2066,158,The prioress who became pregnant after sinning with a servant.,132r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,132,r
 EMML (HMML) 2066,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,134r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,134,r
 EMML (HMML) 2066,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",134v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,134,v
-EMML (HMML) 2066,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,135v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,135,v
+EMML (HMML) 2066,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,135v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,135,v
 EMML (HMML) 2066,125,The story of the cannibal from Qemer.,137r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,137,r
 EMML (HMML) 2066,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,139r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,139,r
 EMML (HMML) 2066,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),140r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,140,r
@@ -2432,7 +2432,7 @@ EMML (HMML) 2275,314,A priest becomes insane after his entire family dies of the
 EMML (HMML) 2275,348,The milk of Saint Mary that was poured on the ground in Egypt.,190r,,,,,,,,ወእምዝ፡ ንጽሕፍ፡ ኀይለ፡ ወተአምረ፡ ዘገብረት፡ እግዝእትነ፡ ማርያም፡ በደወለ፡ ግብጽ። ወአሐተ፡ ዕለተ፡ እንዘ፡ ተሐውር፡ በውስተ፡ ፍኖት፡ መልአ፡ ፈድፋደ፡ ሐሊብ፡ በውስተ፡ አጥባቲሃ,TRUE,High,,,FALSE,,,FALSE,,,,,,190,r
 EMML (HMML) 2275,309,Saint Mary appears to an official who kidnapped a girl that had made a vow of virginity.,191r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,191,r
 EMML (HMML) 2275,4,"Deacon Michael, the grocer and the ring that was found in the fish.",191v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,191,v
-EMML (HMML) 2275,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,194r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,194,r
+EMML (HMML) 2275,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,194r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,194,r
 EMML (HMML) 2275,43,"The story of the blind priest, Yohannes Bakansi.",195v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,195,v
 EMML (HMML) 2275,33,The French artist who fell from the scaffolding while painting frescoes.,197r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,197,r
 EMML (HMML) 2275,14,The composition of the Wǝddāse Maryam by the Syrian potter.,198r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,198,r
@@ -2565,7 +2565,7 @@ EMML (HMML) 2378,149,A man who drowned when a pilgrim ship sank is resuscitated.
 EMML (HMML) 2378,135,The sinful deacon who was healed by a drop of Saint Mary's milk.,13v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,13,v
 EMML (HMML) 2378,135,The sinful deacon who was healed by a drop of Saint Mary's milk.,18r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,18,r
 EMML (HMML) 2378,4,"Deacon Michael, the grocer and the ring that was found in the fish.",18v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,18,v
-EMML (HMML) 2378,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,20v,,,,,,,,ወሀሎ፡ አሐዱ፡ ብእሲ፡ መነኮስ፡ በደብረ፡ አባ፡ ሳሙኤል፡ ዘቀልሞን፡ ወያፈቅራ፡ ለእግዝእትነ፡ ማርያም፡ ወያነብብ፡ ወትረ፡ ተአምኆተ፡ መልአክ፡ ሌሊተ፡ ወመዐልተ። ወዝንቱሰ፡ ብእሲ፡ ኢይጸውም፡ ወኢይጼሊ፡ ወይትሜሰል፡ ከመ፡ አብድ፡ ወእንቡዝ,TRUE,High,,,FALSE,,,FALSE,,,,,,20,v
+EMML (HMML) 2378,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,20v,,,,,,,,ወሀሎ፡ አሐዱ፡ ብእሲ፡ መነኮስ፡ በደብረ፡ አባ፡ ሳሙኤል፡ ዘቀልሞን፡ ወያፈቅራ፡ ለእግዝእትነ፡ ማርያም፡ ወያነብብ፡ ወትረ፡ ተአምኆተ፡ መልአክ፡ ሌሊተ፡ ወመዐልተ። ወዝንቱሰ፡ ብእሲ፡ ኢይጸውም፡ ወኢይጼሊ፡ ወይትሜሰል፡ ከመ፡ አብድ፡ ወእንቡዝ,TRUE,High,,,FALSE,,,FALSE,,,,,,20,v
 EMML (HMML) 2378,43,"The story of the blind priest, Yohannes Bakansi.",22r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,22,r
 EMML (HMML) 2378,180,The rich knight who was advised by an abbot to pray to Saint Mary to win the heart of the woman with whom he was in love.,23r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,23,r
 EMML (HMML) 2378,179,The monk who has carried by the bretheren to church when he became too sick to walk.,24v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,24,v
@@ -2768,7 +2768,7 @@ EMML (HMML) 2802,400,The five sorrows of Saint Mary.,15r,,,,,,,,,FALSE,,,,FALSE,
 EMML (HMML) 2802,120,The reopening of the church in Harat Zuwayla.,16r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,16,r
 EMML (HMML) 2802,134,The nominal Christian from Sidon who encountered a dragon.,17v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,17,v
 EMML (HMML) 2802,4,"Deacon Michael, the grocer and the ring that was found in the fish.",19v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,19,v
-EMML (HMML) 2802,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,22v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,22,v
+EMML (HMML) 2802,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,22v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,22,v
 EMML (HMML) 2802,325,Holy Family journey cycle: The Holy Family hides from thieves in a sycamore tree at Däbrä Metmaq.,24v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,24,v
 EMML (HMML) 2802,50,Däbrä Qaləmon miracles: Abba Samuˀel of Däbrä Qaləmon intercedes for an angel who had disobeyed the command of God.,26v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,26,v
 EMML (HMML) 2802,321,Holy Family journey cycle: The rich Egyptian woman who refused to give water to the Holy Family.,29r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,29,r
@@ -2919,7 +2919,7 @@ EMML (HMML) 2937,46,The church of Saint Mary that moved by itself to the shore o
 EMML (HMML) 2952,445,"Christ, Nativity of cycle: How the Virgin Mary gave birth (see no. 299)",24r,,,,,,,,ወኮነ፡ ሶበ፡ ተፈጸመ፡ መዋዕለ፡ ፅንሳ፡ ለእግዝእትነ፡…. ወፅአ፡ ትእዛዝ፡ እምኀበ፡ አውግስጦስ,TRUE,High,,,FALSE,,,FALSE,,,,,,24,r
 EMML (HMML) 2952,446,"Christ, Nativity of cycle: The shepherds and the magi come to worship Christ.",25v,,,,,,,,ካዕበ፡ ንነግረክሙ፡ አኃዊነ፡ ዜናሃ፡ ለእግዝእትነ። ወእምድኅረ፡ ወለደቶ፡ ለእግዚእነ፡ በቤተ፡ ልሔም፡ ዘይሁዳ፡ ወሀለዉ፡ ህየ፡ ኖሎት፡ ወይተግሁ፡ ኵሎ፡ ሌሊተ፡ እንዘ፡ የዓቅቡ፡ መራዕይሆሙ,TRUE,High,,,FALSE,,,FALSE,,,,,,25,v
 EMML (HMML) 2952,2,Vision of Theophilus of Alexandria (continued): Satan urges Herod to pursue the Holy Family.,26v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,26,v
-EMML (HMML) 2952,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,29r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,29,r
+EMML (HMML) 2952,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,29r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,29,r
 EMML (HMML) 2952,223,"Saint Mary appears to Timothy, Patriarch of Alexandria, in the church of Saint Pachomius in Alexandria.",32v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,32,v
 EMML (HMML) 2952,60,The Arab woman who entrusted her jewels to a Christian for safekeeping.,36v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,36,v
 EMML (HMML) 2952,62,The abbot who did not allow the Miracles of Mary to be read in his monastery.,38v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,38,v
@@ -3069,7 +3069,7 @@ EMML (HMML) 2963,328,The pious abbot who was falsely accused by his monks of sin
 EMML (HMML) 2963,415,The thief who was caught stealing from the church of Saint Mary and was released by his captors when he prayed to her.,133r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,133,r
 EMML (HMML) 2963,214,Abba Behor has a vision of Saint Mary.,137v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,137,v
 EMML (HMML) 2963,385,The hungry man whom Saint Mary used to feed.,139r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,139,r
-EMML (HMML) 2968,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,41v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,41,v
+EMML (HMML) 2968,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,41v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,41,v
 EMML (HMML) 2968,472,"Archbishop Tilas, who was seized by Jews while carrying a golden chalice.",44r,,,,,,,,ወሀሎ፡ አሐዱ፡ ብእሲ፡ ጳጳስ፡ በደወለ፡ አፍርንጊ፡ ዘስሙ፡ ጢላስ፡ ዘይፈርሆ፡ ለእግዚአብሔር፡ ወያከብራ፡ ለእግዝእትነ፡…. ወአሐተ፡ ዕለተ፡ እንዘ፡ ሀለወ፡ በንዋሙ፡ አስተርአየቶ፡ እግዝእትነ፡…. በእንተ፡ ጽዋዕ፡ ዘቤተ፡ ክርስቲያን,TRUE,High,,,FALSE,,,FALSE,,,,,,44,r
 EMML (HMML) 2968,473,"Elias from Elkesus, who was falsely accused and was suspended by the abbot.",46v,,,,,,,,ወሀሎ፡ አሐዱ፡ ብእሲ፡ በሀገረ፡ እልክሱስ፡ ዘስሙ፡ ኤልያስ፡ ዘያፈቅራ፡ ለእግዝእትነ፡…. ለለ፡ ተጸውዓ፡ ስመ፡ በዓላ፡ ይለብስ፡ አልባሰ፡ ተክህኖ፡ ወይቄድስ፡ ቅዳሴሃ፡ ለእመ፡ ብርሃን። ወሐመይዎ፡ ካህናተ፡ ቤተ፡ ክርስቲያን,TRUE,High,,,FALSE,,,FALSE,,,,,,46,v
 EMML (HMML) 2968,464,"King Bartaqu of Greece, who became a monk.",51r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,51,r
@@ -3206,7 +3206,7 @@ EMML (HMML) 3031,439,The European who tried to steal the icon of Saint Mary from
 EMML (HMML) 3031,421,Saint Mary stops a pestilence.,71r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,71,r
 EMML (HMML) 3031,302,"Holy Family journey cycle: The hunter reports to King Demateyanos, who comes to visit the Holy Family.",80v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,80,v
 EMML (HMML) 3031,1-A,Vision of Theophilus of Alexandria (opening),81v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,81,v
-EMML (HMML) 3031,8,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,89v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,89,v
+EMML (HMML) 3031,8,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who did not fast.,89v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,89,v
 EMML (HMML) 3031,17,"Nəkʷal, the deacon from Margawkim, who spent his master’s money on the poor.",92v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,92,v
 EMML (HMML) 3031,65,Däbrä Qʷəsqʷam miracles: The vinedresser of Manfalut who gave his earnings to the builders of Däbrä Qʷəsqʷam.,96v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,96,v
 EMML (HMML) 3031,72,"Entawos, a pagan from Qarays, becomes a Christian after being struck by miraculous arrows.",99r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,99,r
@@ -3299,8 +3299,8 @@ EMML (HMML) 3051,34,The devout Muslim who became a Christian when Saint Mary app
 EMML (HMML) 3051,263,Saint John Chrysostom defends a woman whom Nestorius had told the people to spit upon.,61v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,61,v
 EMML (HMML) 3051,1-A,Vision of Theophilus of Alexandria (opening),67v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,67,v
 EMML (HMML) 3051,6,"During the famine of 1120 MM [likely 1404 CE], the Arabs try to plunder the monasteries of Egypt.",73r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,73,r
-EMML (HMML) 3051,8,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,74r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,74,r
-EMML (HMML) 3051,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,75v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,75,v
+EMML (HMML) 3051,8,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who did not fast.,74r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,74,r
+EMML (HMML) 3051,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,75v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,75,v
 EMML (HMML) 3051,17,"Nəkʷal, the deacon from Margawkim, who spent his master’s money on the poor.",77r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,77,r
 EMML (HMML) 3051,20,The Arab woman who suffered from an issue of blood for many years.,78r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,78,r
 EMML (HMML) 3051,60,The Arab woman who entrusted her jewels to a Christian for safekeeping.,82r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,82,r
@@ -4397,7 +4397,7 @@ EMML (HMML) 5520,139,The repentant knight who could pray only the Hail Mary.,21v
 EMML (HMML) 5520,149,A man who drowned when a pilgrim ship sank is resuscitated.,23r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,23,r
 EMML (HMML) 5520,135,The sinful deacon who was healed by a drop of Saint Mary's milk.,26v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,26,v
 EMML (HMML) 5520,4,"Deacon Michael, the grocer and the ring that was found in the fish.",27v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,27,v
-EMML (HMML) 5520,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,31v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,31,v
+EMML (HMML) 5520,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,31v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,31,v
 EMML (HMML) 5520,43,"The story of the blind priest, Yohannes Bakansi.",35r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,35,r
 EMML (HMML) 5520,180,The rich knight who was advised by an abbot to pray to Saint Mary to win the heart of the woman with whom he was in love.,37r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,37,r
 EMML (HMML) 5520,179,The monk who has carried by the bretheren to church when he became too sick to walk.,40r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,40,r
@@ -4520,7 +4520,7 @@ EMML (HMML) 6196,112,A poor woman with a broken leg is healed by the icon of Sai
 EMML (HMML) 6196,158,The prioress who became pregnant after sinning with a servant.,71r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,71,r
 EMML (HMML) 6196,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,76v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,76,v
 EMML (HMML) 6196,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",79r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,79,r
-EMML (HMML) 6196,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,81r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,81,r
+EMML (HMML) 6196,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,81r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,81,r
 EMML (HMML) 6196,125,The story of the cannibal from Qemer.,86r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,86,r
 EMML (HMML) 6196,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,90v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,90,v
 EMML (HMML) 6196,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),94r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,94,r
@@ -4689,7 +4689,7 @@ EMML (HMML) 6640,103,"Bishop Mercurius, whom the patriarch wanted to remove beca
 EMML (HMML) 6640,112,A poor woman with a broken leg is healed by the icon of Saint Mary in the church of Harat ar-Rum.,47r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,47,r
 EMML (HMML) 6640,158,The prioress who became pregnant after sinning with a servant.,47v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,47,v
 EMML (HMML) 6640,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",48v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,48,v
-EMML (HMML) 6640,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,49r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,49,r
+EMML (HMML) 6640,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,49r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,49,r
 EMML (HMML) 6640,125,The story of the cannibal from Qemer.,49v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,49,v
 EMML (HMML) 6640,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,51r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,51,r
 EMML (HMML) 6640,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),52r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,52,r
@@ -5011,9 +5011,9 @@ EMML (HMML) 6938,3,Vision of Theophilus of Alexandria (continued): The Holy Fami
 EMML (HMML) 6938,4,"Deacon Michael, the grocer and the ring that was found in the fish.",20r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,20,r
 EMML (HMML) 6938,5,The Frenchman whose wife was unable to have children.,23r,,,,,,,,ወሀሎ፡ አሐዱ፡ ብእሲ፡ በሀገረ፡ አፍርንጊ፡ እምአድያመ፡ አፍራንሳ፡ ዘያፈቅራ፡ ለእግዝእትነ፡…. እምንእሱ፡ ወይትለአካ፡ በኵሉ፡ ኀይሉ። ወሶበ፡ በጽሐ፡ አምጣነ፡ አውስቦ፡ አስተዋሰብዎ፡ አበዊሁ፡ ወለተ፡ እምአውላደ፡ አፍርንጊ,TRUE,High,,,FALSE,,,FALSE,,,,,,23,r
 EMML (HMML) 6938,6,"During the famine of 1120 MM [likely 1404 CE], the Arabs try to plunder the monasteries of Egypt.",27v,,,,,,,,ወኮነ፡ በ፲፻፡ ወ፻፡ ወ፳፡ ዓመተ፡ ሰማዕታት፡ ንጹሓን፡ በመዋዕሊሁ፡ ለአብ፡ እግዚእ፡ ሊቀ፡ ጳጳሳት፡ አባ፡ ማቴዎስ፡ ወኮነ፡ በሀገረ፡ ምስር፡ ረሓብ፡ ዐቢይ,TRUE,High,,,FALSE,,,FALSE,,,,,,27,v
-EMML (HMML) 6938,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,29v,,,,,,,,ወሀሎ፡ በደብረ፡ ቅዱስ፡ ዐቢይ፡ አባ፡ ሳሙኤል፡ ዘቀልሞን፡ ቤተ፡ ክርስቲያን፡ ሠናይት፡ በስመ፡ እግዝእትነ፡…. ወኮነ፡ ውስተ፡ ዛቲ፡ ቅድስት፡ ቤተ፡ ክርስቲያን፡ ሥዕል፡ ዐቢይ፡ ወመንክር,TRUE,High,,,FALSE,,,FALSE,,,,,,29,v
-EMML (HMML) 6938,8,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,32r,,,,,,,,ወኮነ፡ በአሐዱ፡ እምመዋዕል፡ ሖሩ፡ ሰብእ፡ መነኮሳት፡ እምደብረ፡ አባ፡ ሳሙኤል፡ ዘቀልሞን፡ ለፈጽሞ፡ መፍቅደ፡ ደብር,TRUE,High,,,FALSE,,,FALSE,,,,,,32,r
-EMML (HMML) 6938,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,34r,,,,,,,,ወሀሎ፡ በዝንቱ፡ ደብረ፡ ቀልሞን፡ ዘቅዱስ፡ አባ፡ ሳሙኤል፡ ብእሲ፡ ዘይሰመይ፡ ያዕቆብ፡ ሐፂር፡ ዘአድኀነቶ፡ እግዝእትነ፡…. እምማእሰረ፡ ዐረብ,TRUE,High,,,FALSE,,,FALSE,,,,,,34,r
+EMML (HMML) 6938,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,29v,,,,,,,,ወሀሎ፡ በደብረ፡ ቅዱስ፡ ዐቢይ፡ አባ፡ ሳሙኤል፡ ዘቀልሞን፡ ቤተ፡ ክርስቲያን፡ ሠናይት፡ በስመ፡ እግዝእትነ፡…. ወኮነ፡ ውስተ፡ ዛቲ፡ ቅድስት፡ ቤተ፡ ክርስቲያን፡ ሥዕል፡ ዐቢይ፡ ወመንክር,TRUE,High,,,FALSE,,,FALSE,,,,,,29,v
+EMML (HMML) 6938,8,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who did not fast.,32r,,,,,,,,ወኮነ፡ በአሐዱ፡ እምመዋዕል፡ ሖሩ፡ ሰብእ፡ መነኮሳት፡ እምደብረ፡ አባ፡ ሳሙኤል፡ ዘቀልሞን፡ ለፈጽሞ፡ መፍቅደ፡ ደብር,TRUE,High,,,FALSE,,,FALSE,,,,,,32,r
+EMML (HMML) 6938,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,34r,,,,,,,,ወሀሎ፡ በዝንቱ፡ ደብረ፡ ቀልሞን፡ ዘቅዱስ፡ አባ፡ ሳሙኤል፡ ብእሲ፡ ዘይሰመይ፡ ያዕቆብ፡ ሐፂር፡ ዘአድኀነቶ፡ እግዝእትነ፡…. እምማእሰረ፡ ዐረብ,TRUE,High,,,FALSE,,,FALSE,,,,,,34,r
 EMML (HMML) 6938,10,Qommos Raphael from Däbrä ʾƎnṣǝnā and the sacrament of confession.,35v,,,,,,,,ወሀሎ፡ አሐዱ፡ ብእሲ፡ በሀገረ፡ ስዒድ፡ በደብረ፡ እንጽና፡ ቤተ፡ ክርስቲያን፡ በስመ፡ እግዝእትነ፡…. ወእስከ፡ ይእዜ፡ ሀሎ፡ ወኵሉ፡ አሐዱ፡ አሐዱ፡ የአምሮ፡ ወይሰመይ፡ ምኔተ፡ አቡ፡ ንዕናእ,TRUE,High,,,FALSE,,,FALSE,,,,,,35,v
 EMML (HMML) 6938,11,Däbrä Qaləmon miracles: An Arab who has contempt for Saint Mary’s icon at Däbrä Qaləmon is punished.,37r,,,,,,,,ወኮነ፡ በመዋዕለ፡ እግዚእ፡ ክቡር፡ ሊቀ፡ ጳጳሳት፡ አባ፡ ገብርኤል፡ ሰማንያ፡ ወሰመንቱ፡ እምሊቃነ፡ ጳጳሳት፡ ዘእለእስክንድርያ፡ ብእሲ፡ ሊቅ፡ በደብረ፡ ቅዱስ፡ ዐቢይ፡ ሳሙኤል፡ ዘቀልሞን፡ ዘስሙ፡ ሰሎሞን,TRUE,High,,,FALSE,,,FALSE,,,,,,37,r
 EMML (HMML) 6938,12,The composition of the Maṣḥafa ḥawi by Patriarch Gabriel Ibn Tarīk.,38r,,,,,,,,ወኮነ፡ በመዋዕለ፡ አብ፡ ክቡር፡ ሊቀ፡ ጳጳሳት፡ አባ፡ ገብርኤል፡ ወልደ፡ ተሪክ፡ ወበጽሖ፡ ለዝንቱ፡ ሊቀ፡ ጳጳሳት፡ በአስ፡ ወጸልእ፡ ምስለ፡ ሕዝቡ,TRUE,High,,,FALSE,,,FALSE,,,,,,38,r
@@ -5406,9 +5406,9 @@ EMML (HMML) 7543,3,Vision of Theophilus of Alexandria (continued): The Holy Fami
 EMML (HMML) 7543,4,"Deacon Michael, the grocer and the ring that was found in the fish.",13r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,13,r
 EMML (HMML) 7543,5,The Frenchman whose wife was unable to have children.,14v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,14,v
 EMML (HMML) 7543,6,"During the famine of 1120 MM [likely 1404 CE], the Arabs try to plunder the monasteries of Egypt.",16v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,16,v
-EMML (HMML) 7543,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,17v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,17,v
-EMML (HMML) 7543,8,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,18v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,18,v
-EMML (HMML) 7543,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,19v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,19,v
+EMML (HMML) 7543,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,17v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,17,v
+EMML (HMML) 7543,8,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who did not fast.,18v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,18,v
+EMML (HMML) 7543,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,19v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,19,v
 EMML (HMML) 7543,10,Qommos Raphael from Däbrä ʾƎnṣǝnā and the sacrament of confession.,20v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,20,v
 EMML (HMML) 7543,11,Däbrä Qaləmon miracles: An Arab who has contempt for Saint Mary’s icon at Däbrä Qaləmon is punished.,21r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,21,r
 EMML (HMML) 7543,12,The composition of the Maṣḥafa ḥawi by Patriarch Gabriel Ibn Tarīk.,21v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,21,v
@@ -5910,7 +5910,7 @@ GEM (PUL) 17,187,The peasant who complained to Saint Mary because she did not re
 GEM (PUL) 17,161,The pious monk (or: the Jew from Akhmim) whom Saint Mary made young.,12r,2,6,12v,2,14,3,,ወሀሎ፡ ፩ብእሲ፡ ዕብራዊ፡ ዘልህቀ፡ በሀገረ፡ አክሚም፡ ዘያፈቅራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በክልኤ፡ ማርያም፡ ወላዲተ፡ አምላክ፡ እምሥርወ፡ ልቡ፡ ወያወትር፡ አንብቦተ፡ ሰላማ፡ ለእግዝትነ፡,FALSE,High,,,FALSE,,,FALSE,,,,,,12,r
 GEM (PUL) 17,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,13r,1,1,13v,2,3,4,,ወሀሎ፡  ፩መነኮስ፡ ዘይነብር፡ በውስተ፡ ሀገር፡ ፊልጵስዩስ፡ ዘስሙ፡ ድምያኖስ፡ ወያፈቅራ፡ ለእግዝትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ እምሥርወ፡ ልቡ፡ ወይትለዓክ፡ በኵሉ፡ ክሂሎቱ፡,FALSE,High,,,FALSE,,,FALSE,,,,,,13,r
 GEM (PUL) 17,163,"The Muslim whom Saint Mary told to receive baptism. Later, as Bishop of Rome, he cut off his hand because of a carnal thought.",13v,2,10,14v,2,4,5,,ወሀሎ፡ ፩ብእሲ፡ እምጳጳስተ፡ ሮሜ፡ ዘይብልዎ፡ አባሰ፡ ወኄር፡ውእቱ፡ብእሲሁ፡ ውእቱ፡ ወይፈርሆ፡ ለእግዚአብሔር፡ ወየዓቅብ፡ ነፍሶ፡ እምዝሙት፡ ወእምሕሊና፡ እኩይ፡,FALSE,High,,,FALSE,,,FALSE,,,,,,13,v
-GEM (PUL) 17,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,14v,2,10,15v,2,13,6,,ወሀሎ፡ ፩ብእሲ፡ መነኮስ፡ ኄር፡ ዘይብልዎ፡ ይስሐቅ፡ ወያዕቆብ፡  ነፍሶ፡ እምዝሙት፡ ወእምሕሊና፡ እኩይ፡ ወያፈቅራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ በኵሉ፡ ኃይሉ፡ ወእምንእሱ፡ ነበረ፡ በአሐቲ፡ ደብር፡ በመዋዕሊሁ፡ ለአባ፡ ገብርኤል፡,FALSE,High,,,FALSE,,,FALSE,,,,,,14,v
+GEM (PUL) 17,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,14v,2,10,15v,2,13,6,,ወሀሎ፡ ፩ብእሲ፡ መነኮስ፡ ኄር፡ ዘይብልዎ፡ ይስሐቅ፡ ወያዕቆብ፡  ነፍሶ፡ እምዝሙት፡ ወእምሕሊና፡ እኩይ፡ ወያፈቅራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ በኵሉ፡ ኃይሉ፡ ወእምንእሱ፡ ነበረ፡ በአሐቲ፡ ደብር፡ በመዋዕሊሁ፡ ለአባ፡ ገብርኤል፡,FALSE,High,,,FALSE,,,FALSE,,,,,,14,v
 GEM (PUL) 17,27,"Maryam from Dǝfrā, a child who wanted to receive Communion but was shut up in the house when her family went to church.",15v,2,19,16v,2,8,7,,ወሀሎ፡ ፩ብእሲ፡ ፈራሄ፡ እግዚአብሔር፡ ወሀገሩሰ፡ ድፍራ፡ ወአውሰበ፡ ብእሲተ፡ ወወለደ፡ እምኔሃ፡ ፫ውለደ፡ ፪ተ፡ ተባዕተ፡ ወአሐተ፡ ወለተ፡  ወይእቲሰ፡ ትንዕስ፡ ወስማ፡ ማርያም፡ ወሞተት፡ እሞሙ። ,FALSE,High,,,FALSE,,,FALSE,,,,,,15,v
 GEM (PUL) 17,33,The French artist who fell from the scaffolding while painting frescoes.,16v,2,13,17v,2,11,8,,ወሀሎ፡ ፩ብእሲ፡ ሠዓሊ፡ ወአልቦ፡ ዘይትማሰሎ፡ በገቢረ፡ ሥዕል፡ በውእቱ፡ አዝማን፡ ወያፈቅራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ በኵሉ፡ ልቡ፡ ወሶበ፡ ይገብር፡ ሥዕላ፡ በተናቅቆ፡ ,FALSE,High,,,FALSE,,,FALSE,,,,,,16,v
 GEM (PUL) 17,54,Saint Mary carries a dying monk to Jerusalem.,17v,2,16,18r,2,20,9,,ወሀለወት፡ ሥዕለ፡ እግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ በደብረ፡ ነጋድያን፡ በቤተ፡ ሕሙማን፡ ወሀሎ፡ ህየ፡ ፩ሕ፡ ምሥራቅ፡ዘለለጽባሑ፡ ይትመሐፅኦ፡ ባቲ፡  ሕሙማን፡ ,FALSE,High,,,FALSE,,,FALSE,,,,,,17,v
@@ -5934,7 +5934,7 @@ GEM (PUL) 17,,,31v,1,1,32v,1,2,24,,ወሀለወት፡ አሐቲ፡ ብእሲት�
 GEM (PUL) 17,158,The prioress who became pregnant after sinning with a servant.,32v,1,8,35r,1,9,25,,ወሀለወት፡ አሐቲ፡ ብእሲት፡ በደብረ፡ ቀርሜሎስ፡ዘስማ፡ ሶፍያ፡ዘሠናይ፡ ግዕዘ፡ ወትፈርሆ፡ ለእግዚአብሔር፡ ወታፈቅራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ በኵሉ፡ ልቡ፡ ወሀለዋ፡ውስተ፡ ውእቱ፡ ድብራ፡  ደናግል፡,FALSE,High,,,FALSE,,,FALSE,,,,,,32,v
 GEM (PUL) 17,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,35r,1,15,36r,1,2,26,,ወሀሎ፡ ፩ብእሲ፡ እኩይ፡ በሀገረ፡ ፊንቂስ፡ ዘስሙ፡ ባሮክ፡ ጠዋይ፡ ወአልቦቱ፡ ምግባረ፡ ሠናይ፡ ወኢያዕምሮ፡ ለእግዚአብሐር፡ ወኮነ፡ ጽሉእ፡ ወምኑነ፡ በኀበ፡ ኵሎሙ፡,FALSE,High,,,FALSE,,,FALSE,,,,,,35,r
 GEM (PUL) 17,,,36r,1,8,37r,1,1,27,,ወሀሎ፡ ፩ዲያቆን፡ ዘስሙ፡ ኦንሶጣስዮስ፡ በሀገረ፡ ሮሜ፡ ዘበራንጥያን፡  ወፈራኄ፡ እግዚአብሔር፡ ውእቱ፡ ወያፈቅራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ ወይገይሰ፡ ወትረ፡...,FALSE,Low,,,FALSE,,,FALSE,,,,,,36,r
-GEM (PUL) 17,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,37r,1,7,39r,2,12,28,,ወሀሎ፡ ፩መነኮስ፡ በደብረ፡ ሳሙኤል፡ ዘቀልሞስ፡ ወያፈቅራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡. ወያነብብ፡ ወትረ፡,FALSE,High,,,FALSE,,,FALSE,,,,,,37,r
+GEM (PUL) 17,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,37r,1,7,39r,2,12,28,,ወሀሎ፡ ፩መነኮስ፡ በደብረ፡ ሳሙኤል፡ ዘቀልሞስ፡ ወያፈቅራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡. ወያነብብ፡ ወትረ፡,FALSE,High,,,FALSE,,,FALSE,,,,,,37,r
 GEM (PUL) 17,125,The story of the cannibal from Qemer.,39r,2,19,40v,2,4,29,,ወሀሎ፡ ፩ብእሲ፡  በሀገረ፡ ቅምር፡ ክቡረ፡ ዘመድ፡ በስም፡ ክርስቲያናዊ፡ ወኃጢያቱሰ፡ ዓቢይ፡ ፈድፋደ፡ እምኃጢያተ፡ ኵሉ፡አለም፡ ወኢይበልዕ፡ እክለ፡ ወኢሥጋ፡ ላህም፡,FALSE,High,,,FALSE,,,FALSE,,,,,,39,r
 GEM (PUL) 17,415,The thief who was caught stealing from the church of Saint Mary and was released by his captors when he prayed to her.,40v,2,11,41r,2,11,30,,ተብህለ፡ ከመ፡ ሀሎ፡ ፩ብእሲ፡ሠራቂ፡ ወቀሣጢ፡ ቢተ፡ ክርስቲያን፡ ወኵሎ፡ አሚረ፡ ነበረ፡ እንዘ፡ ይቀስጥ፡ እስመ፡ እኩየ፡ ልማድ፡.,FALSE,High,,,FALSE,,,FALSE,,,,,,40,v
 GEM (PUL) 17,539,A barren woman conceives and bears salda Masqal.,41r,2,18,42r,1,9,31,,ወሀለወት፡ አሐቲ፡ ብእሲት፡ ዘአልጸቀት፡ ለወሊድ። ወእንዘ፡ ተሐውር፡ ውስተ፡ ቤተ፡  ክርስቲያን፡ ለቅዱስ፡ ጊዮርጊስ፡ ለግቢረ፡ በዓል፡ምስለ፡ ብዙኃን፡ ሰብእ፡,FALSE,Medium,,,FALSE,,,FALSE,,,,,,41,r
@@ -6106,7 +6106,7 @@ L-Uppsala (UU) 30,112,A poor woman with a broken leg is healed by the icon of Sa
 L-Uppsala (UU) 30,158,The prioress who became pregnant after sinning with a servant.,,,,,,,37,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 L-Uppsala (UU) 30,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,,,,,,,38,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 L-Uppsala (UU) 30,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,39,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-L-Uppsala (UU) 30,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,40,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+L-Uppsala (UU) 30,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,,,,,,,40,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 L-Uppsala (UU) 30,125,The story of the cannibal from Qemer.,,,,,,,41,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 L-Uppsala (UU) 30,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,,,,,,,42,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 L-Uppsala (UU) 30,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,43,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
@@ -6183,7 +6183,7 @@ L-Uppsala (UU) 32,112,A poor woman with a broken leg is healed by the icon of Sa
 L-Uppsala (UU) 32,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,,,,,,,26,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 L-Uppsala (UU) 32,43,"The story of the blind priest, Yohannes Bakansi.",,,,,,,26,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 L-Uppsala (UU) 32,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,27,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-L-Uppsala (UU) 32,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,28,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+L-Uppsala (UU) 32,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,,,,,,,28,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 L-Uppsala (UU) 32,125,The story of the cannibal from Qemer.,,,,,,,29,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 L-Uppsala (UU) 32,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,,,,,,,30,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 L-Uppsala (UU) 32,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,31,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
@@ -6228,7 +6228,7 @@ M-Dourgne (AEC) 1,112,A poor woman with a broken leg is healed by the icon of Sa
 M-Dourgne (AEC) 1,158,The prioress who became pregnant after sinning with a servant.,26v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,26,v
 M-Dourgne (AEC) 1,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,28v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,28,v
 M-Dourgne (AEC) 1,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",29v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,29,v
-M-Dourgne (AEC) 1,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,30r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,30,r
+M-Dourgne (AEC) 1,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,30r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,30,r
 M-Dourgne (AEC) 1,125,The story of the cannibal from Qemer.,32r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,32,r
 M-Dourgne (AEC) 1,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,34r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,34,r
 M-Dourgne (AEC) 1,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),35v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,35,v
@@ -6364,7 +6364,7 @@ PEM (PUL) 20,,,79r,,,79v,,,74,,,FALSE,,,,TRUE,,,FALSE,fols. 79rv: Seventy-fourth
 PEM (PUL) 20,132,The woman from Cairo whose children all died.,79v,,,80r,,,76,,,FALSE,,,,FALSE,,,FALSE,fols. 79v-80r: Seventy-fifth Miracle of Mary,How the Virgin Mary gave children to a certain woman whose nine children had died when the woman promised that they would become priests and deacons).,,,,79,v
 PEM (PUL) 20,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,80r,,,81r,,,76,,,FALSE,,,,FALSE,,,FALSE,fols. 80r-81r: Seventy-sixth Miracle of Mary,"How the Virgin Mary received the soul of Barok, a dissolute man) (Budge, Mary, 26).",,,,80,r
 PEM (PUL) 20,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",81r,,,81v,,,77,,,FALSE,,,,FALSE,,,FALSE,fols. 81rv: Seventy-seventh Miracle of Mary,"How the Virgin Mary received the soul of Anəsəṭasəyos of Rome) (Budge, Mary, 27).",,,,81,r
-PEM (PUL) 20,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,81v,,,82r,,,78,,,FALSE,,,,FALSE,,,FALSE,fols. 81v-82r: Seventy-eighth Miracle of Mary,"How the Virgin Mary helped a monk to escape the monastery of Qäləmon when persecuted by other monks when he breached the wall of the church by hitting it with his skull cap) (Budge, Mary, 28; Strelcyn 32.16.28).",,,,81,v
+PEM (PUL) 20,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,81v,,,82r,,,78,,,FALSE,,,,FALSE,,,FALSE,fols. 81v-82r: Seventy-eighth Miracle of Mary,"How the Virgin Mary helped a monk to escape the monastery of Qäləmon when persecuted by other monks when he breached the wall of the church by hitting it with his skull cap) (Budge, Mary, 28; Strelcyn 32.16.28).",,,,81,v
 PEM (PUL) 20,,,82r,,,82v,,,79,,,FALSE,,,,FALSE,,,FALSE,fols. 82rv: Seventy-ninth Miracle of Mary,How the Virgin Mary saved a thief from his persecutors).,,,,82,r
 PEM (PUL) 20,,,82v,,,83r,,,80,,,FALSE,,,,FALSE,,,FALSE,fols. 82v-83r: Eightieth Miracle of Mary,"How the Virgin Mary saved the woman in childbirth from drowning) (Budge, Mary, 32; Strelcyn 32.16. 31; Bland 2, also Vincent de Beauvais).",,,,82,v
 PEM (PUL) 20,236,Saint Mary gives a thirsty dog water to drink from her shoe.,83r,,,84r,,,81,,,FALSE,,,,FALSE,,,FALSE,fols. 83r-84r: Eighty-first Miracle of Mary,"How the Virgin Mary gave water to a thirsty dog) (Budge, Mary, 33; Strelcyn 32.16. 32).",,,,83,r
@@ -6461,16 +6461,16 @@ PEM (PUL) 41,170,Saint Mary saves from a lion a pious monk who had drunk too muc
 PEM (PUL) 41,,,99v,,,100v,,,72,,,FALSE,,,,FALSE,,,FALSE,,,,,,99,v
 PEM (PUL) 41,182,The bankrupt merchant to whom Satan offered two pearls if he would deny Christ and Saint Mary.,100v,,,101v,,,73,,,FALSE,,,,FALSE,,,FALSE,,,,,,100,v
 PEM (PUL) 41,4,"Deacon Michael, the grocer and the ring that was found in the fish.",101v,,,104r,,,74,,,FALSE,,,,FALSE,,,FALSE,,,,,,101,v
-PEM (PUL) 41,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,104r,,,106r,,,75,,,FALSE,,,,FALSE,,,FALSE,,,,,,104,r
+PEM (PUL) 41,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,104r,,,106r,,,75,,,FALSE,,,,FALSE,,,FALSE,,,,,,104,r
 PEM (PUL) 41,,,106r,,,107v,,,76,,,FALSE,,,,FALSE,,,FALSE,,,,,,106,r
 PEM (PUL) 41,179,The monk who has carried by the bretheren to church when he became too sick to walk.,107v,,,108r,,,77,,,FALSE,,,,FALSE,,,FALSE,,,,,,107,v
 PEM (PUL) 41,,,108r,,,109r,,,78,,,FALSE,,,,FALSE,,,FALSE,,,,,,108,r
 PEM (PUL) 41,,,109v,,,110v,,,79,,,FALSE,,,,FALSE,,,FALSE,,,,,,109,v
 PEM (PUL) 41,1-A,Vision of Theophilus of Alexandria (opening),110v,,,113r,,,80,,,FALSE,,,,FALSE,,,FALSE,,,,,,110,v
 PEM (PUL) 41,1-A,Vision of Theophilus of Alexandria (opening),113r,,,115v,,,81,,,FALSE,,,,FALSE,,,FALSE,,,,,,113,r
-PEM (PUL) 41,8,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,115v,,,118r,,,82,,,FALSE,,,,FALSE,,,FALSE,,,,,,115,v
+PEM (PUL) 41,8,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who did not fast.,115v,,,118r,,,82,,,FALSE,,,,FALSE,,,FALSE,,,,,,115,v
 PEM (PUL) 41,269,Däbrä Qaləmon miracles: The events that occurred during the captivity of Abbots Samuˀel of Däbrä Qaləmon and John of Scete.,118v,,,121r,,,83,,,FALSE,,,,FALSE,,,FALSE,,,,,,118,v
-PEM (PUL) 41,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,122r,,,122v,,,84,,,FALSE,,,,FALSE,,,FALSE,,,,,,122,r
+PEM (PUL) 41,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,122r,,,122v,,,84,,,FALSE,,,,FALSE,,,FALSE,,,,,,122,r
 PEM (PUL) 41,10,Qommos Raphael from Däbrä ʾƎnṣǝnā and the sacrament of confession.,123r,,,124v,,,85,,,FALSE,,,,FALSE,,,FALSE,,,,,,123,r
 PEM (PUL) 41,11,Däbrä Qaləmon miracles: An Arab who has contempt for Saint Mary’s icon at Däbrä Qaləmon is punished.,124v,,,125v,,,86,,,FALSE,,,,FALSE,,,FALSE,,,,,,124,v
 PEM (PUL) 41,,,126r,,,128r,,,87,,,FALSE,,,,FALSE,,,FALSE,,,,,,126,r
@@ -6575,7 +6575,7 @@ PEM (PUL) 46,112,A poor woman with a broken leg is healed by the icon of Saint M
 PEM (PUL) 46,158,The prioress who became pregnant after sinning with a servant.,25v,,,27r,,,25,,,FALSE,,,,FALSE,,,FALSE,fols. 025v-27r: Twenty-fifth Miracle of Mary,"How the Virgin Mary aided in the delivery of a child to an abbess before the bishop came to enquire into the matter) (Budge, Mary, 25; Strelcyn 32.16.25).",,,,25,v
 PEM (PUL) 46,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,27r,,,27v,,,26,,,FALSE,,,,FALSE,,,FALSE,fols. 027rv: Twenty-sixth Miracle of Mary,"How the Virgin Mary received the soul of Barok, a dissolute man) (Budge, Mary, 26; Strelcyn 32.16.26).",,,,27,r
 PEM (PUL) 46,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",27v,,,28r,,,27,,,FALSE,,,,FALSE,,,FALSE,fols. 027v-28r: Twenty-seventh Miracle of Mary,"How the Virgin Mary received the soul of Anəsəṭasəyos) (Budge, Mary, 27; Strelcyn 32.16.27).",,,,27,v
-PEM (PUL) 46,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,28r,,,29v,,,28,,,FALSE,,,,FALSE,,,FALSE,fols. 028r-29v: Twenty-eighth Miracle of Mary,"How the Virgin Mary helped a monk to escape the monastery of Qäləmon when persecuted by other monks) (Budge, Mary, 28; Strelcyn 32.16.28).",,,,28,r
+PEM (PUL) 46,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,28r,,,29v,,,28,,,FALSE,,,,FALSE,,,FALSE,fols. 028r-29v: Twenty-eighth Miracle of Mary,"How the Virgin Mary helped a monk to escape the monastery of Qäləmon when persecuted by other monks) (Budge, Mary, 28; Strelcyn 32.16.28).",,,,28,r
 PEM (PUL) 46,125,The story of the cannibal from Qemer.,29v,,,30v,,,29,,,FALSE,,,,FALSE,,,FALSE,fols. 029v-30v: Twenty-ninth Miracle of Mary,"How the Virgin Mary saved the soul of the cannibal of Qəmər) (Budge, Mary, 29; Strelcyn 32.16.29).",,,,29,v
 PEM (PUL) 46,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,30v,,,31v,,,30,,,FALSE,,,,FALSE,,,FALSE,fols. 030v-31v: Thirtieth Miracle of Mary,"How the Virgin Mary delivered a thief, the son of a poor widow) (Budge, Mary, 30.",,,,30,v
 PEM (PUL) 46,,,31v,,,32r,,,31,,,FALSE,,,,FALSE,,,FALSE,fols. 031v-32r: Thirty-first Miracle of Mary,"How the Virgin Mary saved the woman in childbirth from drowning) (Budge, Mary, 32; Strelcyn 32.16. 31; Bland 2, also Vincent de Beauvais ( from 1264)).",,,,31,v
@@ -6613,8 +6613,8 @@ PEM (PUL) 46,633,"Mary, Dormition of cycle: Christ appears to the Apostles after
 PEM (PUL) 46,,,65v,,,66v,,,63,,,FALSE,,,,FALSE,,,FALSE,fols. 065v-66v: Sixty-third Miracle of Mary,How the Virgin Mary saved the widow from prison).,,,,65,v
 PEM (PUL) 46,,,66v,,,69r,,,64,,,FALSE,,,,FALSE,,,FALSE,fols. 066v-69r: Sixty-fourth Miracle of Mary,How the Virgin Mary saved the demon by recovering the stolen pearl).,,,,66,v
 PEM (PUL) 46,,,69r,,,72v,,,65,,,FALSE,,,,FALSE,,,FALSE,fols. 069r-72v: Sixty-fifth Miracle of Mary,"How the Virgin Mary gave a child to a family in the country of the Europeans (Afərəng) in the state of the French (Färansa) in andHow she saved him from wrongful accusation and a death sentence by hanging) (Budge, Mary, 22).",,,,69,r
-PEM (PUL) 46,8,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,72v,,,74v,,,66,,,FALSE,,,,FALSE,,,FALSE,fols. 072v-74v: Sixty-sixth Miracle of Mary,How the Virgin Mary saved the monks from the hand of Muslims in the monastery of Qäləmen).,,,,72,v
-PEM (PUL) 46,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,74v,,,77r,,,67,,,FALSE,,,,FALSE,,,FALSE,fols. 074v-77r: Sixty-seventh Miracle of Mary,"How the Virgin Mary saved the pious monk from the persecution of the brethren) (Budge, Mary, 28) (repeated).",,,,74,v
+PEM (PUL) 46,8,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who did not fast.,72v,,,74v,,,66,,,FALSE,,,,FALSE,,,FALSE,fols. 072v-74v: Sixty-sixth Miracle of Mary,How the Virgin Mary saved the monks from the hand of Muslims in the monastery of Qäləmen).,,,,72,v
+PEM (PUL) 46,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,74v,,,77r,,,67,,,FALSE,,,,FALSE,,,FALSE,fols. 074v-77r: Sixty-seventh Miracle of Mary,"How the Virgin Mary saved the pious monk from the persecution of the brethren) (Budge, Mary, 28) (repeated).",,,,74,v
 PEM (PUL) 46,,,77r,,,79r,,,68,,,FALSE,,,,FALSE,,,FALSE,fols. 077r-79r: Sixty-eighth Miracle of Mary,How the Virgin Mary recovered the property stolen by the Berbers from five monks).,,,,77,r
 PEM (PUL) 46,50,Däbrä Qaləmon miracles: Abba Samuˀel of Däbrä Qaləmon intercedes for an angel who had disobeyed the command of God.,79r,,,80r,,,69,,,FALSE,,,,FALSE,,,FALSE,fols. 079r-80r: Sixty-ninth Miracle of Mary,How the Virgin Mary interceded and returned a fallen angel to heaven).,,,,79,r
 PEM (PUL) 46,35-B,Däbrä Metmaq miracles: The annual apparition of Saint Mary at Däbrä Metmaq (continued),80r,,,84r,,,70,,,FALSE,,,,FALSE,,,FALSE,fols. 080r-84r: Seventieth Miracle of Mary,How Jesus predicted to his mother the Virgin Mary that a church would be constructed in Egypt where they had stayed andHow the Virgin Mary appeared to the people of Egypt).,,,,80,r
@@ -6717,7 +6717,7 @@ PEM (PUL) 47,112,A poor woman with a broken leg is healed by the icon of Saint M
 PEM (PUL) 47,158,The prioress who became pregnant after sinning with a servant.,74v,,,79r,,,25,,,FALSE,,,,FALSE,,,FALSE,,,,,,74,v
 PEM (PUL) 47,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,79r,,,80v,,,26,,,FALSE,,,,FALSE,,,FALSE,,,,,,79,r
 PEM (PUL) 47,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",80v,,,81r,,,27,,,FALSE,,,,FALSE,,,FALSE,,,,,,80,v
-PEM (PUL) 47,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,85r,,,86v,,,28,,,FALSE,,,,FALSE,,,FALSE,,,,,,85,r
+PEM (PUL) 47,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,85r,,,86v,,,28,,,FALSE,,,,FALSE,,,FALSE,,,,,,85,r
 PEM (PUL) 47,125,The story of the cannibal from Qemer.,86v,,,88v,,,29,,,FALSE,,,,FALSE,,,FALSE,,,,,,86,v
 PEM (PUL) 47,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,88v,,,89v,,,30,,,FALSE,,,,FALSE,,,FALSE,,,,,,88,v
 PEM (PUL) 47,,,91v,,,92v,,,31,,,FALSE,,,,FALSE,,,FALSE,,,,,,91,v
@@ -6798,7 +6798,7 @@ S-London (BL) 32,112,A poor woman with a broken leg is healed by the icon of Sai
 S-London (BL) 32,158,The prioress who became pregnant after sinning with a servant.,146r,1,,,,,25,,,FALSE,,Incipit is not given in the catalog (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,FALSE,,,,,,146,r
 S-London (BL) 32,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,149v,2,,,,,26,,,FALSE,,Incipit is not given in the catalog (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,FALSE,,,,,,149,v
 S-London (BL) 32,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",150r,1,,,,,27,,,FALSE,,Incipit is not given in the catalog (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,FALSE,,,,,,150,r
-S-London (BL) 32,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,153r,2,,,,,28,,,FALSE,,Incipit is not given in the catalog (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,FALSE,,,,,,153,r
+S-London (BL) 32,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,153r,2,,,,,28,,,FALSE,,Incipit is not given in the catalog (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,FALSE,,,,,,153,r
 S-London (BL) 32,125,The story of the cannibal from Qemer.,156v,2,,,,,29,,,FALSE,,Incipit is not given in the catalog (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,FALSE,,,,,,156,v
 S-London (BL) 32,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,160r,2,,,,,30,,,FALSE,,Incipit is not given in the catalog (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,FALSE,,,,,,160,r
 S-London (BL) 32,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),163r,1,,,,,31,,,FALSE,,Incipit is not given in the catalog (Catalogue of Ethiopian manuscripts in the British Library acquired since the year 1877 / by S. Strelcyn.),,FALSE,,,FALSE,,,,,,163,r
@@ -6835,7 +6835,7 @@ S-Rome (ANL) 23,112,A poor woman with a broken leg is healed by the icon of Sain
 S-Rome (ANL) 23,158,The prioress who became pregnant after sinning with a servant.,,,,,,,24,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 S-Rome (ANL) 23,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,,,,,,,25,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 S-Rome (ANL) 23,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,26,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-S-Rome (ANL) 23,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,27,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+S-Rome (ANL) 23,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,,,,,,,27,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 S-Rome (ANL) 23,125,The story of the cannibal from Qemer.,,,,,,,28,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 S-Rome (ANL) 23,415,The thief who was caught stealing from the church of Saint Mary and was released by his captors when he prayed to her.,,,,,,,29,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 S-Rome (ANL) 23,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,30,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
@@ -6871,7 +6871,7 @@ S-Rome (ANL) 43,112,A poor woman with a broken leg is healed by the icon of Sain
 S-Rome (ANL) 43,158,The prioress who became pregnant after sinning with a servant.,,,,,,,26,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 S-Rome (ANL) 43,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,,,,,,,27,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 S-Rome (ANL) 43,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,28,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-S-Rome (ANL) 43,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,29,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+S-Rome (ANL) 43,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,,,,,,,29,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 S-Rome (ANL) 43,125,The story of the cannibal from Qemer.,,,,,,,30,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 S-Rome (ANL) 43,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,,,,,,,31,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 S-Rome (ANL) 43,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,32,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
@@ -6915,7 +6915,7 @@ VL-Vatican (BAV) 267,112,A poor woman with a broken leg is healed by the icon of
 VL-Vatican (BAV) 267,158,The prioress who became pregnant after sinning with a servant.,52v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,52,v
 VL-Vatican (BAV) 267,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,55r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,55,r
 VL-Vatican (BAV) 267,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",55v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,55,v
-VL-Vatican (BAV) 267,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,56v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,56,v
+VL-Vatican (BAV) 267,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,56v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,56,v
 VL-Vatican (BAV) 267,125,The story of the cannibal from Qemer.,61r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,61,r
 VL-Vatican (BAV) 267,415,The thief who was caught stealing from the church of Saint Mary and was released by his captors when he prayed to her.,63v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,63,v
 VL-Vatican (BAV) 267,185,The rich woman who went with the monks to the manbalis for prayer and there saw a vision of Saint Mary.,64r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,64,r
@@ -7034,7 +7034,7 @@ VL-Vatican (BAV) 298,103,"Bishop Mercurius, whom the patriarch wanted to remove 
 VL-Vatican (BAV) 298,112,A poor woman with a broken leg is healed by the icon of Saint Mary in the church of Harat ar-Rum.,21r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,21,r
 VL-Vatican (BAV) 298,158,The prioress who became pregnant after sinning with a servant.,21v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,21,v
 VL-Vatican (BAV) 298,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,22v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,22,v
-VL-Vatican (BAV) 298,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,23r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,23,r
+VL-Vatican (BAV) 298,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,23r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,23,r
 VL-Vatican (BAV) 298,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",23r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,23,r
 VL-Vatican (BAV) 298,125,The story of the cannibal from Qemer.,23v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,23,v
 VL-Vatican (BAV) 298,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),24v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,24,v
@@ -7072,11 +7072,11 @@ VL-Vatican (BAV) 298,164,A nun in prison for her faith prays for two virgins.,44
 VL-Vatican (BAV) 298,4,"Deacon Michael, the grocer and the ring that was found in the fish.",45r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,45,r
 VL-Vatican (BAV) 298,5,The Frenchman whose wife was unable to have children.,46v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,46,v
 VL-Vatican (BAV) 298,6,"During the famine of 1120 MM [likely 1404 CE], the Arabs try to plunder the monasteries of Egypt.",49v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,49,v
-VL-Vatican (BAV) 298,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,50v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,50,v
-VL-Vatican (BAV) 298,8,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,52v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,52,v
+VL-Vatican (BAV) 298,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,50v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,50,v
+VL-Vatican (BAV) 298,8,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who did not fast.,52v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,52,v
 VL-Vatican (BAV) 298,50,Däbrä Qaləmon miracles: Abba Samuˀel of Däbrä Qaləmon intercedes for an angel who had disobeyed the command of God.,54r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,54,r
 VL-Vatican (BAV) 298,275,Saint Mary appears to Saint Theodore the Anatolian.,54r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,54,r
-VL-Vatican (BAV) 298,9,Däbrä Qaləmon miracles: An Arab steals the scissors of the tailor of Däbrä Qaləmon.,54v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,54,v
+VL-Vatican (BAV) 298,9,Dabra  Qaləmon miracles: An Arab steals the scissors of the tailor of Dabra Qaləmon.,54v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,54,v
 VL-Vatican (BAV) 298,60,The Arab woman who entrusted her jewels to a Christian for safekeeping.,55v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,55,v
 VL-Vatican (BAV) 298,63,Däbrä Qʷəsqʷam miracles: A man killed during the construction of the church of Däbrä Qʷəsqʷam is raised from the dead.,56r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,56,r
 VL-Vatican (BAV) 298,291,"When Satan destroys the oven of a monastery, he is compelled to serve the monks for twelve years in punishment.",59r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,59,r
@@ -7434,7 +7434,7 @@ Z-Paris (BNF) 60,112,A poor woman with a broken leg is healed by the icon of Sai
 Z-Paris (BNF) 60,158,The prioress who became pregnant after sinning with a servant.,,,,,,,26,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 Z-Paris (BNF) 60,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,,,,,,,27,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 Z-Paris (BNF) 60,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,28,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-Z-Paris (BNF) 60,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,29,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+Z-Paris (BNF) 60,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,,,,,,,29,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 Z-Paris (BNF) 60,125,The story of the cannibal from Qemer.,,,,,,,30,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 Z-Paris (BNF) 60,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,,,,,,,31,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 Z-Paris (BNF) 60,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,32,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
@@ -7534,7 +7534,7 @@ Z-Paris (BNF) 61,112,A poor woman with a broken leg is healed by the icon of Sai
 Z-Paris (BNF) 61,158,The prioress who became pregnant after sinning with a servant.,,,,,,,24,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 Z-Paris (BNF) 61,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,,,,,,,25,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 Z-Paris (BNF) 61,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,26,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
-Z-Paris (BNF) 61,7,Däbrä Qaləmon miracles: The monk of Däbrä Qaləmon who did not fast.,,,,,,,27,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
+Z-Paris (BNF) 61,7,Dabra Qaləmon miracles: The monk of Dabra  Qaləmon who did not fast.,,,,,,,27,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 Z-Paris (BNF) 61,125,The story of the cannibal from Qemer.,,,,,,,28,,,FALSE,Low,"There should be 29 miracles according to the catalog (https://babel.hathitrust.org/cgi/pt?id=mdp.39015034760879&view=1up&seq=79). The catalog doesn't have individual miracles records. Beta Masaheft has ""Miracle of a hanged brigand resuscitated because he loved the Virgin"" as miracle number 28. This miracle is not in Macomber handlist. Beta Masaheft manuscript record: https://betamasaheft.eu/manuscripts/BNFet61/main. Beta Masaheft miracle record: https://betamasaheft.eu/works/LIT3692Miracle/main.",,FALSE,,,FALSE,,,,,,,
 Z-Paris (BNF) 61,186,The robber whom a bishop was commanded to bury after he was executed.,,,,,,,29,,,FALSE,Low,See comment for miracle number 28. This story is not listed on Beta Masaheft.,,FALSE,,,FALSE,,,,,,,
 Z-Paris (BNF) 61,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,30,,,FALSE,,"See comment for miracle number 28. According to Beta Masaheft, this story is miracle number 29.",,FALSE,,,FALSE,,,,,,,
