@@ -4067,8 +4067,8 @@ EMML (HMML) 4618,139,The repentant knight who could pray only the Hail Mary.,60v
 EMML (HMML) 4618,145,The priest who could only say the Mass of the Virgin Mary.,61v,,,,,,48,,,FALSE,,,,FALSE,,,FALSE,,,,,,61,v
 EMML (HMML) 4618,160,The bee keeper who consulted a sorceress to have more honey.,62v,,,,,,49,,,FALSE,,,,FALSE,,,FALSE,,,,,,62,v
 EMML (HMML) 4618,165,The sinful woman who despaired when she kept on sinning and swallowed a scorpion.,64r,,,,,,50,,,FALSE,,,,FALSE,,,FALSE,,,,,,64,r
-EMML (HMML) 4618,,,66r,,,,,,51,,,FALSE,,"ID 179? The sick monk who asked his friends to carry him to the altar before his death, g. 66rv. https://archive.org/details/EMMLCatalog10/page/n243/mode/2up",,FALSE,,,FALSE,,,,,,,
-EMML (HMML) 4618,181,The monk custodian of the church who prayed to see Saint Mary.,67v,,,,,,52,,,FALSE,,,,FALSE,,,FALSE,,,,,,67,v
+EMML (HMML) 4618,179,The monk who has carried by the bretheren to church when he became too sick to walk.,66r,,,66v,,,51,,,FALSE,,"Record added. Catalog tite: ""The sick monk who asked his friends to carry him to the altar before his death"", f. 66rv. https://archive.org/details/EMMLCatalog10/page/n243/mode/2up",,FALSE,,,FALSE,,,,,,,
+EMML (HMML) 4618,181,The monk custodian of the church who prayed to see Saint Mary.,67v,,,,,,52,,,FALSE,,Folio start 67r accorfing to catalog https://archive.org/details/EMMLCatalog10/page/n243/mode/2up,,FALSE,,,FALSE,,,,,,67,v
 EMML (HMML) 4618,183,A herdsman saves his beasts in a storm by praying to Saint Mary.,68v,,,,,,53,,,FALSE,,,,FALSE,,,FALSE,,,,,,68,v
 EMML (HMML) 4618,205,"The nun who used to pray for the dead, but lost her virginity and died before completing her penance.",70v,,,,,,54,,,FALSE,,Folio start 60r according to catalog https://archive.org/details/EMMLCatalog10/page/n243/mode/2up,,FALSE,,,FALSE,,,,,,70,v
 EMML (HMML) 4618,206,The nun whom Saint Mary admonished to recite the Hail Mary more attentively.,71r,,,,,,55,,,FALSE,,Folio start 61r according to catalog https://archive.org/details/EMMLCatalog10/page/n243/mode/2up,,FALSE,,,FALSE,,,,,,71,r
@@ -4167,13 +4167,14 @@ EMML (HMML) 4688,183,A herdsman saves his beasts in a storm by praying to Saint 
 EMML (HMML) 4688,205,"The nun who used to pray for the dead, but lost her virginity and died before completing her penance.",75v,,,,,,26,,,FALSE,,,,FALSE,,,FALSE,,,,,,75,v
 EMML (HMML) 4688,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,77v,,,,,,27,,,FALSE,,,,FALSE,,,FALSE,,,,,,77,v
 EMML (HMML) 4688,136,The thief whom the king's soldiers could not kill.,79r,,,,,,28,,,FALSE,,,,FALSE,,,FALSE,,,,,,79,r
-EMML (HMML) 4688,98,Saint Basil cycle: The proud men who wanted to have a splendid icon of Saint Mary made.,81v,,,,,,29,,,FALSE,,,,FALSE,,,FALSE,,,,,,81,v
-EMML (HMML) 4688,98,Saint Basil cycle: The proud men who wanted to have a splendid icon of Saint Mary made.,83v,,,,,,30,,,FALSE,,,,FALSE,,,FALSE,,,,,,83,v
-EMML (HMML) 4688,178,The shepherd near the church of Saint Paul in Rome who was possessed by a demon.,85r,,,,,,31,,,FALSE,,,,FALSE,,,FALSE,,,,,,85,r
-EMML (HMML) 4688,179,The monk who has carried by the bretheren to church when he became too sick to walk.,88r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,88,r
-EMML (HMML) 4688,171,The husband who broke his vow that he would live celibately with his wife.,89v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,89,v
-EMML (HMML) 4688,172,The merchant who distributed as alms the money that had been loaned him by a friend.,93r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,93,r
-EMML (HMML) 4688,137,The Emperor of Rome who erected an altar in his palace.,96v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,96,v
+EMML (HMML) 4688,98,Saint Basil cycle: The proud men who wanted to have a splendid icon of Saint Mary made.,81v,,,,,,29,,,FALSE,,,,FALSE,,Possibly a recension: miracles 29 and 30 are sequential parts of the mirace with ID 98. https://archive.org/details/EMMLCatalog10/page/n275/mode/2up,FALSE,,,,,,81,v
+EMML (HMML) 4688,98,Saint Basil cycle: The proud men who wanted to have a splendid icon of Saint Mary made.,83v,,,,,,30,,,FALSE,,"Catalog note: ""This seems to be a continuation of the preceding story"". https://archive.org/details/EMMLCatalog10/page/n275/mode/2up",,FALSE,,Possibly a recension: miracles 29 and 30 are sequential parts of the mirace with ID 98. https://archive.org/details/EMMLCatalog10/page/n275/mode/2up,FALSE,,,,,,83,v
+EMML (HMML) 4688,178,The shepherd near the church of Saint Paul in Rome who was possessed by a demon.,85r,,,,,,31,,,FALSE,,Folio start 85v according to catalog https://archive.org/details/EMMLCatalog10/page/n275/mode/2up,,FALSE,,,FALSE,,,,,,85,r
+EMML (HMML) 4688,179,The monk who has carried by the bretheren to church when he became too sick to walk.,88r,,,,,,32,,,FALSE,,,,FALSE,,,FALSE,,,,,,88,r
+EMML (HMML) 4688,171,The husband who broke his vow that he would live celibately with his wife.,89v,,,,,,33,,,FALSE,,,,FALSE,,,FALSE,,,,,,89,v
+EMML (HMML) 4688,172,The merchant who distributed as alms the money that had been loaned him by a friend.,93r,,,,,,34,,,FALSE,,,,FALSE,,,FALSE,,,,,,93,r
+EMML (HMML) 4688,137,The Emperor of Rome who erected an altar in his palace.,96v,,,,,,35,,,FALSE,,,,FALSE,,,FALSE,,,,,,96,v
+EMML (HMML) 4688,,,99v,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,,
 EMML (HMML) 4688,174,Saint Mary saves the soul of a rich sinner who had repented and was planning to build a monastery and become a monk.,105r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,105,r
 EMML (HMML) 4688,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",108r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,108,r
 EMML (HMML) 4688,144,The pilgrim to Santiago whom Satan persuaded to mutilate himself after falling into a sexual sin.,110r,,,,,,,,,FALSE,,,,FALSE,,,FALSE,,,,,,110,r
