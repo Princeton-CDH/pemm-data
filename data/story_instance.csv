@@ -1677,8 +1677,7 @@ EMML (HMML) 2058,74,The wife of a pagan official who wished to pray at the Holy 
 EMML (HMML) 2058,75,The son of Emperor Tiberius is raised from the dead.,71r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,71,r
 EMML (HMML) 2058,76,John the Evangelist paints an icon of the Crucifixion for Emperor Tiberius.,72r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,72,r
 EMML (HMML) 2058,77,Petros Bawares has a vision of the Trinity.,72v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,72,v
-EMML (HMML) 2058,78,"The conversion of the Muslim, Rewh, who is renamed Entons Haddis.",73r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,73,r
-EMML (HMML) 2058,77,Petros Bawares has a vision of the Trinity.,73v,,,,,,,,,FALSE,,This is a recopying of f. 72r (according to catalog),,,FALSE,,,,FALSE,,,,,,73,v
+EMML (HMML) 2058,78,"The conversion of the Muslim, Rewh, who is renamed Entons Haddis.",73r,,,,,,,,,FALSE,,F. 73v is a copy of f. 72v (ID 77) (catalog),,,FALSE,,,,FALSE,,,,,,73,r
 EMML (HMML) 2058,80,Däbrä Qʷəsqʷam miracles: The monks of Saint Anthony celebrate Holy Week at Däbrä Qʷəsqʷam.,74r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,74,r
 EMML (HMML) 2058,79,"The wife of Mark, a priest from Mallawi, is cured of her leprosy.",74r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,74,r
 EMML (HMML) 2058,81,"A Muslim, Katib, tries to extort money from the monks of Saint Anthony.",74v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,74,v
@@ -2563,8 +2562,7 @@ EMML (HMML) 2378,203,"The knight who denied Christ at the bidding of Satan, in o
 EMML (HMML) 2378,206,The nun whom Saint Mary admonished to recite the Hail Mary more attentively.,10r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,10,r
 EMML (HMML) 2378,139,The repentant knight who could pray only the Hail Mary.,10v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,10,v
 EMML (HMML) 2378,149,A man who drowned when a pilgrim ship sank is resuscitated.,11v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,11,v
-EMML (HMML) 2378,135,The sinful deacon who was healed by a drop of Saint Mary's milk.,13v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,13,v
-EMML (HMML) 2378,135,The sinful deacon who was healed by a drop of Saint Mary's milk.,18r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,18,r
+EMML (HMML) 2378,135,The sinful deacon who was healed by a drop of Saint Mary's milk.,13v,,,13v,,,,,,FALSE,,"The story begins on f. 13v, then on ff 14r-16v there is an introductiry rite; the miracle continues on f. 18r.",,,FALSE,,,,FALSE,,,,,,13,v
 EMML (HMML) 2378,4,"Deacon Michael, the grocer and the ring that was found in the fish.",18v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,18,v
 EMML (HMML) 2378,7,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who did not fast.,20v,,,,,,,,ወሀሎ፡ አሐዱ፡ ብእሲ፡ መነኮስ፡ በደብረ፡ አባ፡ ሳሙኤል፡ ዘቀልሞን፡ ወያፈቅራ፡ ለእግዝእትነ፡ ማርያም፡ ወያነብብ፡ ወትረ፡ ተአምኆተ፡ መልአክ፡ ሌሊተ፡ ወመዐልተ። ወዝንቱሰ፡ ብእሲ፡ ኢይጸውም፡ ወኢይጼሊ፡ ወይትሜሰል፡ ከመ፡ አብድ፡ ወእንቡዝ,TRUE,High,,High,,FALSE,,,,FALSE,,,,,,20,v
 EMML (HMML) 2378,43,"The story of the blind priest, Yohannes Bakansi.",22r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,22,r
@@ -2841,9 +2839,8 @@ EMML (HMML) 2802,385,The hungry man whom Saint Mary used to feed.,134r,,,,,,,,,F
 EMML (HMML) 2804,431,Holy Family journey cycle: The inhabitants of an Egyptian town who plot to hand Jesus over to King Herod are turned into animals.,83r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,83,r
 EMML (HMML) 2805,35-A2,Däbrä Metmaq miracles: The apparitions of Saint Mary at Däbrä Metmaq (continued),81r,,,,,,,,ወሀሎ፡ በምድረ፡ ግብጽ፡ ምኔት፡ ዐቢይ፡ ዘይሰመይ፡ ድብረ፡ ምጥማቅ፡ ወእሙር፡ ውእቱ፡ በኀበ፡ ኵሉ,TRUE,High,,High,,FALSE,,,,FALSE,,,,,,81,r
 EMML (HMML) 2810,108,Patriarch Abraham and the interpretation of the parable of the mustard seed.,109v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,109,v
-EMML (HMML) 2831,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,4r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,4,r
 EMML (HMML) 2831,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,5r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,5,r
-EMML (HMML) 2831,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,7v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,7,v
+EMML (HMML) 2831,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,7v,,,,,,,,,FALSE,,Continues on ff 4rv (catalog),,,FALSE,,,,FALSE,,,,,,7,v
 EMML (HMML) 2831,161,The pious monk (or: the Jew from Akhmim) whom Saint Mary made young.,9r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,9,r
 EMML (HMML) 2831,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,9v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,9,v
 EMML (HMML) 2831,147,The Jewish boy who received Holy Communion with his Christian companions.,10v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,10,v
@@ -3966,8 +3963,7 @@ EMML (HMML) 4205,187,The peasant who complained to Saint Mary because she did no
 EMML (HMML) 4205,207,The monk who saved the church of Saint Mary in Atrib by his prayers when its destruction had been ordered by the Caliph.,35r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,35,r
 EMML (HMML) 4205,292,Däbrä Metmaq miracles: Saint Mary shows those assembled at Däbrä Metmaq a vision of Mohammad in Hell.,45r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,45,r
 EMML (HMML) 4205,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,46v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,46,v
-EMML (HMML) 4205,158,The prioress who became pregnant after sinning with a servant.,49r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,49,r
-EMML (HMML) 4205,158,The prioress who became pregnant after sinning with a servant.,53r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,53,r
+EMML (HMML) 4205,158,The prioress who became pregnant after sinning with a servant.,49r,,,,,,,,,FALSE,,The miracle continues on f. 53r (according to Macomber handlist),,,FALSE,,,,FALSE,,,,,,49,r
 EMML (HMML) 4205,263,Saint John Chrysostom defends a woman whom Nestorius had told the people to spit upon.,53v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,53,v
 EMML (HMML) 4215,403,Saint Mary appears to a monk and saves him from being deceived by Satan.,6v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,6,v
 EMML (HMML) 4215,402,The monastic community that was supplied with provisions by Saint Mary.,7r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,7,r
@@ -4032,7 +4028,7 @@ EMML (HMML) 4618,148,The pregnant woman who was caught by the tide while going t
 EMML (HMML) 4618,149,A man who drowned when a pilgrim ship sank is resuscitated.,17v,,,,,,15,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,17,v
 EMML (HMML) 4618,150,The divorced wife who prayed for revenge against her rival.,18v,,,,,,16,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,18,v
 EMML (HMML) 4618,151,The woman from Rome whose daughter rose up on the anniversary of her death.,20v,,,,,,17,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,20,v
-EMML (HMML) 4618,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,21v,,,,,,18,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,21,v
+EMML (HMML) 4618,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,21v,,,,,,18,,,FALSE,,Continues on ff 27r and 22r (the mss was rebound in disorder) (catalog),,,FALSE,,,,FALSE,,,,,,21,v
 EMML (HMML) 4618,153,The young man who used to bring roses to the icon of Saint Mary.,22r,,,,,,19,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,22,r
 EMML (HMML) 4618,154,The two women who were attacked by robbers on their way to church.,23v,,,,,,20,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,23,v
 EMML (HMML) 4618,155,"The sister of Emperor Constantine who prayed to know how Saint Mary bore the Word of God, but then failed to recognize her Son when he appeared to her in church.",24r,,,,,,21,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,24,r
@@ -4207,20 +4203,16 @@ EMML (HMML) 5105,146,The knight who wanted to seduce the daughter of the cobbler
 EMML (HMML) 5105,196,The hypocritical superior of a monastery who pretended to be religious.,24r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,24,r
 EMML (HMML) 5105,197,The Jew of Constantinople who threw an icon of Saint Mary into the latrine.,26r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,26,r
 EMML (HMML) 5105,198,The woman from Rome who killed the baby she bore after sleeping with her son,27v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,27,v
-EMML (HMML) 5105,150,The divorced wife who prayed for revenge against her rival.,31r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,31,r
-EMML (HMML) 5105,151,The woman from Rome whose daughter rose up on the anniversary of her death.,33v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,33,v
-EMML (HMML) 5105,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,35r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,35,r
+EMML (HMML) 5105,150,The divorced wife who prayed for revenge against her rival.,31r,,,,,,,,,TRUE,,,,,FALSE,,,,FALSE,,,,,,31,r
+EMML (HMML) 5105,151,The woman from Rome whose daughter rose up on the anniversary of her death.,33v,,,,,,,,,FALSE,,The miracle continues on f. 47r (according to Macomber handlist),,,FALSE,,,,FALSE,,,,,,33,v
 EMML (HMML) 5105,154,The two women who were attacked by robbers on their way to church.,36r,,,,,,,,ወኮና፡ ክልኤ፡ አንስት፡ እንዘ፡ ይሐውራ፡ ውስተ፡ ቤተ፡ ክርስቲያና፡ ለማርያም፡ ወእንዘ፡ የሐውራ፡ በፍኖት፡ ተንሥኡ፡ ላዕሌሆን፡ ፈያት,TRUE,High,,High,,FALSE,,,,FALSE,,,,,,36,r
-EMML (HMML) 5105,155,"The sister of Emperor Constantine who prayed to know how Saint Mary bore the Word of God, but then failed to recognize her Son when he appeared to her in church.",36v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,36,v
-EMML (HMML) 5105,155,"The sister of Emperor Constantine who prayed to know how Saint Mary bore the Word of God, but then failed to recognize her Son when he appeared to her in church.",37r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,37,r
+EMML (HMML) 5105,155,"The sister of Emperor Constantine who prayed to know how Saint Mary bore the Word of God, but then failed to recognize her Son when he appeared to her in church.",36v,,,,,,,,,FALSE,,The miracle continues on ff. 48r and then 37r (according to Macomber handlist),,,FALSE,,,,FALSE,,,,,,36,v
 EMML (HMML) 5105,156,The young novice whom Saint Mary encouraged to persevere in his vocation.,37r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,37,r
 EMML (HMML) 5105,157,The pious official who was accused of embezzlement and of having an affair with the wife of his lord.,39r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,39,r
 EMML (HMML) 5105,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,43v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,43,v
 EMML (HMML) 5105,164,A nun in prison for her faith prays for two virgins.,44v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,44,v
 EMML (HMML) 5105,190,The Muslim who found an icon of Saint Mary in his house.,45v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,45,v
-EMML (HMML) 5105,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,47r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,47,r
-EMML (HMML) 5105,151,The woman from Rome whose daughter rose up on the anniversary of her death.,47r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,47,r
-EMML (HMML) 5105,155,"The sister of Emperor Constantine who prayed to know how Saint Mary bore the Word of God, but then failed to recognize her Son when he appeared to her in church.",48r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,48,r
+EMML (HMML) 5105,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,47r,,,,,,,,,FALSE,,The miracle continues on f. 35r (according to Macomber handlist),,,FALSE,,,,FALSE,,,,,,47,r
 EMML (HMML) 5105,310,"A child, while attending a hermit's Mass near Jerusalem, is seized by Satan, but is delivered by Saint Mary.",49r,,,,,,,,ወኮነ፡ ውእቱ፡ ወልድ፡ ይነግር፡ ኂሩታ፡ ለእግዝእትነ፡…. በኵሉ፡ ጊዜ፡ ወኮኑ፡ ኵሎሙ፡ እለ፡ ይሰምዕዎ፡ ይሴብሕዎ፡ ለእግዚአብሔር፡ ልዑል፡ ወአእኰተዋ፡ ለቅድስት፡ ድንግል፡…. ጸሎታ፡….,TRUE,High,,High,,FALSE,,,,FALSE,,,,,,49,r
 EMML (HMML) 5105,172,The merchant who distributed as alms the money that had been loaned him by a friend.,50v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,50,v
 EMML (HMML) 5105,173,"The two brothers from Rome, Peter, a deacon, and Stephen, an avaricious magistrate.",53r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,53,r
@@ -4312,17 +4304,15 @@ EMML (HMML) 5182,140,The sinful deacon whom his enemies could not kill until he 
 EMML (HMML) 5182,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,23v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,23,v
 EMML (HMML) 5182,160,The bee keeper who consulted a sorceress to have more honey.,25r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,25,r
 EMML (HMML) 5182,189,The mighty Goliath threatens to destroy the monastery of Saint Mary.,26r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,26,r
-EMML (HMML) 5182,156,The young novice whom Saint Mary encouraged to persevere in his vocation.,28r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,28,r
+EMML (HMML) 5182,156,The young novice whom Saint Mary encouraged to persevere in his vocation.,28r,,,,,,,,,FALSE,,The miracle continues on f. 42r (according to Macomber handlist),,,FALSE,,,,FALSE,,,,,,28,r
 EMML (HMML) 5182,159,"A nun sacristan elopes with a priest, but afterwards they repent.",29v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,29,v
 EMML (HMML) 5182,200,The young man who offered the ring he had received from his girlfriend to the icon of Saint Mary.,32r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,32,r
 EMML (HMML) 5182,146,The knight who wanted to seduce the daughter of the cobbler.,37r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,37,r
-EMML (HMML) 5182,156,The young novice whom Saint Mary encouraged to persevere in his vocation.,42r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,42,r
 EMML (HMML) 5420,161,The pious monk (or: the Jew from Akhmim) whom Saint Mary made young.,10r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,10,r
-EMML (HMML) 5420,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,10v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,10,v
+EMML (HMML) 5420,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,10v,,,,,,,,,FALSE,,The miracle continues on f. 13r (according to Macomber handlist),,,FALSE,,,,FALSE,,,,,,10,v
 EMML (HMML) 5420,309,Saint Mary appears to an official who kidnapped a girl that had made a vow of virginity.,11v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,11,v
 EMML (HMML) 5420,106,The rich man who threw dry bread to a beggar in the name of Saint Mary.,12v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,12,v
 EMML (HMML) 5420,163,"The Muslim whom Saint Mary told to receive baptism. Later, as Bishop of Rome, he cut off his hand because of a carnal thought.",13r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,13,r
-EMML (HMML) 5420,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,13r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,13,r
 EMML (HMML) 5420,164,A nun in prison for her faith prays for two virgins.,14r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,14,r
 EMML (HMML) 5420,165,The sinful woman who despaired when she kept on sinning and swallowed a scorpion.,14v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,14,v
 EMML (HMML) 5420,166,"The prudent monk who suspected that the food that the monks were eating was harmful, but then saw Saint Mary making it tasty for them.",15v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,15,v
@@ -4340,14 +4330,12 @@ EMML (HMML) 5420,196,The hypocritical superior of a monastery who pretended to b
 EMML (HMML) 5420,190,The Muslim who found an icon of Saint Mary in his house.,23v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,23,v
 EMML (HMML) 5420,153,The young man who used to bring roses to the icon of Saint Mary.,24v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,24,v
 EMML (HMML) 5420,164,A nun in prison for her faith prays for two virgins.,25r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,25,r
-EMML (HMML) 5420,138,"Saint Mary commands a deacon to give Christian burial to a sinful deacon assassinated by his enemies; when they disinter him, a flower is found in his mouth.",26r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,26,r
 EMML (HMML) 5420,139,The repentant knight who could pray only the Hail Mary.,26v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,26,v
-EMML (HMML) 5420,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,27v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,27,v
+EMML (HMML) 5420,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,27v,,,,,,,,,FALSE,,The miracle continues on f. 30r (according to Macomber handlist),,,FALSE,,,,FALSE,,,,,,27,v
 EMML (HMML) 5420,195,The peasant who became rich from other people's goods.,28r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,28,r
 EMML (HMML) 5420,195,The peasant who became rich from other people's goods.,28v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,28,v
 EMML (HMML) 5420,154,The two women who were attacked by robbers on their way to church.,29r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,29,r
-EMML (HMML) 5420,138,"Saint Mary commands a deacon to give Christian burial to a sinful deacon assassinated by his enemies; when they disinter him, a flower is found in his mouth.",29v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,29,v
-EMML (HMML) 5420,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,30r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,30,r
+EMML (HMML) 5420,138,"Saint Mary commands a deacon to give Christian burial to a sinful deacon assassinated by his enemies; when they disinter him, a flower is found in his mouth.",29v,,,,,,,,,FALSE,,The miracle continues on f. 26r (according to Macomber handlist),,,FALSE,,,,FALSE,,,,,,29,v
 EMML (HMML) 5420,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",30v,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,30,v
 EMML (HMML) 5420,135,The sinful deacon who was healed by a drop of Saint Mary's milk.,32r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,32,r
 EMML (HMML) 5420,136,The thief whom the king's soldiers could not kill.,32r,,,,,,,,,FALSE,,,,,FALSE,,,,FALSE,,,,,,32,r
