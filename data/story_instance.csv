@@ -6318,28 +6318,28 @@ H-Berlin (BS) 42,152,The widow who prayed to Saint Mary and saved her only son f
 H-Berlin (BS) 42,138,"Saint Mary commands a deacon to give Christian burial to a sinful deacon assassinated by his enemies; when they disinter him, a flower is found in his mouth.",,,,,,,7,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
 H-Berlin (BS) 42,146,The knight who wanted to seduce the daughter of the cobbler.,,,,,,,8,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
 H-Berlin (BS) 50,400,The five sorrows of Saint Mary.,32v,,,,,,,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,32,v
-H-Berlin (BS) 59,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,,,,,,,1,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,135,The sinful deacon who was healed by a drop of Saint Mary's milk.,,,,,,,2,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,136,The thief whom the king's soldiers could not kill.,,,,,,,3,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,137,The Emperor of Rome who erected an altar in his palace.,,,,,,,4,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,138,"Saint Mary commands a deacon to give Christian burial to a sinful deacon assassinated by his enemies; when they disinter him, a flower is found in his mouth.",,,,,,,5,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,139,The repentant knight who could pray only the Hail Mary.,,,,,,,6,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,,,,,,,7,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,141-A,The bishop for whom Saint Mary tailored a new sackcloth sends a penitent to Santiago.,,,,,,,8,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",,,,,,,9,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,145,The priest who could only say the Mass of the Virgin Mary.,,,,,,,10,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,144,The pilgrim to Santiago whom Satan persuaded to mutilate himself after falling into a sexual sin.,,,,,,,11,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,146,The knight who wanted to seduce the daughter of the cobbler.,,,,,,,12,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,147,The Jewish boy who received Holy Communion with his Christian companions.,,,,,,,13,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),,,,,,,14,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,149,A man who drowned when a pilgrim ship sank is resuscitated.,,,,,,,15,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,150,The divorced wife who prayed for revenge against her rival.,,,,,,,16,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,151,The woman from Rome whose daughter rose up on the anniversary of her death.,,,,,,,17,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,,,,,,,18,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,153,The young man who used to bring roses to the icon of Saint Mary.,,,,,,,19,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,154,The two women who were attacked by robbers on their way to church.,,,,,,,20,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,155,"The sister of Emperor Constantine who prayed to know how Saint Mary bore the Word of God, but then failed to recognize her Son when he appeared to her in church.",,,,,,,21,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
-H-Berlin (BS) 59,156,The young novice whom Saint Mary encouraged to persevere in his vocation.,,,,,,,22,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
+H-Berlin (BS) 59,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,6r,1,,7v,2,,1,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,6,r
+H-Berlin (BS) 59,135,The sinful deacon who was healed by a drop of Saint Mary's milk.,7v,2,,8v,2,,2,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,7,v
+H-Berlin (BS) 59,136,The thief whom the king's soldiers could not kill.,8v,2,,10r,1,,3,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,8,v
+H-Berlin (BS) 59,137,The Emperor of Rome who erected an altar in his palace.,10r,1,,11r,2,,4,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,10,r
+H-Berlin (BS) 59,138,"Saint Mary commands a deacon to give Christian burial to a sinful deacon assassinated by his enemies; when they disinter him, a flower is found in his mouth.",11v,1,,12v,1,,5,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,11,v
+H-Berlin (BS) 59,139,The repentant knight who could pray only the Hail Mary.,12v,1,,13v,1,,6,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
+H-Berlin (BS) 59,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,13v,1,,14r,1,,7,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,13,v
+H-Berlin (BS) 59,141-A,The bishop for whom Saint Mary tailored a new sackcloth sends a penitent to Santiago.,14r,2,,15r,2,,8,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,14,r
+H-Berlin (BS) 59,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",15r,2,,16r,2,,9,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,15,r
+H-Berlin (BS) 59,145,The priest who could only say the Mass of the Virgin Mary.,16r,2,,17r,2,,10,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,16,r
+H-Berlin (BS) 59,144,The pilgrim to Santiago whom Satan persuaded to mutilate himself after falling into a sexual sin.,17r,2,,18v,1,,11,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,17,r
+H-Berlin (BS) 59,146,The knight who wanted to seduce the daughter of the cobbler.,18v,1,,21r,2,,12,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,18,v
+H-Berlin (BS) 59,147,The Jewish boy who received Holy Communion with his Christian companions.,21r,2,,22v,2,,13,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,21,r
+H-Berlin (BS) 59,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),22v,2,,23v,2,,14,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,22,v
+H-Berlin (BS) 59,149,A man who drowned when a pilgrim ship sank is resuscitated.,23v,2,,25r,1,,15,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,23,v
+H-Berlin (BS) 59,150,The divorced wife who prayed for revenge against her rival.,25r,1,,26v,2,,16,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,25,r
+H-Berlin (BS) 59,151,The woman from Rome whose daughter rose up on the anniversary of her death.,26v,2,,28r,1,,17,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,26,v
+H-Berlin (BS) 59,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,28r,1,,29v,1,,18,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,28,r
+H-Berlin (BS) 59,153,The young man who used to bring roses to the icon of Saint Mary.,29v,1,,31r,1,,19,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,29,v
+H-Berlin (BS) 59,154,The two women who were attacked by robbers on their way to church.,31r,1,,31r,2,,20,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,31,r
+H-Berlin (BS) 59,155,"The sister of Emperor Constantine who prayed to know how Saint Mary bore the Word of God, but then failed to recognize her Son when he appeared to her in church.",31r,2,,32v,1,,21,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,31,r
+H-Berlin (BS) 59,156,The young novice whom Saint Mary encouraged to persevere in his vocation.,32v,1,,34r,2,,22,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,32,v
 H-Berlin (BS) 59,157,The pious official who was accused of embezzlement and of having an affair with the wife of his lord.,,,,,,,23,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
 H-Berlin (BS) 59,158,The prioress who became pregnant after sinning with a servant.,,,,,,,24,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
 H-Berlin (BS) 59,159,"A nun sacristan elopes with a priest, but afterwards they repent.",,,,,,,25,,,FALSE,,,,FALSE,,,,FALSE,,,,,,,,
