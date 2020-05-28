@@ -1,6 +1,6 @@
 Manuscript,Canonical Story ID,Canonical Story Title,Folio Start,Column Start,Line Start,Folio End,Column End,Line End,Miracle Number,Number of Paintings,Incipit,Macomber Incipit,Confidence Score,Notes,Best Incipit Tool Match,Story Incomplete,Blank TM folios,Ethiopic Story Number,Story Variation,High Confidence Not IT,Princeton Catalog Folios,Princeton Catalog Titles,Body of story start folio & line,Macomber Incipit,(test on whether there are two incipits in the ITool on the same folio),Test for whether the incipit is not unique,New mss (column for sorting),Miracles sequence number,Folio Start Number,Folio Start Letter
 ,,,,,,,,,,,,,,,,,,,,,,,,,0,FALSE,,,,
-EMML (HMML) 6835,,,5r,,,,,,1,,,FALSE,,Vita: This manuscript is assigned to Vita.,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,96,,5,r
+EMML (HMML) 6835,,,5r,1,22,,,,1,,,FALSE,,Vita: This manuscript is assigned to Vita.,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,96,,5,r
 EMML (HMML) 6835,,,,,,,,,2,,,FALSE,,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,96,,,
 EMML (HMML) 6835,,,,,,,,,3,,,FALSE,,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,96,,,
 EMML (HMML) 6835,,,,,,,,,4,,,FALSE,,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,96,,,
