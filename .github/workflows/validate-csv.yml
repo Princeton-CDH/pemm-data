@@ -1,4 +1,4 @@
-name: Run goodtables on each CSV
+name: Validate CSVs
 
 on: [push]
 

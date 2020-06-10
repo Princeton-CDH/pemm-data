@@ -1,5 +1,7 @@
 # PEMM data
 
+![Run goodtables on each CSV](https://github.com/Princeton-CDH/pemm-data/workflows/Validate%20CSVs/badge.svg)
+
 This repository includes data from the [Princeton Ethiopian Miracles of Mary (PEMM)](https://cdh.princeton.edu/projects/ethiopian-miracles-mary-project/) that is automatically synchronized from Google Sheets.
 
 Files in the data directory should *NOT* be edited on GitHub.
