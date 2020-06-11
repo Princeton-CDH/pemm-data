@@ -18,4 +18,4 @@ jobs:
         pip install goodtables
 
     - name: Run goodtables
-      run: goodtables data/*.csv
+      run: goodtables validate datapackage.json
