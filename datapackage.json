@@ -336,6 +336,20 @@
                 ],
                 "missingValues": [
                     ""
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "Collection",
+                        "reference": {
+                            "resource": "collection",
+                            "fields": "name"
+                        },
+                        "fields": "Original Collection",
+                        "reference": {
+                            "resource": "collection",
+                            "fields": "name"
+                        }
+                    }
                 ]
             }
         },
@@ -551,6 +565,20 @@
                 ],
                 "missingValues": [
                     ""
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "Manuscript",
+                        "reference": {
+                            "resource": "manuscript",
+                            "fields": "Manuscript Name"
+                        },
+                        "fields": "Canonical Story ID",
+                        "reference": {
+                            "resource": "canonical_story",
+                            "fields": "Macomber ID"
+                        }
+                    }
                 ]
             }
         },
