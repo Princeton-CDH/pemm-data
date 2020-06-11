@@ -268,7 +268,7 @@ EMML (HMML) 3051,,,,,,,,,28,,,FALSE,,FALSE,"not in Macomber, Solomon added this 
 EMML (HMML) 3051,,,,,,,,,29,,,FALSE,,FALSE,"not in Macomber, Solomon added this record",,FALSE,,,,FALSE,,,,FALSE,,FALSE,97,,,,,1600,1799,17,9.59524,39.73461
 EMML (HMML) 3051,,,,,,,,,30,,,FALSE,,FALSE,"not in Macomber, Solomon added this record",,FALSE,,,,FALSE,,,,FALSE,,FALSE,97,,,,,1600,1799,17,9.59524,39.73461
 EMML (HMML) 3051,,,,,,,,,,,,FALSE,,FALSE,"not in Macomber, Solomon added this record",,FALSE,,,,FALSE,,,,FALSE,,FALSE,97,,,,,1600,1799,17,9.59524,39.73461
-EMML (HMML) 3051,94,A hermit in Jerusalem is saved from the temptations of Satan.,36v,,,,,,,,,FALSE,,FALSE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,97,,36,v,,1600,1799,17,9.59524,39.73461
+EMML (HMML) 3051,94,A hermit in Jerusalem is saved from the temptations of Satan.,36v,,,,,,,,"Solomon, stop typing incipits here",FALSE,,FALSE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,97,,36,v,,1600,1799,17,9.59524,39.73461
 EMML (HMML) 3051,229,Däbrä Qʷəsqʷam miracles: The annual apparition of Saint Mary at Däbrä MetmaqThe blessing given to the animals at Däbrä Qʷəsqʷam by the anointing of Saint Mary.,37v,,,,,,,,,FALSE,,FALSE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,97,,37,v,,1600,1799,17,9.59524,39.73461
 EMML (HMML) 3051,40,The miraculous spring of Mehzab.,42r,,,,,,,,,FALSE,,FALSE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,97,,42,r,,1600,1799,17,9.59524,39.73461
 EMML (HMML) 3051,412,A child and his mother see the icon of Saint Mary weeping for the sins of the world.,42v,,,,,,,,,FALSE,,FALSE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,97,,42,v,,1600,1799,17,9.59524,39.73461
@@ -787,7 +787,7 @@ PEM (PUL) 43,48,The rich man from Colosse who was wounded in the eye while fight
 PEM (PUL) 43,59,"Elizabeth, the blind daughter of Abraham and Gera Anest of Baderman.",37r,1,15,38v,2,5,29,,ወሀሎ ፩ ብእሲ በሀገረ ጽዒድ ዘትሰመይ በድርማን ዘስሙ አብርሃም ወስመብእሲቱ ጌራ አንስት ብዑላን ጥቀ በንዋን ዋይ ወፍጹማን በምግባረ ሠናይ ወቦሙ አሐቲ ወለት እንተ ሰማ ኤልሳቤጥ ,FALSE,,TRUE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,100,,37,r,,1700,1799,18,,
 PEM (PUL) 43,109,The daughter of the rich man from Caesarea who could not deliver her baby.,38v,2,6,39r,2,14,30,,ወሀለወት አሐቲ ብእሲት እምአበይተ ሀገረ ቂሳርያ ወኮነ አቡሃ ባዕለ በሕቁ በወርቅ ወበብሩር ወበኩሉ ንዋየ ዓለም ኃላፊ ወይእቲስ ብእሲት ኮነት ፅንስተ ወሶበ በጽሐ,FALSE,,TRUE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,100,,38,v,,1700,1799,18,,
 PEM (PUL) 43,112,A poor woman with a broken leg is healed by the icon of Saint Mary in the church of Harat ar-Rum.,39r,2,11,40r,2,19,31,,ወሀለወት አሐቲ ቤተክርስቲያን በሀገረ ሐልተሮም ወሀለወት ውስቱታ ስዕለ ለእግዝእትነ ማርያም ዘይሰምይዋ ረዳኢት ወአሐቲ ብእሲት ነዳየት እምሰብአ ,FALSE,,TRUE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,100,,39,r,,1700,1799,18,,
-PEM (PUL) 43,14,The composition of the Wǝddāse Maryam by the Syrian potter.,40r,,,43r,,,32,,,FALSE,,TRUE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,100,,40,r,,1700,1799,18,,
+PEM (PUL) 43,14,The composition of the Wǝddāse Maryam by the Syrian potter.,40r,1,10,43r,1,19,32,,ወይቤሉ ነበረ ሶርያ ፩ብእሲ ለብኃዊ ፈራኄ እግዚአብሔር ወያፈቅራ ለእግዝእትነ ማርያም ወላዲተ አምላክ ወይዌድሳ እማዕምቀ ልቡ ወአስተርአየቶ እግዝእትነ ማርያም,FALSE,,TRUE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,100,,40,r,,1700,1799,18,,
 PEM (PUL) 43,,,43r,,,44v,,,33,,,FALSE,,TRUE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,100,,43,r,,1700,1799,18,,
 PEM (PUL) 43,103,"Bishop Mercurius, whom the patriarch wanted to remove because of leprosy.",44v,,,45r,,,34,,,FALSE,,TRUE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,100,,44,v,,1700,1799,18,,
 PEM (PUL) 43,57,The widow who could not find husbands for her three daughters.,45r,,,46v,,,35,,,FALSE,,TRUE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,100,,45,r,,1700,1799,18,,
@@ -805,7 +805,7 @@ PEM (PUL) 43,82,"Katir, the old priest from Elkesus, who was about to be dismiss
 PEM (PUL) 43,115,The son of a rich official of Cappadocia is raised from the dead.,62v,,,63v,,,47,,,FALSE,,TRUE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,100,,62,v,,1700,1799,18,,
 PEM (PUL) 43,106,The rich man who threw dry bread to a beggar in the name of Saint Mary.,63v,,,65r,,,48,,,FALSE,,TRUE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,100,,63,v,,1700,1799,18,,
 PEM (PUL) 43,125,The story of the cannibal from Qemer.,65r,,,67v,,,49,,,FALSE,,TRUE,,,FALSE,,,,FALSE,,,,FALSE,#REF!,FALSE,100,,65,r,,1700,1799,18,,
-PEM (PUL) 47,316-D,"Mary, Childhood of cycle: When she is three years old, Saint Mary is taken to the Temple.",13r,1,1,15r,,,1,,Fasika,FALSE,,FALSE,Assign to ?,,FALSE,,,,FALSE,,,"13r, col 1, l 13",FALSE,0,FALSE,101,,13,r,,1775,1799,18,,
+PEM (PUL) 47,316-D,"Mary, Childhood of cycle: When she is three years old, Saint Mary is taken to the Temple.",13r,1,1,15r,,,1,,Annabel,FALSE,,FALSE,Assign to ?,,FALSE,,,,FALSE,,,"13r, col 1, l 13",FALSE,0,FALSE,101,,13,r,,1775,1799,18,,
 PEM (PUL) 47,13,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,15r,,,19r,,,2,,,FALSE,,FALSE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,101,,15,r,,1775,1799,18,,
 PEM (PUL) 47,187,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,19r,,,20r,,,3,,,FALSE,,FALSE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,101,,19,r,,1775,1799,18,,
 PEM (PUL) 47,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,22r,,,23v,,,4,,,FALSE,,FALSE,,,FALSE,,,,FALSE,,,,FALSE,0,FALSE,101,,22,r,,1775,1799,18,,
