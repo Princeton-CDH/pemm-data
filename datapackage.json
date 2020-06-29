@@ -280,8 +280,18 @@
                         "format": "default"
                     },
                     {
-                        "name": "vHMML permalink (pending on 04/25/2020)",
+                        "name": "Hamburg MS ID",
                         "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Macomber Manuscript",
+                        "type": "boolean",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Delamarter Manuscript",
+                        "type": "boolean",
                         "format": "default"
                     },
                     {
@@ -300,11 +310,6 @@
                         "format": "default"
                     },
                     {
-                        "name": "Hamburg MS ID",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
                         "name": "Latitude",
                         "type": "number",
                         "format": "default"
@@ -320,38 +325,18 @@
                         "format": "default"
                     },
                     {
-                        "name": "Title from catalog",
+                        "name": "Catalog",
                         "type": "string",
                         "format": "default"
                     },
                     {
-                        "name": "Total Stories according to catalog",
+                        "name": "Catalog Total Stories Note",
                         "type": "string",
                         "format": "default"
                     },
                     {
-                        "name": "Number of Paintings according to catalog",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Link to catalog",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Catalog has miracles records",
+                        "name": "Catalog Total Stories",
                         "type": "integer",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Can be used for sequence (miracles folio range matches with catalog)",
-                        "type": "integer",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Mss rebound in disorder or there are breaks in the sequence of TM",
-                        "type": "string",
                         "format": "default"
                     }
                 ],
