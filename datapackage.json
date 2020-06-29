@@ -412,7 +412,7 @@
                     {
                         "name": "Body of Story Start",
                         "type": "string",
-                        "format": "default",
+                        "format": "default"
                     },
                     {
                         "name": "Folio End",
@@ -421,7 +421,6 @@
                         "constraint": {
                             "pattern": "^[1-9]+\\d*[rvab]?$"
                         }
-
                     },
                     {
                         "name": "Column End",
@@ -469,11 +468,6 @@
                         "format": "default"
                     },
                     {
-                        "name": "Best Incipit Tool Match",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
                         "name": "Story Incomplete",
                         "type": "boolean",
                         "format": "default"
@@ -494,46 +488,6 @@
                         "format": "default"
                     },
                     {
-                        "name": "High Confidence Not IT",
-                        "type": "boolean",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Princeton Catalog Folios",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Princeton Catalog Titles",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Body of story start folio & line",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Macomber Incipit",
-                        "type": "boolean",
-                        "format": "default"
-                    },
-                    {
-                        "name": "(test on whether there are two incipits in the ITool on the same folio)",
-                        "type": "integer",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Test for whether the incipit is not unique",
-                        "type": "boolean",
-                        "format": "default"
-                    },
-                    {
-                        "name": "New mss (column for sorting)",
-                        "type": "number",
-                        "format": "default"
-                    },
-                    {
                         "name": "Miracles sequence number",
                         "type": "string",
                         "format": "default"
@@ -545,11 +499,6 @@
                     },
                     {
                         "name": "Folio Start Letter",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Temporary English Translation for TGS 1994, to be moved when ID'd",
                         "type": "string",
                         "format": "default"
                     },
@@ -566,16 +515,6 @@
                     {
                         "name": "Story Century",
                         "type": "integer",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Story Latitude",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Story Longitude",
-                        "type": "string",
                         "format": "default"
                     }
                 ],
