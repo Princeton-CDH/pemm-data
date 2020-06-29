@@ -376,6 +376,11 @@
                         }
                     },
                     {
+                        "name": "Recension ID",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
                         "name": "Canonical Story Title",
                         "type": "string",
                         "format": "default"
@@ -397,6 +402,11 @@
                         "name": "Line Start",
                         "type": "integer",
                         "format": "default"
+                    },
+                    {
+                        "name": "Body of Story Start",
+                        "type": "string",
+                        "format": "default",
                     },
                     {
                         "name": "Folio End",
@@ -572,11 +582,20 @@
                         "reference": {
                             "resource": "manuscript",
                             "fields": "Manuscript Name"
-                        },
+                        }
+                    },
+                    {
                         "fields": "Canonical Story ID",
                         "reference": {
                             "resource": "canonical_story",
                             "fields": "Macomber ID"
+                        }
+                    },
+                    {
+                        "fields": "Recension ID",
+                        "reference": {
+                            "resource": "manuscript",
+                            "fields": "Manuscript Name"
                         }
                     }
                 ]
