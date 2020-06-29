@@ -32,8 +32,12 @@
                     },
                     {
                         "name": "Poncelet Number",
-                        "type": "string",
-                        "format": "default"
+                        "type": "integer",
+                        "format": "default",
+                        "constraints": {
+                            "minimum": 1,
+                            "maximum": 1783
+                        }
                     },
                     {
                         "name": "Hamburg ID",
@@ -56,19 +60,36 @@
                         "format": "default"
                     },
                     {
+                        "name": "EMIP Summary",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Hamburg Titles",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
                         "name": "Macomber Keywords",
                         "type": "string",
                         "format": "default"
                     },
                     {
                         "name": "CSM Number",
-                        "type": "string",
-                        "format": "default"
+                        "type": "integer",
+                        "format": "default",
+                        "constraints": {
+                            "minimum": 1,
+                            "maximum": 420
+                        }
                     },
                     {
                         "name": "Clavis ID",
                         "type": "string",
-                        "format": "default"
+                        "format": "default",
+                        "constraints": {
+                            "pattern": "^CAe [1-9]\\d{3}$"
+                        }
                     },
                     {
                         "name": "Translation of Story into English",
