@@ -27,6 +27,9 @@ def main():
 
     print(giant_string)
 
+    with open('error_summary.txt', 'w') as f:
+        f.write(giant_string)
+
     # create slack message
     if j['error-count'] != 0:
         slack_message = ""
