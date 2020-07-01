@@ -27,7 +27,7 @@ jobs:
       run: python .github/send_alerts_to_slack.py
 
     - name: Upload error summary
-        uses: actions/upload-artifact@v1
-        with:
-          name: Error Summary
-          path: error_summary.txt
+      uses: actions/upload-artifact@v1
+      with:
+        name: Error Summary
+        path: error_summary.txt
