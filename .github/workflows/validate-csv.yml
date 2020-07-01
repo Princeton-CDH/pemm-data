@@ -18,7 +18,7 @@ jobs:
         pip install goodtables
 
     - name: Run goodtables
-      run: goodtables validate datapackage.json
+      run: goodtables validate datapackage.json --json -o error_summary.json
 
     - name: Summarize and send slack alert
       if: ${{ always() }}
