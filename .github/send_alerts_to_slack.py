@@ -27,6 +27,8 @@ def main():
 
     print(giant_string)
 
+    print(os.environ)
+
     # create slack message
     if j['error-count'] != 0:
         slack_message = ""
