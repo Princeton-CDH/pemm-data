@@ -27,6 +27,7 @@ jobs:
       run: python .github/send_alerts_to_slack.py
 
     - name: Upload error summary
+      if: ${{ always() }}
       uses: actions/upload-artifact@v1
       with:
         name: Error Summary
