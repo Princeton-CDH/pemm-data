@@ -7,7 +7,6 @@ send a summary message to Slack. Also send a more detailed error summary to STDO
 """
 
 import json
-import sys
 import os
 
 def main():
@@ -60,7 +59,7 @@ def main():
 
         command = 'curl -X POST --data-urlencode '
         command += f'{escaped_payload} '
-        command += str(sys.argv[1])
+        command += os.environ['SLACK_WEBHOOK']
         print(command)
 
         os.system(command)
