@@ -22,4 +22,4 @@ jobs:
 
     - name: Summarize and send slack alert
       if: ${{ always() }}
-      run: python .github/send_alerts_to_slack.py
+      run: python .github/send_alerts_to_slack.py $SLACK_WEBHOOK

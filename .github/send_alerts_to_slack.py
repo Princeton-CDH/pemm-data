@@ -7,6 +7,7 @@ send a summary message to Slack. Also send a more detailed error summary to STDO
 """
 
 import json
+import sys
 import os
 
 def main():
@@ -27,8 +28,6 @@ def main():
 
     print(giant_string)
 
-    print(os.environ)
-
     # create slack message
     if j['error-count'] != 0:
         slack_message = ""
@@ -41,7 +40,7 @@ def main():
 
         slack_message = (
             "It looks like there were a few errors in the latest data build." +
-            "Here's a summary\n\n" + 
+            " Here's a summary:\n\n" + 
                 slack_message +
             "For more details, head to <https://github.com/Princeton-CDH/" +
             f"pemm-data/actions/runs/{os.environ['GITHUB_RUN_ID']}" + 
@@ -61,7 +60,8 @@ def main():
 
         command = 'curl -X POST --data-urlencode '
         command += f'{escaped_payload} '
-        command += os.environ['SLACK_WEBHOOK']
+        command += str(sys.argv[1])
+        print(command)
 
         os.system(command)
 
