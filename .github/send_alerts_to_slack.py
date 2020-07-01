@@ -38,9 +38,12 @@ def main():
                 slack_message += "\n"
 
         slack_message = (
-            "It looks like there were a few errors in the latest data build. Here's a summary\n\n" + 
+            "It looks like there were a few errors in the latest data build." +
+            "Here's a summary\n\n" + 
                 slack_message +
-            f"For more details, head to <https://github.com/Princeton-CDH/pemm-data/actions/runs/{os.environ['GITHUB_RUN_ID']}?check_suite_focus=true|GitHub Actions>"
+            "For more details, head to <https://github.com/Princeton-CDH/" +
+            f"pemm-data/actions/runs/{os.environ['GITHUB_RUN_ID']}" + 
+            "?check_suite_focus=true|GitHub Actions>"
         )
         
         j_payload = {
@@ -56,7 +59,7 @@ def main():
 
         command = 'curl -X POST --data-urlencode '
         command += f'{escaped_payload} '
-        command += 'https://hooks.slack.com/services/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'
+        command += os.environ['SLACK_WEBHOOK']
 
         os.system(command)
 
