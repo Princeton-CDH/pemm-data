@@ -21,5 +21,7 @@ jobs:
       run: goodtables validate datapackage.json --json -o error_summary.json
 
     - name: Summarize and send slack alert
+      env:
+        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
       if: ${{ always() }}
       run: python .github/send_alerts_to_slack.py $SLACK_WEBHOOK
