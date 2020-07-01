@@ -19,3 +19,6 @@ jobs:
 
     - name: Run goodtables
       run: goodtables validate datapackage.json
+
+    - name: Summarize and send slack alert
+      run: python .github/send_alerts_to_slack.py
