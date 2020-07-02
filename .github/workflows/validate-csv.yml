@@ -24,6 +24,7 @@ jobs:
       env:
         SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
         ERROR_FILE: error_summary.json
+        ERROR_MAX: 5
       if: ${{ always() }}
       run: python .github/goodtables_report.py
 

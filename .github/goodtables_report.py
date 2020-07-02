@@ -5,11 +5,28 @@ send a summary message to a given Slack channel. Send a more detailed
 error summary to std out and create a detailed txt file that can be accessed via GitHub
 artifacts.
 
-To run elsewhere, define SLACK_WEBHOOK in your repo's secrets and change the 
-top-level constants defined below. 
+---
 
-`validate-csv.yml` can also be copied verbatim, assuming that the schema is 
-named `datapackage.json`.
+This script expects that you ran the following task:
+
+    - name: Run goodtables
+      run: goodtables validate datapackage.json --json -o error_summary.json
+
+...which you can then follow with the following block that generates the 
+goodtables report summary:
+
+    - name: Summarize and send slack alert
+      env:
+        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+        ERROR_FILE: error_summary.json
+        ERROR_MAX: 5
+      if: ${{ always() }}
+      run: python .github/goodtables_report.py
+
+You'll need to define SLACK_WEBHOOK in your repo's secrets. `validate-csv.yml` 
+can also be copied verbatim, assuming that the schema is named `datapackage.json`.
+
+---
 
 Links to...
 - Generate a Slack token
@@ -25,7 +42,7 @@ import os
 
 ERROR_FILE = os.environ['ERROR_FILE']
 REPO = os.environ['GITHUB_REPOSITORY']
-ERROR_MAX = 5
+ERROR_MAX = int(os.environ['ERROR_MAX'])
 
 def main():
     with open(ERROR_FILE) as f: 
