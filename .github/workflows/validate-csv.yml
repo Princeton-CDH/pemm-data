@@ -25,7 +25,7 @@ jobs:
         SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
         ERROR_FILE: error_summary.json
       if: ${{ always() }}
-      run: python .github/send_alerts_to_slack.py
+      run: python .github/goodtables_report.py
 
     - name: Upload error summary
       if: ${{ always() }}
