@@ -24,19 +24,18 @@ import json
 import requests
 import os
 
-ERROR_FILE = 'error_summary.json'
-REPO = 'Princeton-CDH/pemm-data'
-CHANNEL = '#slack-webhook-test'
+ERROR_FILE = os.environ['ERROR_FILE']
+REPO = os.environ['GITHUB_REPOSITORY']
 ERROR_MAX = 5
 
 def main():
     with open(ERROR_FILE) as f: 
-        j = json.load(f)
+        error_json = json.load(f)
 
     # Create and print message to std out.
-    stdout_string = f"Error Count: { j['error-count'] }\n"
-    for table in j['tables']:
-        if table['error-count'] != 0:
+    stdout_string = f"Error Count: { error_json['error-count'] }\n"
+    for table in error_json['tables']:
+        if table['error-count']:
             stdout_string += f"\tTable: { table['resource-name'] }\n"
             stdout_string += f"\tError Count: { table['error-count'] }\n"
             for error in table['errors'][:ERROR_MAX]:
@@ -50,27 +49,26 @@ def main():
         f.write(stdout_string)
 
     # If there were no errors, end function and do not send a Slack message.
-    if j['error-count'] == 0:
+    if not error_json['error-count']:
         return
 
     # Create a slack payload.
     slack_message_prelude = (
-        f"🚨 Goodtables found {j['error-count']} error(s) in the latest sync." +
+        f"🚨 Goodtables found {error_json['error-count']} error(s) in the latest sync." +
         f" For more details, head to <https://github.com/{REPO}" +
         f"/actions/runs/{os.environ['GITHUB_RUN_ID']}" + 
         "?check_suite_focus=true|GitHub Actions>"
     )
     
     # (This will be shown on mobile and notifications in lieu of attachments.)
-    slack_message_fallback = f"Error Count: { j['error-count'] }\n"
-    for table in j['tables']:
-        if table['error-count'] != 0:
+    slack_message_fallback = f"Error Count: { error_json['error-count'] }\n"
+    for table in error_json['tables']:
+        if table['error-count']:
             slack_message_fallback += f"\tTable: { table['resource-name'] }\n"
             slack_message_fallback += f"\tError Count: { table['error-count'] }\n"
             slack_message_fallback += "\n"
 
     j_payload = {
-        'channel': CHANNEL,
         'text': slack_message_prelude,
         'attachments': [
             {
@@ -83,7 +81,7 @@ def main():
                         f"_Error type(s)_: {', '.join(set([x['code'] for x in table['errors']]))}\n"
                     )
                 }]
-            } for table in j['tables'] if table['error-count'] != 0
+            } for table in error_json['tables'] if table['error-count'] != 0
         ]
     }
 
