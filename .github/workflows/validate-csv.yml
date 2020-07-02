@@ -29,7 +29,7 @@ jobs:
 
     - name: Upload error summary
       if: ${{ always() }}
-      uses: actions/upload-artifact@v1
+      uses: actions/upload-artifact@v2
       with:
-        name: Error Summary
+        name: error-summary
         path: error_summary.txt
