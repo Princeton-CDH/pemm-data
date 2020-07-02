@@ -67,6 +67,11 @@
                         "format": "default"
                     },
                     {
+                        "name": "Total Paintings",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
                         "name": "Hamburg ID",
                         "type": "string",
                         "format": "default"
