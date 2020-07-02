@@ -17,7 +17,6 @@ Links to...
 - API for POST requests / formatting text:
     https://api.slack.com/messaging
 
-
 """
 
 import json
@@ -56,8 +55,7 @@ def main():
     slack_message_prelude = (
         f"🚨 Goodtables found {error_json['error-count']} error(s) in the latest sync." +
         f" For more details, head to <https://github.com/{REPO}" +
-        f"/actions/runs/{os.environ['GITHUB_RUN_ID']}" + 
-        "?check_suite_focus=true|GitHub Actions>"
+        f"/actions/runs/{ os.environ['GITHUB_RUN_ID'] }"
     )
     
     # (This will be shown on mobile and notifications in lieu of attachments.)
