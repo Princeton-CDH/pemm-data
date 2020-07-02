@@ -431,9 +431,10 @@
                         }
                     },
                     {
-                        "name": "Recension ID",
+                        "name": "ID Extension",
                         "type": "string",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Manuscript ID for the canonical version of this story variation"
                     },
                     {
                         "name": "Canonical Story Title",
@@ -442,6 +443,14 @@
                     },
                     {
                         "name": "Folio Start",
+                        "type": "string",
+                        "format": "default",
+                        "constraint": {
+                            "pattern": "^[1-9]+\\d*[rvab]?$"
+                        }
+                    },
+                    {
+                        "name": "Scan Start",
                         "type": "string",
                         "format": "default",
                         "constraint": {
@@ -472,6 +481,14 @@
                         }
                     },
                     {
+                        "name": "Scan End",
+                        "type": "string",
+                        "format": "default",
+                        "constraint": {
+                            "pattern": "^[1-9]+\\d*[rvab]?$"
+                        }
+                    },
+                    {
                         "name": "Column End",
                         "type": "integer",
                         "format": "default"
@@ -487,32 +504,23 @@
                         "format": "default"
                     },
                     {
-                        "name": "Number of Paintings",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
                         "name": "Incipit",
                         "type": "string",
                         "format": "default"
                     },
                     {
-                        "name": "Canonical Incipit",
-                        "type": "boolean",
-                        "format": "default"
+                        "name": "Confidence Score",
+                        "type": "string",
+                        "format": "default",
+                        "description": "Level of confidence that the selected Macomber ID matches this story in this manuscript"
                     },
                     {
-                        "name": "Confidence Score",
+                        "name": "Incipit Full",
                         "type": "string",
                         "format": "default"
                     },
                     {
-                        "name": "Exclude from ITool",
-                        "type": "boolean",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Notes",
+                        "name": "Story Word Variation",
                         "type": "string",
                         "format": "default"
                     },
@@ -527,43 +535,38 @@
                         "format": "default"
                     },
                     {
+                        "name": "Number of Paintings",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Painting Note",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Notes",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Exclude from ITool",
+                        "type": "boolean",
+                        "format": "default"
+                    },
+                    {
                         "name": "Ethiopic Story Number",
                         "type": "string",
                         "format": "default"
                     },
                     {
-                        "name": "Story Variation",
+                        "name": "Miracles Sequence Number",
                         "type": "string",
                         "format": "default"
                     },
                     {
-                        "name": "Miracles sequence number",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Folio Start Number",
-                        "type": "integer",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Folio Start Letter",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Manuscript Date Range Start",
-                        "type": "integer",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Manuscript Date Range End",
-                        "type": "integer",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Story Century",
-                        "type": "integer",
+                        "name": "Canonical Incipit",
+                        "type": "boolean",
                         "format": "default"
                     }
                 ],
@@ -586,7 +589,7 @@
                         }
                     },
                     {
-                        "fields": "Recension ID",
+                        "fields": "ID Extension",
                         "reference": {
                             "resource": "manuscript",
                             "fields": "Manuscript Name"
