@@ -31,31 +31,7 @@
                         "format": "default"
                     },
                     {
-                        "name": "Poncelet Number",
-                        "type": "integer",
-                        "format": "default",
-                        "constraints": {
-                            "minimum": 1,
-                            "maximum": 1783
-                        }
-                    },
-                    {
-                        "name": "Hamburg ID",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
                         "name": "English Translation",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Print Version",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Notes",
                         "type": "string",
                         "format": "default"
                     },
@@ -75,12 +51,42 @@
                         "format": "default"
                     },
                     {
+                        "name": "Notes",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Earliest Attestation",
+                        "type": "integer",
+                        "format": "default",
+                        "description": "The earliest century in which the story appeared."
+                    },
+                    {
+                        "name": "Total Records",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Hamburg ID",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
                         "name": "CSM Number",
                         "type": "integer",
                         "format": "default",
                         "constraints": {
                             "minimum": 1,
                             "maximum": 420
+                        }
+                    },
+                    {
+                        "name": "Poncelet Number",
+                        "type": "integer",
+                        "format": "default",
+                        "constraints": {
+                            "minimum": 1,
+                            "maximum": 1783
                         }
                     },
                     {
@@ -92,12 +98,17 @@
                         }
                     },
                     {
-                        "name": "Translation of Story into English",
+                        "name": "Print Version",
                         "type": "string",
                         "format": "default"
                     },
                     {
-                        "name": "Translations; formerly English Translation",
+                        "name": "English Translation Link",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "English Translation Source",
                         "type": "string",
                         "format": "default"
                     },
