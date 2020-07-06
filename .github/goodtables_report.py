@@ -69,12 +69,35 @@ def main():
         return
 
     # Create a slack payload.
-    slack_message = (
+    slack_message_prelude = (
         f"<https://github.com/{REPO}/actions/runs/{ os.environ['GITHUB_RUN_ID'] }|" +
-        f"goodtables validation failed with { error_json['error-count'] } error(s)>"
+        f"goodtables validation failed with { error_json['error-count'] } errors>"
     )
+    
+    # (This will be shown on mobile and notifications in lieu of attachments.)
+    slack_message_fallback = f"Error Count: { error_json['error-count'] }\n"
+    for table in error_json['tables']:
+        if table['error-count']:
+            slack_message_fallback += f"\tTable: { table['resource-name'] }\n"
+            slack_message_fallback += f"\tError Count: { table['error-count'] }\n"
+            slack_message_fallback += "\n"
 
-    j_payload = { 'text': slack_message }
+    j_payload = {
+        'text': slack_message_prelude,
+        'attachments': [
+            {
+                "fallback": slack_message_fallback,
+                "color": "danger",
+                "fields":[{
+                   "title": table['resource-name'] + '.csv',
+                   "value": (
+                        f"_Error count_: { table['error-count'] }\n" +
+                        f"_Error type_: {', '.join(set([x['code'] for x in table['errors']]))}\n"
+                    )
+                }]
+            } for table in error_json['tables'] if table['error-count'] != 0
+        ]
+    }
 
     # post stringified payload to url
     requests.post(os.environ['SLACK_WEBHOOK'], json.dumps(j_payload))
