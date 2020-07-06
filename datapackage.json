@@ -272,12 +272,12 @@
                     },
                     {
                         "name": "Date Range Start",
-                        "type": "integer",
+                        "type": "year",
                         "format": "default"
                     },
                     {
                         "name": "Date Range End",
-                        "type": "integer",
+                        "type": "year",
                         "format": "default"
                     },
                     {
