@@ -425,12 +425,14 @@
                     {
                         "name": "Manuscript",
                         "type": "string",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Manuscript name from manuscript.csv; name is the composite of the Collection and manuscript ID."
                     },
                     {
                         "name": "Canonical Story ID",
                         "type": "string",
                         "format": "default",
+                        "description": "Canonical Story (or Macomber) ID from canonical_story.csv; determined by catalogers using the Incipit Search Tool.",
                         "constraints": {
                             "pattern": "^[1-9]\\d*(-[A-F][1-2]?)?$"
                         }
@@ -444,12 +446,14 @@
                     {
                         "name": "Canonical Story Title",
                         "type": "string",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Automatically generated based on Canonical Story ID from canonical_story.csv,"
                     },
                     {
                         "name": "Folio Start",
                         "type": "string",
                         "format": "default",
+                        "description": "folio number on which the whole miracle story starts (including the obligatory first paragraph praising Mary, which is the same for every single story in the mss)",
                         "constraint": {
                             "pattern": "^[1-9]+\\d*[rvab]?$"
                         }
@@ -465,12 +469,14 @@
                     {
                         "name": "Column Start",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "column number in which the whole miracle story starts (including the obligatory first paragraph praising Mary)"
                     },
                     {
                         "name": "Line Start",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "line number in which the whole miracle story starts (including the obligatory first paragraph praising Mary)"
                     },
                     {
                         "name": "Body of Story Start",
@@ -481,6 +487,7 @@
                         "name": "Folio End",
                         "type": "string",
                         "format": "default",
+                        "description": "The folio on which the miracle ends.",
                         "constraint": {
                             "pattern": "^[1-9]+\\d*[rvab]?$"
                         }
@@ -496,28 +503,32 @@
                     {
                         "name": "Column End",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "The column in which the miracle ends."
                     },
                     {
                         "name": "Line End",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "The line in which the miracle ends."
                     },
                     {
                         "name": "Miracle Number",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "The number that represents the place of the miracle in the sequence of Miracles of Mary in this mss. The count always starts from 1, even in the case of composite mss (e.g., a manuscript that begins with three Miracles of Jesus, followed by a sequence of Miracles of Mary still lists the Marian miracle as \"1\" not \"4\"). For mss rebound in disorder, miracle numbers correspond to the original sequence of miracles."
                     },
                     {
                         "name": "Incipit",
                         "type": "string",
-                        "format": "default"
+                        "format": "default",
+                        "description": "The first unique line of the Marian miracle story in this exact mss (not the obligatory opening praises); typed directly from this mss, not copied from other mss."
                     },
                     {
                         "name": "Confidence Score",
                         "type": "string",
                         "format": "default",
-                        "description": "Level of confidence that the selected Macomber ID matches this story in this manuscript"
+                        "description": "Level of confidence that the selected Macomber ID matches the story in this manuscript"
                     },
                     {
                         "name": "Incipit Full",
@@ -552,12 +563,14 @@
                     {
                         "name": "Notes",
                         "type": "string",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Notes field to report any inconsistencies, important details, concerns, oddities, etc."
                     },
                     {
                         "name": "Exclude from ITool",
                         "type": "boolean",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Exclude from Incipit Search even when marked as high confidence."
                     },
                     {
                         "name": "Ethiopic Story Number",
@@ -572,7 +585,8 @@
                     {
                         "name": "Canonical Incipit",
                         "type": "boolean",
-                        "format": "default"
+                        "format": "default",
+                        "description": "The most representative incipit for a story (or one of several most representative incipits if a story has very distinct recensions)."
                     }
                 ],
                 "missingValues": [
