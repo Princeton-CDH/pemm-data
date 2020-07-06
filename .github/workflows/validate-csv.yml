@@ -22,7 +22,8 @@ jobs:
 
     - name: Summarize and send slack alert
       env:
-        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+        SLACK_WEBHOOK_1: ${{ secrets.SLACK_WEBHOOK_1 }}
+        SLACK_WEBHOOK_2: ${{ secrets.SLACK_WEBHOOK_2 }}
         ERROR_FILE: error_summary.json
         ERROR_MAX: 5
       if: ${{ always() }}

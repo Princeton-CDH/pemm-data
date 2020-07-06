@@ -100,7 +100,8 @@ def main():
     }
 
     # post stringified payload to url
-    requests.post(os.environ['SLACK_WEBHOOK'], json.dumps(j_payload))
+    requests.post(os.environ['SLACK_WEBHOOK_1'], json.dumps(j_payload))
+    requests.post(os.environ['SLACK_WEBHOOK_2'], json.dumps(j_payload))
 
 
 if __name__ == '__main__':
