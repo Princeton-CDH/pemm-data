@@ -69,9 +69,10 @@ def main():
         return
 
     # Create a slack payload.
+    plural = "" if error_json['error-count'] == 1 else "s"
     slack_message_prelude = (
         f"<https://github.com/{REPO}/actions/runs/{ os.environ['GITHUB_RUN_ID'] }|" +
-        f"goodtables validation failed with { error_json['error-count'] } errors>"
+        f"goodtables validation failed with { error_json['error-count'] } error{plural}>"
     )
     
     # (This will be shown on mobile and notifications in lieu of attachments.)
