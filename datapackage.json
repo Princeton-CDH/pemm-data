@@ -231,17 +231,7 @@
                         "format": "default"
                     },
                     {
-                        "name": "ID",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
                         "name": "Title",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Collection",
                         "type": "string",
                         "format": "default"
                     },
@@ -332,7 +322,7 @@
                     },
                     {
                         "name": "Lines per Column",
-                        "type": "string",
+                        "type": "integer",
                         "format": "default"
                     },
                     {
@@ -375,6 +365,16 @@
                     },
                     {
                         "name": "Place Recorded/Purchased",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "ID",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Collection",
                         "type": "string",
                         "format": "default"
                     },
@@ -468,7 +468,7 @@
                         "type": "string",
                         "format": "default",
                         "constraint": {
-                            "pattern": "^[1-9]+\\d*[rvab]?$"
+                            "pattern": "^[1-9]+\\d*[ab]?$"
                         }
                     },
                     {
@@ -502,7 +502,7 @@
                         "type": "string",
                         "format": "default",
                         "constraint": {
-                            "pattern": "^[1-9]+\\d*[rvab]?$"
+                            "pattern": "^[1-9]+\\d*[ab]?$"
                         }
                     },
                     {
@@ -579,12 +579,12 @@
                     },
                     {
                         "name": "Ethiopic Story Number",
-                        "type": "string",
+                        "type": "integer",
                         "format": "default"
                     },
                     {
                         "name": "Miracles Sequence Number",
-                        "type": "string",
+                        "type": "integer",
                         "format": "default"
                     },
                     {
@@ -592,6 +592,12 @@
                         "type": "boolean",
                         "format": "default",
                         "description": "The most representative incipit for a story (or one of several most representative incipits if a story has very distinct recensions)."
+                    }
+                    {
+                        "name": "Macomber Ms, non-Macomber Record",
+                        "type": "boolean",
+                        "format": "default",
+                        "description": "For Macomber incomplete mss, whether the record was added by one of the PEMM catalogers or from the EMML catalog."
                     }
                 ],
                 "missingValues": [
