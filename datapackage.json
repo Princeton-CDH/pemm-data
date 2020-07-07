@@ -46,6 +46,11 @@
                         "format": "default"
                     },
                     {
+                        "name": "Princeton Titles",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
                         "name": "Macomber Keywords",
                         "type": "string",
                         "format": "default"
