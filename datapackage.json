@@ -321,22 +321,22 @@
                         "format": "default"
                     },
                     {
-                        "name": "Columns per page",
+                        "name": "Columns per Page",
                         "type": "integer",
                         "format": "default"
                     },
                     {
-                        "name": "Line range per column",
+                        "name": "Line Range per Column",
                         "type": "string",
                         "format": "default"
                     },
                     {
-                        "name": "Lines per column",
+                        "name": "Lines per Column",
                         "type": "string",
                         "format": "default"
                     },
                     {
-                        "name": "Characters per line",
+                        "name": "Characters per Line",
                         "type": "integer",
                         "format": "default"
                     },
