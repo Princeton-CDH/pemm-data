@@ -438,7 +438,7 @@
                         }
                     },
                     {
-                        "name": "ID Extension",
+                        "name": "Recension ID",
                         "type": "string",
                         "format": "default",
                         "description": "Manuscript ID for the canonical version of this story variation"
@@ -608,7 +608,7 @@
                         }
                     },
                     {
-                        "fields": "ID Extension",
+                        "fields": "Recension ID",
                         "reference": {
                             "resource": "manuscript",
                             "fields": "Manuscript Name"
