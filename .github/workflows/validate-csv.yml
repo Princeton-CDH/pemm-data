@@ -27,7 +27,7 @@ jobs:
     - name: Summarize and send slack alert
       env:
         SLACK_GOODTABLES_WEBHOOK: ${{ secrets.SLACK_GOODTABLES_WEBHOOK }}
-        ERROR_FILE: error_summary.json
+        VALIDATION_OUTPUT_FILE: error_summary.json
         SCHEMA_PATH: datapackage.json
         ERROR_MAX: 5
       if: ${{ always() }}

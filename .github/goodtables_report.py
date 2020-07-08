@@ -18,7 +18,7 @@ goodtables report summary:
     - name: Summarize and send slack alert
       env:
         SLACK_GOODTABLES_WEBHOOK: ${{ secrets.SLACK_GOODTABLES_WEBHOOK }}
-        ERROR_FILE: error_summary.json
+        VALIDATION_OUTPUT_FILE: error_summary.json
         ERROR_MAX: 5
       if: ${{ always() }}
       run: python .github/goodtables_report.py
@@ -43,7 +43,7 @@ import json
 import requests
 import os
 
-ERROR_FILE = os.environ['ERROR_FILE']
+VALIDATION_OUTPUT_FILE = os.environ['VALIDATION_OUTPUT_FILE']
 REPO = os.environ['GITHUB_REPOSITORY']
 ERROR_MAX = int(os.environ['ERROR_MAX'])
 SCHEMA_PATH = os.environ['SCHEMA_PATH']
@@ -83,7 +83,7 @@ def main():
     if is_invalid_schema():
         return
 
-    with open(ERROR_FILE) as f: 
+    with open(VALIDATION_OUTPUT_FILE) as f: 
         error_json = json.load(f)
 
     # Create and print message to std out.
