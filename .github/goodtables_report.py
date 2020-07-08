@@ -47,12 +47,14 @@ VALIDATION_OUTPUT_FILE = os.environ['VALIDATION_OUTPUT_FILE']
 REPO = os.environ['GITHUB_REPOSITORY']
 ERROR_MAX = int(os.environ['ERROR_MAX'])
 SCHEMA_PATH = os.environ['SCHEMA_PATH']
+WEBHOOK = os['SLACK_GOODTABLES_WEBHOOK']
+WEBHOOK_2 = os.environ.get('SLACK_GOODTABLES_WEBHOOK_2')
 
 def is_invalid_schema():
     """Send a Slack message and return true if the datapackage json is invalid."""
 
     try:
-        with open(os.environ['SCHEMA_PATH']) as f:
+        with open(SCHEMA_PATH) as f:
             json.load(f)
     except Exception as err:
         j_payload = {
@@ -62,7 +64,7 @@ def is_invalid_schema():
                     "fallback": f'```{str(err)}```',
                     "color": "danger",
                     "fields":[{
-                       "title": os.environ['SCHEMA_PATH'],
+                       "title": SCHEMA_PATH,
                        "value": f'```{str(err)}```'
                     }]
                 }
@@ -70,9 +72,9 @@ def is_invalid_schema():
         }
 
         # post stringified payload to url
-        requests.post(os.environ['SLACK_GOODTABLES_WEBHOOK'], json.dumps(j_payload))
-        if os.environ.get('SLACK_GOODTABLES_WEBHOOK_2'):
-            requests.post(os.environ['SLACK_GOODTABLES_WEBHOOK_2'], json.dumps(j_payload))
+        requests.post(WEBHOOK, json.dumps(j_payload))
+        if WEBHOOK_2:
+            requests.post(WEBHOOK_2, json.dumps(j_payload))
 
         return True
     
@@ -139,9 +141,9 @@ def main():
     }
 
     # post stringified payload to url
-    requests.post(os.environ['SLACK_GOODTABLES_WEBHOOK'], json.dumps(j_payload))
-    if os.environ.get('SLACK_GOODTABLES_WEBHOOK_2'):
-        requests.post(os.environ['SLACK_GOODTABLES_WEBHOOK_2'], json.dumps(j_payload))
+    requests.post(WEBHOOK, json.dumps(j_payload))
+    if WEBHOOK_2:
+        requests.post(WEBHOOK_2, json.dumps(j_payload))
 
 
 if __name__ == '__main__':
