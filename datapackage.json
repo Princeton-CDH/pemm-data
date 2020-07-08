@@ -592,7 +592,7 @@
                         "type": "boolean",
                         "format": "default",
                         "description": "The most representative incipit for a story (or one of several most representative incipits if a story has very distinct recensions)."
-                    }
+                    },
                     {
                         "name": "Macomber Ms, non-Macomber Record",
                         "type": "boolean",
