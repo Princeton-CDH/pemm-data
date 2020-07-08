@@ -43,8 +43,30 @@ import os
 ERROR_FILE = os.environ['ERROR_FILE']
 REPO = os.environ['GITHUB_REPOSITORY']
 ERROR_MAX = int(os.environ['ERROR_MAX'])
+SCHEMA_PATH = os.environ['SCHEMA_PATH']
+
+def is_invalid_schema():
+    # Ensure that JSON is valid
+    try:
+        with open(os.environ['SCHEMA_PATH']) as f:
+            json.load(f)
+    except Exception as err:
+        slack_message = "There was an error loading the JSON:\n"
+        slack_message += str(err)
+
+        j_payload = { 'text': slack_message }
+        
+        # post stringified payload to url
+        requests.post(os.environ['SLACK_WEBHOOK'], json.dumps(j_payload))
+        requests.post(os.environ['SLACK_WEBHOOK_2'], json.dumps(j_payload))
+
+        return True
+    return False
 
 def main():
+    if is_invalid_schema():
+        return
+
     with open(ERROR_FILE) as f: 
         error_json = json.load(f)
 
