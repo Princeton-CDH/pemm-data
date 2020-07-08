@@ -579,7 +579,7 @@
                     },
                     {
                         "name": "Ethiopic Story Number",
-                        "type": "integer",
+                        "type": "string",
                         "format": "default"
                     },
                     {
