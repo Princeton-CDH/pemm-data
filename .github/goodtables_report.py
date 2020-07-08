@@ -17,14 +17,17 @@ goodtables report summary:
 
     - name: Summarize and send slack alert
       env:
-        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+        SLACK_GOODTABLES_WEBHOOK: ${{ secrets.SLACK_GOODTABLES_WEBHOOK }}
         ERROR_FILE: error_summary.json
         ERROR_MAX: 5
       if: ${{ always() }}
       run: python .github/goodtables_report.py
 
-You'll need to define SLACK_WEBHOOK in your repo's secrets. `validate-csv.yml` 
+You'll need to define SLACK_GOODTABLES_WEBHOOK in your repo's secrets. `validate-csv.yml` 
 can also be copied verbatim, assuming that the schema is named `datapackage.json`.
+
+SLACK_GOODTABLES_WEBHOOK_2 is also an environment variable you can include if you'd
+like to send the message to more than one Slack.
 
 ---
 
@@ -46,22 +49,35 @@ ERROR_MAX = int(os.environ['ERROR_MAX'])
 SCHEMA_PATH = os.environ['SCHEMA_PATH']
 
 def is_invalid_schema():
-    # Ensure that JSON is valid
+    """Send a Slack message and return true if the datapackage json is invalid."""
+
     try:
         with open(os.environ['SCHEMA_PATH']) as f:
             json.load(f)
     except Exception as err:
-        slack_message = "There was an error loading the JSON:\n"
-        slack_message += str(err)
+        j_payload = {
+            'text': "There was an error loading the JSON:",
+            'attachments': [
+                {
+                    "fallback": f'```{str(err)}```',
+                    "color": "danger",
+                    "fields":[{
+                       "title": os.environ['SCHEMA_PATH'],
+                       "value": f'```{str(err)}```'
+                    }]
+                }
+            ]
+        }
 
-        j_payload = { 'text': slack_message }
-        
         # post stringified payload to url
-        requests.post(os.environ['SLACK_WEBHOOK'], json.dumps(j_payload))
-        requests.post(os.environ['SLACK_WEBHOOK_2'], json.dumps(j_payload))
+        requests.post(os.environ['SLACK_GOODTABLES_WEBHOOK'], json.dumps(j_payload))
+        if os.environ.get('SLACK_GOODTABLES_WEBHOOK_2'):
+            requests.post(os.environ['SLACK_GOODTABLES_WEBHOOK_2'], json.dumps(j_payload))
 
         return True
+    
     return False
+
 
 def main():
     if is_invalid_schema():
@@ -123,8 +139,9 @@ def main():
     }
 
     # post stringified payload to url
-    requests.post(os.environ['SLACK_WEBHOOK_1'], json.dumps(j_payload))
-    requests.post(os.environ['SLACK_WEBHOOK_2'], json.dumps(j_payload))
+    requests.post(os.environ['SLACK_GOODTABLES_WEBHOOK'], json.dumps(j_payload))
+    if os.environ.get('SLACK_GOODTABLES_WEBHOOK_2'):
+        requests.post(os.environ['SLACK_GOODTABLES_WEBHOOK_2'], json.dumps(j_payload))
 
 
 if __name__ == '__main__':

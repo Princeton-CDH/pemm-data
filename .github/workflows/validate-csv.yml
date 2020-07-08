@@ -26,8 +26,8 @@ jobs:
 
     - name: Summarize and send slack alert
       env:
-        SLACK_WEBHOOK_1: ${{ secrets.SLACK_WEBHOOK_1 }}
-        SLACK_WEBHOOK_2: ${{ secrets.SLACK_WEBHOOK_2 }}
+        SLACK_GOODTABLES_WEBHOOK: ${{ secrets.SLACK_GOODTABLES_WEBHOOK }}
+        SLACK_GOODTABLES_WEBHOOK_2: ${{ secrets.SLACK_GOODTABLES_WEBHOOK_2 }}
         ERROR_FILE: error_summary.json
         SCHEMA_PATH: datapackage.json
         ERROR_MAX: 5
