@@ -29,7 +29,6 @@ jobs:
         SLACK_GOODTABLES_WEBHOOK: ${{ secrets.SLACK_GOODTABLES_WEBHOOK }}
         VALIDATION_OUTPUT_FILE: error_summary.json
         SCHEMA_PATH: datapackage.json
-        ERROR_MAX: 20
       if: ${{ always() }}
       run: python .github/goodtables_report.py
 

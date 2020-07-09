@@ -29,6 +29,9 @@ can also be copied verbatim, assuming that the schema is named `datapackage.json
 SLACK_GOODTABLES_WEBHOOK_2 is also an environment variable you can include if you'd
 like to send the message to more than one Slack.
 
+ERROR_MAX limits the number of errors listed on each CSVs output summary. If not defined,
+no maximum will be used.
+
 ---
 
 Links to...
@@ -43,12 +46,18 @@ import json
 import requests
 import os
 
+# Required vars
 VALIDATION_OUTPUT_FILE = os.environ['VALIDATION_OUTPUT_FILE']
-REPO = os.environ['GITHUB_REPOSITORY']
-ERROR_MAX = int(os.environ['ERROR_MAX'])
 SCHEMA_PATH = os.environ['SCHEMA_PATH']
 WEBHOOK = os.environ['SLACK_GOODTABLES_WEBHOOK']
+
+# Optional vars
+ERROR_MAX = None if ERROR_MAX not in os.environ else int(os.environ['ERROR_MAX'])
 WEBHOOK_2 = os.environ.get('SLACK_GOODTABLES_WEBHOOK_2')
+
+# Github vars
+REPO = os.environ['GITHUB_REPOSITORY']
+RUN_ID = os.environ['GITHUB_RUN_ID']
 
 def is_invalid_schema(error_json):
     """Send a Slack message and return true if the datapackage json is invalid."""
@@ -99,6 +108,7 @@ def main():
         if table['error-count']:
             stdout_string += f"\tTable: { table['resource-name'] }\n"
             stdout_string += f"\tError Count: { table['error-count'] }\n"
+            # When ERROR_MAX is None, python defaults to the entire array.
             for error in table['errors'][:ERROR_MAX]:
                 stdout_string += f'\t\t{ error["message"] }\n'
             stdout_string += "\n"
@@ -116,7 +126,7 @@ def main():
     # Create a slack payload.
     plural = "" if error_json['error-count'] == 1 else "s"
     slack_message_prelude = (
-        f"<https://github.com/{REPO}/actions/runs/{ os.environ['GITHUB_RUN_ID'] }|" +
+        f"<https://github.com/{REPO}/actions/runs/{ RUN_ID }|" +
         f"goodtables validation failed with { error_json['error-count'] } error{plural}>"
     )
     
