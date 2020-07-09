@@ -17,15 +17,18 @@ jobs:
         python -m pip install --upgrade pip
         pip install goodtables
 
+    - name: Validate json
+      run: python -m json.tool < datapackage.json
+
     - name: Run goodtables
       run: goodtables validate datapackage.json --json -o error_summary.json
+      if: ${{ always() }}
 
     - name: Summarize and send slack alert
       env:
-        SLACK_WEBHOOK_1: ${{ secrets.SLACK_WEBHOOK_1 }}
-        SLACK_WEBHOOK_2: ${{ secrets.SLACK_WEBHOOK_2 }}
-        ERROR_FILE: error_summary.json
-        ERROR_MAX: 20
+        SLACK_GOODTABLES_WEBHOOK: ${{ secrets.SLACK_GOODTABLES_WEBHOOK }}
+        VALIDATION_OUTPUT_FILE: error_summary.json
+        SCHEMA_PATH: datapackage.json
       if: ${{ always() }}
       run: python .github/goodtables_report.py
 
@@ -33,5 +36,12 @@ jobs:
       if: ${{ always() }}
       uses: actions/upload-artifact@v2
       with:
-        name: error-summary
+        name: goodtables-output.json
+        path: error_summary.json
+
+    - name: Upload error summary
+      if: ${{ always() }}
+      uses: actions/upload-artifact@v2
+      with:
+        name: error-summary.txt
         path: error_summary.txt
