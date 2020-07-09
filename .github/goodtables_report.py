@@ -47,13 +47,13 @@ VALIDATION_OUTPUT_FILE = os.environ['VALIDATION_OUTPUT_FILE']
 REPO = os.environ['GITHUB_REPOSITORY']
 ERROR_MAX = int(os.environ['ERROR_MAX'])
 SCHEMA_PATH = os.environ['SCHEMA_PATH']
-WEBHOOK = os['SLACK_GOODTABLES_WEBHOOK']
+WEBHOOK = os.environ['SLACK_GOODTABLES_WEBHOOK']
 WEBHOOK_2 = os.environ.get('SLACK_GOODTABLES_WEBHOOK_2')
 
 def is_invalid_schema(error_json):
     """Send a Slack message and return true if the datapackage json is invalid."""
     
-    # If the tables property isn't empty, it processed the JSON
+    # If the tables property isn't empty, it processed the datapackage JSON
     if error_json['tables']:
         return False
 
