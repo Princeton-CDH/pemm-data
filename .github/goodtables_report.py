@@ -52,10 +52,6 @@ WEBHOOK_2 = os.environ.get('SLACK_GOODTABLES_WEBHOOK_2')
 
 def is_invalid_schema(error_json):
     """Send a Slack message and return true if the datapackage json is invalid."""
-    
-    # If the tables property isn't empty, it processed the datapackage JSON
-    if error_json['tables']:
-        return False
 
     try:
         with open(SCHEMA_PATH) as f:
@@ -91,8 +87,11 @@ def main():
         error_json = json.load(f)
 
     # Check if schema is valid
-    if is_invalid_schema(error_json):
-        return
+    # We assume that if the tables property is empty, goodtables didn't process
+    #     the datapackage JSON
+    if not error_json['tables']:
+        if is_invalid_schema(error_json):
+            return
 
     # Create and print message to std out.
     stdout_string = f"Error Count: { error_json['error-count'] }\n"
