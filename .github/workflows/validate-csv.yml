@@ -21,7 +21,7 @@ jobs:
       run: python -m json.tool < datapackage.json
 
     - name: Run goodtables
-      run: goodtables validate datapackage.json --json -o error_summary.json
+      run: goodtables validate datapackage.json --json -o error_summary.json --skip-checks extra-header
       if: ${{ always() }}
 
     - name: Summarize and send slack alert
