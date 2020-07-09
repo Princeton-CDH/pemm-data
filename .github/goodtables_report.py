@@ -52,7 +52,7 @@ SCHEMA_PATH = os.environ['SCHEMA_PATH']
 WEBHOOK = os.environ['SLACK_GOODTABLES_WEBHOOK']
 
 # Optional vars
-ERROR_MAX = None if ERROR_MAX not in os.environ else int(os.environ['ERROR_MAX'])
+ERROR_MAX = None if 'ERROR_MAX' not in os.environ else int(os.environ['ERROR_MAX'])
 WEBHOOK_2 = os.environ.get('SLACK_GOODTABLES_WEBHOOK_2')
 
 # Github vars
