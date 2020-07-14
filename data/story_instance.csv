@@ -3031,12 +3031,12 @@ BOr (BL) 639,103,,"Bishop Mercurius, whom the patriarch wanted to remove because
 BOr (BL) 639,112,,A poor woman with a broken leg is healed by the icon of Saint Mary in the church of Harat ar-Rum.,126r,,1,,,128r,,2,,24,,,,,FALSE,,2,,,FALSE,,,FALSE,FALSE,0,2,,FALSE,,126,r,,,,1600,1868,18,15,0,1
 BOr (BL) 639,158,,The prioress who became pregnant after sinning with a servant.,130r,,1,,,136r,,1,,25,,,,,FALSE,,2,,,FALSE,,,FALSE,FALSE,0,2,,FALSE,,130,r,,,,1600,1868,18,15,0,1
 BOr (BL) 639,140,,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,137v,,1,,,139r,,2,,26,,,,,FALSE,,1,,,FALSE,,,FALSE,FALSE,0,1,,FALSE,,137,v,,,,1600,1868,18,15,0,1
-BOr (BL) 639,142,,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",141r,,1,,,143r,,1,,27,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,141,r,,,,1600,1868,18,15,0,1
-BOr (BL) 639,7,,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who humbly pretends not to fast and is saved from his brothers by Mary.,145r,,1,,,150v,,1,,28,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,145,r,,,,1600,1868,18,16,0,1
-BOr (BL) 639,125,,The story of the cannibal from Qemer.,152r,,1,,,158r,,1,,29,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,152,r,,,,1600,1868,18,14,0,1
-BOr (BL) 639,152,,The widow who prayed to Saint Mary and saved her only son from death by hanging.,159v,,1,,,162v,,2,,30,,,,"corresponds to Budge, item 30 (another recension is item 31)",FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,159,v,,,,1600,1868,18,14,0,1
-BOr (BL) 639,148,,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),154r,,1,,,167r,,1,,31,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,154,r,,,,1600,1868,18,15,0,1
-BOr (BL) 639,236,,Saint Mary gives a thirsty dog water to drink from her shoe.,168v,,1,,,169v,,2,,32,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,168,v,,,,1600,1868,18,16,0,1
+BOr (BL) 639,142,,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",141r,,1,,,143r,,1,,27,,,,,FALSE,,1,,,FALSE,,,FALSE,FALSE,0,1,,FALSE,,141,r,,,,1600,1868,18,15,0,1
+BOr (BL) 639,7,,Dabra Qaləmon miracles: The monk of Dabra Qaləmon who humbly pretends not to fast and is saved from his brothers by Mary.,145r,,1,,,150v,,1,,28,,,,,FALSE,,1,,,FALSE,,,FALSE,FALSE,0,1,,FALSE,,145,r,,,,1600,1868,18,16,0,1
+BOr (BL) 639,125,,The story of the cannibal from Qemer.,152r,,1,,,158r,,1,,29,,,,,FALSE,1 (f 152v),2,,,FALSE,,,FALSE,FALSE,0,2,,FALSE,,152,r,,,,1600,1868,18,14,0,1
+BOr (BL) 639,152,,The widow who prayed to Saint Mary and saved her only son from death by hanging.,159v,,1,,,162v,,2,,30,,,,"corresponds to Budge, item 30 (another recension is item 31)",FALSE,,1,,,FALSE,,,FALSE,FALSE,0,1,,FALSE,,159,v,,,,1600,1868,18,14,0,1
+BOr (BL) 639,148,,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),164r,,1,,,167r,,1,,31,,,,,FALSE,,1,,,FALSE,,,FALSE,FALSE,0,1,,FALSE,,164,r,,,,1600,1868,18,15,0,1
+BOr (BL) 639,236,,Saint Mary gives a thirsty dog water to drink from her shoe.,168v,,1,,,169v,,2,,32,,,,,FALSE,,1,,,FALSE,,,FALSE,FALSE,0,1,,FALSE,,168,v,,,,1600,1868,18,16,0,1
 BOr (BL) 640,,,,,,,,,,,,,1,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1708,1711,18,,0,0
 BOr (BL) 640,,,,,,,,,,,,,2,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1708,1711,18,,0,0
 BOr (BL) 640,,,,,,,,,,,,,3,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1708,1711,18,,0,0
