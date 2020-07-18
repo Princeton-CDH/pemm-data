@@ -793,39 +793,39 @@ PEM (PUL) 20,,,,91r,,,,,91v,,,,94,,,,,TRUE,,0,,,FALSE,,,FALSE,FALSE,0,0,,FALSE,9
 BOr (BL) 634,,,,8r,,,,,,,,,,,,,,FALSE,,,,additional miracle,TRUE,,0,FALSE,FALSE,,,,FALSE,97.1,8,r,,,,1706,1708,18,,0,0
 BOr (BL) 634,629,,"Mary, Nativity of cycle: On the occasion of the marriage of Saints Joachim and Anne, prophecies are made concerning the birth of Saint Mary.",11r,,1,1,"f11r, 1, 8",14r,,1,12,1,ወሀሎ፡. እምዘመደ፡ ይሁዳ፡ ዘስሙ፡ ኢያቄም፡ ወአውሰበ፡ ብእሲተ፡ እም አዋልደ፡ ካህናት፡ ዘስመይ፡ ሐና። ወክልኤሆሙ፡ ኄራን፡ ወሥሙራን፡ ወያሐውሩ፡ በሕገ፡ እግዚአብሔር፡ ወብእሲቱስ፡ መካን፡ ይአቲ።,High,,,FALSE,0,0,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,11,r,,,,1706,1708,18,17,1,1
 BOr (BL) 634,,,,14r,,1,13,"f14r, 2, 6",16r,,1,10,2,ወነበረት፡..... ውስተ፡ መቅደስ፡ እንዘ፡ ትትለአክ፡ በኀድአት፡ ወበትሕትና። እንዘ፡ ኵሎሙ፡ ካህናት፡ ያስትበፅዕዋ፡ ወያከብርዋ።,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,14,r,,,,1706,1708,18,,1,0
-BOr (BL) 634,,,,16r,,1,11,,20r,,2,14,3,incipit missing,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,TRUE,97.1,16,r,,,,1706,1708,18,,1,0
-BOr (BL) 634,13,,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,20v,,1,9,"f20v, 1,",23v,,1,3,4,incipit begins earlier ዘጥልጥልያ፡ ኤጲስ፡ ቆጶስ፡ ዘስሙ፡ ደቅስዮስ፡ ወኮነ፡ ብእሴ፡ ቡሩከ፡ ወኄረ፡ ወያፈቅራ፡ ለእግዝእትነ፡ ቅዲስት፡,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,20,v,,,,1706,1708,18,14,1,1
+BOr (BL) 634,,,,16r,,1,11,"f16r, 2, 3",20r,,2,14,3,incipit missing,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,TRUE,97.1,16,r,,,,1706,1708,18,,1,0
+BOr (BL) 634,13,,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,20v,,1,1,"f20v, 1, 9",23v,,1,3,4,incipit begins earlier ዘጥልጥልያ፡ ኤጲስ፡ ቆጶስ፡ ዘስሙ፡ ደቅስዮስ፡ ወኮነ፡ ብእሴ፡ ቡሩከ፡ ወኄረ፡ ወያፈቅራ፡ ለእግዝእትነ፡ ቅዲስት፡,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,20,v,,,,1706,1708,18,14,1,1
 BOr (BL) 634,187,,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,23v,,1,4,"f23v, 1, 12",24v,,2,3,5,ወሀሎ፡ ፩ብእሲ፡ ገባራዊ፡ ዘያፈቅራ፡ ለእግዝእትነ፡ …. በኵሉ፡ ልቡ፡ ወያወትር፡ አንብቦ፡ ሰላማ፡ ለለኵሉ፡ ዕለት፡ ነግሀ፡ ወቀትረ፡ ወምሴተ።,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,23,v,,,,1706,1708,18,14,1,1
-BOr (BL) 634,,,,24v,,2,4,"f24v, 2, 13",26r,,2,12,,incipit missing,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,TRUE,97.1,24,v,,,,1706,1708,18,,1,0
-BOr (BL) 634,162,,The pious monk scribe who used to write Saint Mary's name in golden ink.,26r,,2,13,"f26v, 1, 7",27v,,2,12,,ወሀሎ፡ ፩መነኮስ፡ ዘይነብር፡ በሀገረ፡ ፍልጰስዩስ፡ ዘስሙ፡ ድምያኖስ።,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,26,r,,,,1706,1708,18,14,1,1
-BOr (BL) 634,,,,27v,,2,13,"f28r, 1, 6",f29v,,1,10,,incipit missing,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,TRUE,97.1,27,v,,,,1706,1708,18,,1,0
-BOr (BL) 634,19,,"The monk, Yǝsḥaq, who prayed for seven years that Saint Mary would appear to him.",29v,,,,,,,,,,ወሀሎ፡ ፩መነኮስ፡ ኄር፡ ዘስሙ፡ ይስሐቅ። ወይፈቅራ …. ወእምእሱ፡ ነበረ፡ ውስተ፡ አሐቲ፡ ደብር፡ በመዋዕሊሁ፡ ለአባ፡ ገብርኤል፡ ሊቀ፡,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,29,v,,,,1706,1708,18,16,1,1
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
-BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,24v,,2,4,"f24v, 2, 13",26r,,2,12,6,incipit missing,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,TRUE,97.1,24,v,,,,1706,1708,18,,1,0
+BOr (BL) 634,162,,The pious monk scribe who used to write Saint Mary's name in golden ink.,26r,,2,13,"f26v, 1, 7",27v,,2,12,7,ወሀሎ፡ ፩መነኮስ፡ ዘይነብር፡ በሀገረ፡ ፍልጰስዩስ፡ ዘስሙ፡ ድምያኖስ።,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,26,r,,,,1706,1708,18,14,1,1
+BOr (BL) 634,,,,27v,,2,13,"f28r, 1, 6",f29v,,1,10,8,incipit missing,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,TRUE,97.1,27,v,,,,1706,1708,18,,1,0
+BOr (BL) 634,19,,"The monk, Yǝsḥaq, who prayed for seven years that Saint Mary would appear to him.",29v,,,,,,,,,9,ወሀሎ፡ ፩መነኮስ፡ ኄር፡ ዘስሙ፡ ይስሐቅ። ወይፈቅራ …. ወእምእሱ፡ ነበረ፡ ውስተ፡ አሐቲ፡ ደብር፡ በመዋዕሊሁ፡ ለአባ፡ ገብርኤል፡ ሊቀ፡,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,29,v,,,,1706,1708,18,16,1,1
+BOr (BL) 634,,,,,,,,,,,,,10,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,11,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,12,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,13,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,14,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,15,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,16,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,17,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,18,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,19,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,20,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,21,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,22,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,23,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,24,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,25,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,26,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,27,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,28,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,29,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,30,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,31,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,32,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,33,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,34,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
+BOr (BL) 634,,,,,,,,,,,,,35,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
 BOr (BL) 634,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,1,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
 BOr (BL) 634,,,,79r,,,,,,,,,1,,,,,FALSE,,,,,TRUE,,2,FALSE,FALSE,,,,FALSE,97.1,79,r,,,,1706,1708,18,,0,0
 BOr (BL) 634,,,,,,,,,,,,,2,,,,,FALSE,,,,,TRUE,,2,FALSE,FALSE,,,,FALSE,97.1,,,,,,1706,1708,18,,0,0
@@ -2259,7 +2259,7 @@ BOr (BL) 520,7,EMML (HMML) 2378,Dabra Qaləmon miracles: The monk of Dabra Qalə
 BOr (BL) 520,125,,The story of the cannibal from Qemer.,244r,,1,1,"244r, 1, 11",247v,,1,10,29,ወሀሎ፡ አሓዱ፡ ብእሲ፡ በሀገረ፡ ቅምር፡ ክቡረ፡ ዘመድ፡ በስም፡ ክርስቲያናዊ፡ ውእቱ። ወኃጢአቱ፡ እምኃጢአተ፡ ኵሉ፡ ሰብእ።,High,,,FALSE,,3,,,TRUE,,,FALSE,FALSE,0,3,EMML (HMML) 3872 22r,FALSE,,244,r,,,,1600,1699,17,14,1,1
 BOr (BL) 520,152,EMML (HMML) 1573,The widow who prayed to Saint Mary and saved her only son from death by hanging.,250r,,1,1,"250r, 1, 11",252v,,1,6,30,ተብህለ፡ ከመ፡ ሀለወት፡ አሐቲ፡ ብእሲት፡ ነዳይት፡ ዕቤር። ወባቲ፡ አሐዱ፡ ወልድ፡ ባሕቲቱ፡ ወእምብዝኃ፡ ዘታፈቅሮ፡ ኮነት፡ ትገይስ፡ ኵሎ፡ አሚረ፡ ዘእንበለ፡ ፅርዓት፡ ወሀኬት፡ ኀበ፡ ቤተ፡ ክርስቲያን፡ ወትስእላ፡ ለእግዝእትነ፡… ። ,High,ተብህለ፡ ከመ፡ ሀለወት፡ አሐቲ፡ ብእሲት፡ ነዳይት፡ ዕቤር። ወባቲ፡ አሐዱ፡ ወልድ፡ ባሕቲቱ፡ ወእምብዝኃ፡ ዘታፈቅሮ፡ ኮነት፡ ትገይስ፡ ኵሎ፡ አሚረ፡ ዘእንበለ፡ ፅርዓት፡ ወሀኬት፡ ኀበ፡ ቤተ፡ ክርስቲያን፡ ወትስእላ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በክልኤ፡ ማርያም፡ ወላዲተ፡ አምላክ።,,FALSE,,2,,,TRUE,,,FALSE,FALSE,0,2,EMML (HMML) 9002 160v,FALSE,,250,r,,,,1600,1699,17,14,1,1
 BOr (BL) 520,148,,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),254r,,1,1,"254r, 1, 11",256r,,2,4,31,ወሀሎ፡ አሓዱ፡ ብእሲ፡ ውስተ፡ አሓዱ፡ ሀገር። ወፅንስት፡ ይእቲ፡ ወአልጸቀት፡ ለወሊድ፡ ወአሐተ፡ ዕለተ፡ እንዘተሐውር፡ ምስለ፡ ብዙኃን፡ ሰብእ፡ በበዓለ፡ ሊቀ፡ መላእክት፡ ሚካኤል፡ ውስተ፡ አሐቲ፡ ቤተ፡ ክርስቲያን፡ ዘሕንፅት፡ በስመ፡ ዚአሁ፡ በደሴተ፡ ጽንፈ፡ ባሕር፡ ዓባይ፡ ዘተዓውድ፡ ኵሎ፡ ዓለመ፡ ወእንዘ፡ ሀለው፡ በፍኖት፡ ዘእንበለ፡ ይብጽሑ፡ ውስተ፡ ይእቲ፡ ቤተ፡ ክርስቲያን።,High,,,FALSE,,1,,,TRUE,,,FALSE,FALSE,0,1,PEM (PUL) 46 31v,FALSE,,254,r,,,,1600,1699,17,14,1,1
-BOr (BL) 520,236,,Saint Mary gives a thirsty dog water to drink from her shoe.,258r,,1,1,"258r, 1, 11",259r,,,,32,ወሀለዋ፡ አንስት፡ ምስለ፡ እግዝእትነ፡ ማርያም። ወመጽአ፡ ከልብ፡ ጽሙዕ፡ ወሰደዳሁ፡ ውእቶን፡ አንስት። ወእግዝእትነስ፡ አስተዓፀበት፡ ወበከየት፡ ሶበ፡ ርእየት፡ ፅምዓ፡ ዚአሁ። ወይቤላሃ፡ አንስት፡ አንቲሂ፡ ትምህርዮ፡ እምኔነ። እኮኑ፡ ይብሉ፡ ይትወለድ፡ እምኔኪ፡ ክርስቶስ፡ ዘይብልዎ፡ መሲሕ። ,High,,,FALSE,,1,,,TRUE,,,FALSE,FALSE,0,1,PEM (PUL) 57 150r,FALSE,,258,r,,,,1600,1699,17,16,1,1
+BOr (BL) 520,236,,Saint Mary gives a thirsty dog water to drink from her shoe.,258r,,1,1,"258r, 1, 11",256v,,2,13,32,ወሀለዋ፡ አንስት፡ ምስለ፡ እግዝእትነ፡ ማርያም። ወመጽአ፡ ከልብ፡ ጽሙዕ፡ ወሰደዳሁ፡ ውእቶን፡ አንስት። ወእግዝእትነስ፡ አስተዓፀበት፡ ወበከየት፡ ሶበ፡ ርእየት፡ ፅምዓ፡ ዚአሁ። ወይቤላሃ፡ አንስት፡ አንቲሂ፡ ትምህርዮ፡ እምኔነ። እኮኑ፡ ይብሉ፡ ይትወለድ፡ እምኔኪ፡ ክርስቶስ፡ ዘይብልዎ፡ መሲሕ። ,High,,,FALSE,,1,,,TRUE,,,FALSE,FALSE,0,1,PEM (PUL) 57 150r,FALSE,,258,r,,,,1600,1699,17,16,1,1
 BOr (BL) 635,629,,"Mary, Nativity of cycle: On the occasion of the marriage of Saints Joachim and Anne, prophecies are made concerning the birth of Saint Mary.",2r,,1,1,"2r, 1, 11",5r,,2,12,1,ወሀሎ፡ አሐዱ፡ ብእሲ፡ እምዘመደ፡ ይሁዳ፡ ዘስሙ፡ኢያቄም። ወአውሰበ፡ ብእሲተ፡ እምአዋልደ፡ ካህናት፡ ዘትሰመይ፡ ሐና፡ ወክልኤሆሙ፡ ኄራን። ወሥሙራን፡ ወየሐውሩ፡ በሕገ፡ እግዚአብሔር፡ ወብእሲቱሰ፡ መካን፡ ይአቲ።,,,,FALSE,,5,,before the main sequence of miracles,FALSE,,1,FALSE,FALSE,0,5,,FALSE,,2,r,,,,1650,1699,17,17,1,1
 BOr (BL) 635,315,,"Mary, Childhood of cycle: Saint Mary stays in the Temple. (315, 316-D, 447 similar)",8r,,1,1,"8r, 1, 10",10r,,1,5,2,ወነበረት፡ እግዝእትነ፡ ማርያም፡ ውስተ፡ መቅደስ፡ እንዘ፡ ትትለአከ፡ በኅድአት። ወበትሕትና። እንዘ፡ ኲሎሙ፡ ካህናት፡ ያስተበፅዕዋ፡ ወያከብርዋ።,,,,FALSE,,1,,before the main sequence of miracles,FALSE,,1,FALSE,FALSE,0,1,,FALSE,,8,r,,,,1650,1699,17,15,1,1
 BOr (BL) 635,13,,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,34r,,1,6,,37r,,2,5,1,,,,,FALSE,,3,,,FALSE,,2,FALSE,FALSE,0,3,,FALSE,,34,r,,,,1650,1699,17,14,0,1
