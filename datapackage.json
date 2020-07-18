@@ -546,6 +546,11 @@
                         "format": "default"
                     },
                     {
+                        "name": "Stanza",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
                         "name": "Story Incomplete",
                         "type": "boolean",
                         "format": "default"
