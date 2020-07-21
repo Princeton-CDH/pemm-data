@@ -9784,9 +9784,13 @@ EMML (HMML) 6196,236,,Saint Mary gives a thirsty dog water to drink from her sho
 EMML (HMML) 625,400,,The five sorrows of Saint Mary.,55r,,,,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,55,r,,,,1600,1799,17,16,0,1
 EMML (HMML) 6343,622,,"When Agabos from Dalga enters the church, the icon of Saint Mary weeps.",120v,,,,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,120,v,,,,1900,1999,20,20,0,1
 EMML (HMML) 642,479,,"Tekta, who is childless, has a dream about ten generations ending with the moon and the sun.",7r,17,,,,,,,,1,ወሀሎ፡ አሐዱ፡ ብእሲ፡ እምውሉደ፡ እስራኤል፡ ጻድቅ፡ ወፈራሄ፡ እግዚአብሔር፡ ውእቱ፡ በኵሉ። ወይቤላ፡ ለብእሲቱ፡ ቴክታ፡ ብነ፡ ወርቅ፡ ወብሩር፡ ወአልባስ፡ ቀጠንት፡ ዘአልቦ፡ ኍልቍ,High,,,,FALSE,,,,,FALSE,,,TRUE,FALSE,,,,FALSE,,7,r,,,,1700,1899,18,18,1,1
-EMML (HMML) 642,316-A,,"Mary, Conception of cycle: The conception and nativity of Saint Mary.",8r,,1,4,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,8,r,,,,1700,1899,18,15,0,1
-EMML (HMML) 642,315,,"Mary, Childhood of cycle: Saint Mary stays in the Temple. (315, 316-D, 447 similar)",10r,,,,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,10,r,,,,1700,1899,18,15,0,1
-EMML (HMML) 642,317,,"Mary, Engagement of cycle: Saint Mary is espoused to Saint Joseph.",11r,,,,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,11,r,,,,1700,1899,18,16,0,1
+EMML (HMML) 642,316-A,,"Mary, Conception of cycle: The conception and nativity of Saint Mary.",8r,19,1,4,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,8,r,,,,1700,1899,18,15,0,1
+EMML (HMML) 642,,,,9r,21,1,5,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,9,r,,,,1700,1899,18,,0,0
+EMML (HMML) 642,315,,"Mary, Childhood of cycle: Saint Mary stays in the Temple. (315, 316-D, 447 similar)",10r,23,1,,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,10,r,,,,1700,1899,18,15,0,1
+EMML (HMML) 642,,,,10v,24,1,6,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,10,v,,,,1700,1899,18,,0,0
+EMML (HMML) 642,,,,10v,24,3,19,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,10,v,,,,1700,1899,18,,0,0
+EMML (HMML) 642,317,,"Mary, Engagement of cycle: Saint Mary is espoused to Saint Joseph.",11r,25,2,32,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,11,r,,,,1700,1899,18,16,0,1
+EMML (HMML) 642,,,,12r,27,2,18,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,12,r,,,,1700,1899,18,,0,0
 EMML (HMML) 642,445,,"Christ, Nativity of cycle: How the Virgin Mary gave birth (see no. 299) (347, 445 similar)",12v,,,,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,12,v,,,,1700,1899,18,18,0,1
 EMML (HMML) 642,1-A,,Vision of Theophilus of Alexandria (opening),13v,,,,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,13,v,,,,1700,1899,18,16,0,1
 EMML (HMML) 642,324,,Holy Family journey cycle: The Holy Family visits the king of the Semites.,18r,,,,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,18,r,,,,1700,1899,18,16,0,1
