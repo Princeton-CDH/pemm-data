@@ -1,4 +1,274 @@
 Manuscript,Canonical Story ID,Recension ID,Canonical Story Title,Folio Start,Scan Start,Column Start,Line Start,Body of Story Start,Folio End,Scan End,Column End,Line End,Miracle Number,Incipit,Confidence Score,Incipit Full,Story Word Variation,Stanza,Story Incomplete,Blank TM folios,Number of Paintings,Painting Note,Notes,Exclude from ITool,Ethiopic Story Number,Miracles Sequence Number,Canonical Incipit,"Macomber Ms, non-Macomber Record",Paintings Folios,Story Paintings,Best Incipit Tool Match,Nonunique Incipit,New Ms,Folio Start Number,Folio Start Letter,"Temporary English Translation for TGS 1994, to be moved when ID'd",Princeton Catalog Folios,Princeton Catalog Titles,Manuscript Date Range Start        ,Manuscript Date Range End        ,Story Century,Story Earliest Century,Incipit Typed,ID Ready
+TGS (EOTC) 1971,,,,,,,,,,,,,1,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,2,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,3,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,4,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,5,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,6,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,7,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,8,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,9,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,10,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,11,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,12,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,13,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,14,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,15,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,16,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,17,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,18,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,19,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,20,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,21,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,22,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,23,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,24,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,25,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,26,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,27,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,28,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,29,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,30,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,31,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,32,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,33,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,34,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,35,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,36,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,37,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,38,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,39,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,40,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,41,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,42,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,43,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,44,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,45,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,46,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,47,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,48,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,49,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,50,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,51,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,52,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,53,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,54,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,55,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,56,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,57,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,58,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,59,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,60,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,61,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,62,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,63,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,64,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,65,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,66,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,67,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,68,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,69,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,70,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,71,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,72,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,73,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,74,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,75,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,76,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,77,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,78,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,79,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,80,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,81,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,82,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,83,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,84,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,85,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,86,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,87,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,88,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,89,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,90,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,91,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,92,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,93,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,94,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,95,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,96,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,97,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,98,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,99,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,100,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,101,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,102,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,103,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,104,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,105,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,106,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,107,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,108,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,109,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,110,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,111,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,112,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,113,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,114,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,115,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,116,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,117,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,118,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,119,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,120,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,121,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,122,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,123,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,124,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,125,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,126,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,127,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,128,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,129,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,130,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,131,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,132,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,133,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,134,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,135,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,136,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,137,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,138,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,139,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,140,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,141,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,142,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,143,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,144,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,145,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,146,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,147,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,148,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,149,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,150,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,151,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,152,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,153,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,154,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,155,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,156,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,157,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,158,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,159,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,160,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,161,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,162,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,163,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,164,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,165,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,166,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,167,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,168,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,169,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,170,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,171,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,172,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,173,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,174,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,175,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,176,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,177,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
+TGS (EOTC) 1971,,,,,,,,,,,,,178,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,179,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,180,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,181,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,182,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,183,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,184,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,185,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,186,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,187,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,188,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,189,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,190,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,191,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,192,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,193,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,194,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,195,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,196,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,197,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,198,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,199,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,200,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,201,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,202,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,203,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,204,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,205,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,206,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,207,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,208,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,209,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,210,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,211,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,212,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,213,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,214,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,215,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,216,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,217,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,218,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,219,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,220,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,221,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,222,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,223,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,224,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,225,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,226,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,227,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,228,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,229,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,230,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,231,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,232,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,233,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,234,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,235,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,236,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,237,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,238,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,239,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,240,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,241,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,242,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,243,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,244,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,245,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,246,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,247,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,248,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,249,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,250,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,251,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,252,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,253,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,254,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,255,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,256,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,257,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,258,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,259,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,260,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,261,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,262,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,263,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,264,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,265,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,266,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,267,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,1050,,The famine in Egypt caused by the shortage of water in the Nile during the reign of Patriarch Matthew I (1378-1408).,,,,,,,,,,268,ወበውእቱ፡ መዋዕል፡ በዝኁ፡ ተንባላት፡ ውስተ፡ ብሔረ፡ ግብዕ፡ ወጸንዓ፡ ሕማም፡ ላዕለ፡ ከርለቴያን፡ ወፌድፋደሰ፡ በኀበ፡ እለ፡ በቍለፕንፕንያ፡ ወበኢየሩሰሴም፡ ወእሰ፡ በሶርያ። ወሶበ፡ ርእዩ፡ ዘንተ፡ ግፍዓ፡ ለብአ፡ አፍርንጊ፡ ተጋቢአሙ፡ ደርገ፡ መከፋ፡ ወኀበፋ፡ ቃለ፡ ወጸሐፉ፡ ጦማረ፡ መልእክት፡ ወለአኩ፡ ኀበ፡ ኄር፡ ወጻድቅ፡ ዳዊት፡ ንጉሠ፡ ኢትዮጵያ።,High,,,,FALSE,,,,,FALSE,,,TRUE,FALSE,,,,FALSE,,,,,,,1971,1971,20,19,1,1
+TGS (EOTC) 1971,,,,,,,,,,,,,269,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
+TGS (EOTC) 1971,,,,,,,,,,,,,270,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,1971,1971,20,,,
 EMML (HMML) 6835,207,,The monk who saved the church of Saint Mary in Atrib by his prayers when its destruction had been ordered by the Caliph.,5r,,1,1,5ra l. 10,10v,,1,7,1,ንወጥን፡ በረድኤተ፡ እግዚአብሔር፡ ወበአኰቴተ፡ ስብሐቲሁ፨ ወንዜንወክሙ፡ ኦአኃውየ፡ ፍቁራን፡ ሕዝበ፡ ክርስቲያን፡ በእንተ፡  ዕበየ፡ ተአምሪሃ፡ ወመንክራቲሃ፡ ... ፨ ዘገበረት፡  በሀገረ፡ አትሪብ፡ ወሀሎ፡ ፩ንጉሥ፡ ወውእቱ፡ መዋዕል፡ ዘስሙ፡  ከሊፋ፡ ወዝ፡ ብሂል፡ ዘነግሠ፡ እምድኅረ፡ አቤሁ፡ ረስዲድ፡ ወትርጓሜሁ፡ …,High,(F. 5ra) ተአምሪሃ፡ ለእግዝእትነ፡ … (l. 10) ንወጥን፡ በረድኤተ፡ እግዚአብሔር፡ ወበአኰቴተ፡ ስብሐቲሁ፨ ወንዜንወክሙ፡ ኦአኃውየ፡ ፍቁራን፡ ሕዝበ፡ ክርስቲያን፡ በእንተ፡  ዕበየ፡ ተአምሪሃ፡ ወመንክራቲሃ፡ ለእግዝእነ፡ ቅድስት፡ ወድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፨ ዘገበረት፡  በሀገረ፡ አትሪብ፡ ወሀሎ፡ ፩ንጉሥ፡ ወውእቱ፡ መዋዕል፡ ዘስሙ፡  ከሊፋ፡ ወዝ፡ ብሂል፡ ዘነግሠ፡ እምድኅረ፡ አቤሁ፡ ረስዲድ፡ ወትርጓሜሁ፡ …,Place name: አትሪብ; Personal names: ከሊፋ፡ (king) and ረስዲድ፡ (his father).,No,FALSE,,0,,,FALSE,,,FALSE,FALSE,0,0,EMML (HMML) 3872 101r,FALSE,96,5,r,,,,1800,1899,19,15,1,1
 EMML (HMML) 6835,159,EMML (HMML) 7089,"A nun sacristan elopes with a priest, but afterwards they repent.",10v,,1,8,10va l. 16,11v,,1,17,2,ተብህለ፡ ከመ፡ ሀሎ፡ ፩ደብር፡ ዘደናግል፡ በውስተ፡ አሐቲ፡ ሀገር፨ ወሀለወት፡ ውስተ፡ ውእቱ፡ ደብር፡ ብእሲት፡ ሠናይት፡ መነኮሳይት፡ ፈራሂተ፡ እግዚአብሔር፡ ወትትለአክ፡ ውስተ፡ ቤተ፡ ክርስቲያና፡ ለእግዝእትነ፡ ... እመ፡ ኵሉ፡ ዓለም፡ እመ፡ ፍሥሐ፡  …,High,(F. 10va l. 8) ተአምሪሃ፡ ለእግዝእትነ፡ … (l. 16)  ተብህለ፡ ከመ፡ ሀሎ፡ ፩ደብር፡ ዘደናግል፡ በውስተ፡ አሐቲ፡ ሀገር፨ ወሀለወት፡ ውስተ፡ ውእቱ፡ ደብር፡ ብእሲት፡ ሠናይት፡ መነኮሳይት፡ ፈራሂተ፡ እግዚአብሔር፡ ወትትለአክ፡ ውስተ፡ ቤተ፡ ክርስቲያና፡ ለእግዝእትነ፡ ቅድስት፡ ወድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ ፡ እመ፡ ኵሉ፡ ዓለም፡ እመ፡ ፍሥሐ፡  …,,No,FALSE,,0,,,FALSE,,,FALSE,FALSE,0,0,EMML (HMML) 7089 32r,FALSE,96,10,v,,,,1800,1899,19,14,1,1
 EMML (HMML) 6835,160,EMML (HMML) 7089,The bee keeper who consulted a sorceress to have more honey.,11v,,1,18,11va l. 26,12r,,2,3,3,ተብህለ፡ ከመ፡ ሀሎ፡ ፩ብእሲ፡ በሀገረ፡ እልፍንድር፡ ወኮነ፡ ይፈቅድ፡ ከመ፡ ይኩን፡ ብዙኃ፡ መዐረ፡ ወብዙኃ፡ ሰምዐ፡ ፈድፋደ፡ እምኵሎሙ፡ አግዋሪሁ፨ ወሖረ፡ ኀበ፡ አሐቲ፡ መሰሪት፡ ብእሲት፡ ወይቤላ፡ እስእለኪ፡ ከመ፡ ትምክርኒ፡ ምንተ፡ እግበር፡ ከመ፡ ይኵን፡ ብዙኃ፡ መዓረ፡ ወብዙኃ፡ ሰምዓ፡ ፈድፋደ፡ እምኵሉ፡ አግዋርየ፨ ወትቤሎ፡ ይእቲ፡ ብእሲት፡ መሰሪት፡ አንሰ፡ …,High,(F. 11va l. 18) ተአምሪሃ፡ ለእግዝእትነ፡ … (l.  26)  ተብህለ፡ ከመ፡ ሀሎ፡ ፩ብእሲ፡ በሀገረ፡ እልፍንድር፡ ወኮነ፡ ይፈቅድ፡ ከመ፡ ይኩን፡ ብዙኃ፡ መዐረ፡ ወብዙኃ፡ ሰምዐ፡ ፈድፋደ፡ እምኵሎሙ፡ አግዋሪሁ፨ ወሖረ፡ ኀበ፡ አሐቲ፡ መሰሪት፡ ብእሲት፡ ወይቤ(f. 11vb)ላ፡ እስእለኪ፡ ከመ፡ ትምክርኒ፡ ምንተ፡ እግበር፡ ከመ፡ ይኵን፡ ብዙኃ፡ መዓረ፡ ወብዙኃ፡ሰምዓ፡ ፈድፋደ፡ እምኵሉ፡ አግዋርየ፨ ወትቤሎ፡ ይእቲ፡ ብእሲት፡ መሰሪት፡ አንሰ፡ …,Place name: እልፍንድር፡. ,No,FALSE,,0,,,FALSE,,,FALSE,FALSE,0,0,EMML (HMML) 7089 32r,FALSE,96,11,v,,,,1800,1899,19,14,1,1
@@ -9129,14 +9399,14 @@ EMML (HMML) 392,179,EMML (HMML) 1573,The monk who has carried by the bretheren t
 EMML (HMML) 392,178,EMML (HMML) 1573,The shepherd near the church of Saint Paul in Rome who was possessed by a demon.,42r,,2,5,"42r, 2, 7",44r,,1,17,26,ተብህለ፡ በእንተ፡ አኃው፡ ክርስቲያን፡ እንዘ፡ ሀለዉ፡ የሐውሩ፡ ኀበ፡ ሀገረ፡ ሮሜ። ። ወረከቡ፡ በህየ፡ ቤተ፡ ክርስቲያነ፡ በስሙ፡ ለቅዱስ፡ ሐዋርያ፡ ጳውሎስ፡ ዘተኀነጸት፡ በስመ፡ ዚአሁ። ።,High,ተብህለ፡ በእንተ፡ አኃው፡ ክርስቲያን፡ እንዘ፡ ሀለዉ፡ የሐውሩ፡ ኀበ፡ ሀገረ፡ ሮሜ። ። ወረከቡ፡ በህየ፡ ቤተ፡ ክርስቲ[ያ]ነ፡ በስሙ፡ ለቅዱስ፡ ሐዋርያ፡ ጳውሎስ፡ ዘተኀነጸት፡ በስመ፡ ዚአሁ። ።,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,42,r,,,,1400,1599,15,14,1,1
 EMML (HMML) 392,180,EMML (HMML) 1573,The rich knight who was advised by an abbot to pray to Saint Mary to win the heart of the woman with whom he was in love.,44r,,1,18,"44r, 2, 2",47r,,2,11,27,ተብህለ፡ ከመ፡ ሀሎ፡ ፩፡ ብእሲ፡ እምሰብአ፡ አፍራስ። እስመ፡ ውእቱ፡ ኮነ፡ ፈረሳዊ፡ ጽኑዕ፡ በውርዙቱ። ወይዜሀር፡ በብዝኀ፡ ጥሪቱ። ወኮነ፡ ያፈቅራ፡ ለአሐቲ፡ ብእሲት፡ ላሕይት፡ ዘትነብር፡ ውስተ፡ ይእቲ፡ ሀገር። ወወሀባ፡ ንዋየ፡ ብዙኀ። ወኢተክህሎ፡ ከመ፡ ይትራከብ፡ ምስሌሃ። ።,High,ተብህለ፡ ከመ፡ ሀሎ፡ ፩፡ ብእሲ፡ እምሰብአ፡ አፍራስ። እስመ፡ ውእቱ፡ ኮነ፡ ፈረሳዊ፡ ጽኑዕ፡ በውርዙቱ። ወይዜሀር፡ በብዝኀ፡ ጥሪቱ። ወኮነ፡ ያፈቅራ፡ ለአሐቲ፡ ብእሲት፡ ላሕይት፡ ዘትነብር፡ ውስተ፡ ይእቲ፡ ሀገር። ወወሀባ፡ ንዋየ፡ ብዙኀ። ወኢተክህሎ፡ ከመ፡ ይትራከብ፡ ምስሌሃ። ።,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,44,r,,,,1400,1599,15,14,1,1
 EMML (HMML) 392,181,,The monk custodian of the church who prayed to see Saint Mary.,47r,,2,12,"47r, 2, 19",50v,,1,7,28,ወነበረ፡ ፩፡ ደብር፡ ዘመነኮሳት። ወውስቴቱ፡ ፩፡ ቀሲስ፡ መጋቤተ፡ ክርስቲያን። ወይጠቅዕ፡ መጥቅዐ፡ ለለ፡ ኵሉ፡ ሰዓት፡ ወጸሎት። ።,High,ወነበረ፡ ፩፡ ደብር፡ ዘመነኮሳት። ወውስቴቱ፡ ፩፡ ቀሲስ፡ መጋቤተ፡ ክርስቲያን። ወይጠቅዕ፡ መጥቅዐ፡ ለለ፡ ኵሉ፡ ሰዓት፡ ወጸሎት። ።,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,47,r,,,,1400,1599,15,14,1,1
-EMML (HMML) 392,,,,50v,,1,8,"50v, 1, 12",,,,,29,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,50,v,,,,1400,1599,15,,0,0
-EMML (HMML) 392,,,,,,,,,,,,,30,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1400,1599,15,,0,0
-EMML (HMML) 392,,,,,,,,,,,,,31,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1400,1599,15,,0,0
-EMML (HMML) 392,,,,,,,,,,,,,32,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1400,1599,15,,0,0
-EMML (HMML) 392,,,,,,,,,,,,,33,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1400,1599,15,,0,0
-EMML (HMML) 392,,,,,,,,,,,,,34,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1400,1599,15,,0,0
-EMML (HMML) 392,,,,,,,,,,,,,35,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1400,1599,15,,0,0
-EMML (HMML) 392,,,,,,,,,,,,,36,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1400,1599,15,,0,0
+EMML (HMML) 392,187,,The peasant who complained to Saint Mary because she did not reply to his Hail Mary.,50v,,1,8,"50v, 1, 12",51v,,1,12,29,ተብህለ፡ ከመ፡ ሀሎ፡ ፩፡ ብእሲ፡ ገባራዊ፡ ዘያፈቅራ፡ ለእግዝእትነ፡... ወያከብራ፡ በኵሉ፡ ሰላም። ወኮነ፡ ኵሎ፡ አሚረ፡ ይኤምኃ፡ በኵሉል፡ ሰላም፡ ለእግዝእትነ፡... በኵሉ፡ ጊዜ፡ ጽባሐ፡ ወምሴተ። ።,High,ተብህለ፡ ከመ፡ ሀሎ፡ ፩፡ ብእሲ፡ ገባራዊ፡ ዘያፈቅራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በክልኤ፡ ማርያም፡ ማሪያም፡ ወላዲተ፡ እግዚእነ፡ ወአምላክነ፡ ወመድኀኒነ፡ ኢየሱስ፡ ክርስቶስ፡ ወያከብራ፡ በኵሉ፡ ሰላም። ወኮነ፡ ኵሎ፡ አሚረ፡ ይኤምኃ፡ በኵሉል፡ ሰላም፡ ለእግዝእትነ፡ ቅድስት፡ ወንጽሕት፡ ወላዲተ፡ እግዚእነ ወአምላክነ፡ ወመድኀኒነ፡ ኢየሱስ፡ ክርስቶስ፡ በኵሉ፡ ጊዜ፡ ጽባሐ፡ ወምሴተ። ።,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,50,v,,,,1400,1599,15,14,1,1
+EMML (HMML) 392,190,,The Muslim who found an icon of Saint Mary in his house.,51v,,1,13,"51v, 1, 22",53r,,2,15,30,ተብህለ፡ በእንተ፡ ፩፡ ተንበለታዊ፡ ከመ፡ ውእቱ፡ ረከበ፡ በውስተ፡ ቤቱ፡ ሥዕለ፡ እግዝእትነ፡... ወኢያእመረ፡ እምኀበ፡ ዘመጽአት፡ እምአይቴ፡ ይእቲ፡ ዘበጽሐት፡ ኀቤሁ።,High,ተብህለ፡ በእንተ፡ ፩፡ ተንበለታዊ፡ ከመ፡ ውእቱ፡ ረከበ፡ በውስተ፡ ቤቱ፡ ሥዕለ፡ እግዝእትነ፡ ቅድስት፡ ድንግል፡ ማርያም፡ ማሪሃ[ም]፡ ወኢያእመረ፡ እምኀበ፡ ዘመጽአት፡ እምአይቴ፡ ይእቲ፡ ዘበጽሐት፡ ኀቤሁ።,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,51,v,,,,1400,1599,15,14,1,1
+EMML (HMML) 392,182,,The bankrupt merchant to whom Satan offered two pearls if he would deny Christ and Saint Mary.,53r,,2,16,"53v, 1, 1",55v,,2,23,31,ተብህለ፡ በእንተ፡ ፩፡ ነጋዲ። እስመ፡ ኮነ፡ ሎቱ፡ ብዙኀ፡ ነዋየ። ወጸጋ፡ ስፉሐ፡ ፈድፋደ። ወቦቱ፡ ነጋድያነ፡ ብዙኃነ፡ ወይነግዱ፡ ሎቱ፡ በንዋዩ፡ በባሕር፡ ወበየብስ።,High,ተብህለ፡ በእንተ፡ ፩፡ ነጋዲ። እስመ፡ ኮነ፡ ሎቱ፡ ብዙኀ፡ ነዋየ። ወጸጋ፡ ስፉሐ፡ ፈድፋደ። ወቦቱ፡ ነጋድያነ፡ ብዙኃነ፡ ወይነግዱ፡ ሎቱ፡ በንዋዩ፡ በባሕር፡ ወበየብስ።,Omits proper name and place name,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,53,r,,,,1400,1599,15,14,1,1
+EMML (HMML) 392,186,,The robber whom a bishop was commanded to bury after he was executed.,56r,,1,1,"56r, 1, 7",58v,,2,19,32,ተብህለ፡ ከመ፡ ሀሎ፡ ፩፡ ፈያታዊ። ወኢየሐዩ፡ ዘእንበለ፡ በሰሪቅ፡ ወበነሢእ፡ ነዋየ፡ ሰብእ። ወባሕቱ፡ ኮነ፡ ኵሎ፡ አሚረ፡ ይኤምኃ፡ ለእግዝእትነ፡... ።,High,ተብህለ፡ ከመ፡ ሀሎ፡ ፩፡ ፈያታዊ። ወኢየሐዩ፡ ዘእንበለ፡ በሰሪቅ፡ ወበነሢእ፡ ነዋየ፡ ሰብእ። ወባሕቱ፡ ኮነ፡ ኵሎ፡ አሚረ፡ ይኤምኃ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በክልኤ፡ ማርያም፡ ማሪሃም፡ ወላዲተ፡ አምላክ።,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,56,r,,,,1400,1599,15,14,1,1
+EMML (HMML) 392,149,EMML (HMML) 2275,A man who drowned when a pilgrim ship sank is resuscitated.,58v,,2,20,"59r, 1, 2",61v,,2,9,33,ተብህለ፡ በእንተ፡ አሐቲ፡ ሐመር፡ ዐባይ፡ እንተ፡ ምልእት፡ ውስቴታ፡ ኵሎ፡ ንዋያተ፡ ወብዙኃን፡ ሰብእ፡ ይነብሩ፡ ውስቴታ፡ ነጋድያን፡ ወልሂቃን፡ ወዐቢያን፡ ወክቡራን። ወሀሎ፡ በውስቴቶሙ፡ አሐዱ፡ ኤጲስ፡ ቆጶስ፡ ኄር፡ ዘይፈርሆ፡ ለእግዚአብሔር፡ ልዑል፡ ወስቡሕ። ።,High,ተብህለ፡ በእንተ፡ አሐቲ፡ ሐመር፡ ዐባይ፡ እንተ፡ ምልእት፡ ውስቴታ፡ ኵሎ፡ ንዋያተ፡ ወብዙኃን፡ ሰብእ፡ ይነብሩ፡ ውስቴታ፡ ነጋድያን፡ ወልሂቃን፡ ወዐቢያን፡ ወክቡራን። ወሀሎ፡ በውስቴቶሙ፡ አሐዱ፡ ኤጲስ፡ ቆጶስ፡ ኄር፡ ዘይፈርሆ፡ ለእግዚአብሔር፡ ልዑል፡ ወስቡሕ። ።,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,58,v,,,,1400,1599,15,14,1,1
+EMML (HMML) 392,106,,The rich man who threw dry bread to a beggar in the name of Saint Mary.,61v,,2,10,"61v, 2, 15",62r,,2,9,34,ወሀሎ፡ ፩፡ ብእሲ፡ በአሐቲ፡ ሀገር፡ ባዕል፡ ጥቀ። ወይገብር፡ ተዝካራ፡ ለእግዝእትነ፡... ወይቄርብ፡ ቍርባና፡ በበ፡ በዓለ፡ ማርያም፡ ወአልቦ፡ ሎቱ፡ ካልአ፡ ምግባሪ፡ ሠናይ፡ ወኢምንትኒ። ኢበውሂበ፡ ምጽዋት፡ ወኢበኂሩት። ወመዐትም፡ ውእቱ፡ ብእሲ። ።,High,ወሀሎ፡ ፩፡ ብእሲ፡ በአሐቲ፡ ሀገር፡ ባዕል፡ ጥቀ። ወይገብር፡ ተዝካራ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ ማርያም፡ ማሪሃም፡ ወይቄርብ፡ ቍርባና፡ በበ፡ በዓለ፡ ማርያም፡ ወአልቦ፡ ሎቱ፡ ካልአ፡ ምግባሪ፡ ሠናይ፡ ወኢምንትኒ። ኢበውሂበ፡ ምጽዋት፡ ወኢበኂሩት። ወመዐትም፡ ውእቱ፡ ብእሲ። ።,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,61,v,,,,1400,1599,15,14,1,1
+EMML (HMML) 392,125,,The story of the cannibal from Qemer.,62r,,2,10,"62r, 2, 17",65r,,2,2,35,ወሀሎ፡ ፩፡ ብእሲ፡ በሀገረ፡ ቅምር፡ ክቡረ፡ ዘመድ። ወበስምሰ፡ ክርስቲያናዊ፡ ውእቱ። ወኀጢአቱሰ፡ ዐቢይ፡ ውእቱ፡ ወፍዱል፡ ወብዙኅ፡ ወዕፁብ፡ እምኀጢአተ፡ ኵሉ፡ ሰብእ፡ ወባዕል፡ ፈድፋደ።,High,ወሀሎ፡ ፩፡ ብእሲ፡ በሀገረ፡ ቅምር፡ ክቡረ፡ ዘመድ። ወበስምሰ፡ ክርስቲያናዊ፡ ውእቱ። ወኀጢአቱሰ፡ ዐቢይ፡ ውእቱ፡ ወፍዱል፡ ወብዙኅ፡ ወዕፁብ፡ እምኀጢአተ፡ ኵሉ፡ ሰብእ፡ ወባዕል፡ ፈድፋደ።,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,62,r,,,,1400,1599,15,14,1,1
+EMML (HMML) 392,,,,65r,,2,3,"65r, 2, 7",,,,,36,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,65,r,,,,1400,1599,15,,0,0
 EMML (HMML) 3923,2,,Vision of Theophilus of Alexandria (continued): Satan urges Herod to pursue the Holy Family.,12r,,,,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,12,r,,,,1500,1699,16,16,0,1
 EMML (HMML) 3923,42,,The church built on the tomb of Saint Mary that will turn into a ship.,16v,,,,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,16,v,,,,1500,1699,16,15,0,1
 EMML (HMML) 3923,55,,Scete miracles: Some of the deceased great Fathers of the Desert appear to the monks of Scete.,17v,,,,,,,,,,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,17,v,,,,1500,1699,16,15,0,1
@@ -9764,9 +10034,9 @@ EMML (HMML) 642,479,,"Tekta, who is childless, has a dream about ten generations
 EMML (HMML) 642,294,,"Mary, Conception of cycle: The descent of the holy seed from Adam to Saint Mary.",8r,19,1,4,8r Col.1 line 10,8r,19,2,15,2,ወእንዘ፡ ትትፋለስ፡ እምአዳም፡ ውስተ፡ ክርሡ፡ ለሴት፡ ወደኖስ፡ ወቃይናን፡ ወያሬድ፡ ወመላልኤል፡ ወደኖስ፡ ወኖኅ፨ ወትትፋለስ፡ እምከርሠ፡ ፩ውስተ፡ ፩ወእምዝኃደረት፡ ውስተ፡ አብርሃም፡ ይስሐቅ፡ ወያዕቆብ፡ ፅዕዱት፡ ርግብ፨,High,,,,FALSE,,,,stanza of hymn at the end of the miracle.,TRUE,,,FALSE,TRUE,,,,FALSE,,8,r,,,,1700,1899,18,16,1,1
 EMML (HMML) 642,316-A,,"Mary, Conception of cycle: The conception and nativity of Saint Mary.",8r,19,2,24,8r Col.1 line 29,,20,3,29,,ወሀሎ፡ ፩ብእሲ፡ እምዘመደ፡ ይሁዳ፡ ዘስሙ፡ ኢያቄም፡ ወአውሰበ፡ ብእሲተ፡ እምአዋልደ፡ ካህናት፡ ዘትሰመይ፡ ሐና፡ ወክልኤሆሙ፡ ያፈቅርዎ፡ ኀበ፡ እግዚአብሔር,High,,,,FALSE,,,,,TRUE,,,FALSE,FALSE,,,,FALSE,,8,r,,,,1700,1899,18,15,1,1
 EMML (HMML) 642,,,,,,,,,,,,,,,,,,,FALSE,,,,,TRUE,,,FALSE,TRUE,,,,FALSE,,,,,,,1700,1899,18,,0,0
-EMML (HMML) 642,13,,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,9r,21,1,5,9r Col.1 line 9,,22,3,27,,ወሀሎ፡ ፩ብእሲ፡ ኤጲስ፡ ቆጶስ፡ ውስተ፡ አሐቲ፡ ቤተ፡ ክርስቲያን፡ በሀገረ፡ ጥልጥልያ፡ ዘስሙ፡ ደቅስዮስ፡ ወኮነ፡ ውእቱ፡ ብእሲ፡ ኄረ፡ ወቡረከ፡ ወፈራኂ፡ እግዚአብሔር፡ ውእቱ፨,High,,,,FALSE,,,,,TRUE,,,FALSE,TRUE,,,,FALSE,,9,r,,,,1700,1899,18,14,1,1
-EMML (HMML) 642,315,,"Mary, Childhood of cycle: Saint Mary stays in the Temple. (315, 316-D, 447 similar)",10r,23,1,7,10r Col.1 line 11,,,,,,ወነበረት፡ እግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ጥዕምተ፡ ስም፡ ንግሥተ፡ አርያም፡ መድኃኒተ፡ ኵሉ፡ ዓለም። ውስተ፡ ቤተ፡ መቅደስ፡ እንዘ፡ ትትለአክ፡ ,,,,,FALSE,,,,,TRUE,,,FALSE,FALSE,,,,FALSE,,10,r,,,,1700,1899,18,15,1,1
-EMML (HMML) 642,,,,10v,24,1,6,,,,,,,,,,,,FALSE,,,,,TRUE,,,FALSE,TRUE,,,,FALSE,,10,v,,,,1700,1899,18,,0,0
+EMML (HMML) 642,13,,The composition of the Miracles of Mary by Bishop Hildephonsus of Toledo.,9r,21,1,5,Scan 21 Col.1 line 9,,22,3,27,,ወሀሎ፡ ፩ብእሲ፡ ኤጲስ፡ ቆጶስ፡ ውስተ፡ አሐቲ፡ ቤተ፡ ክርስቲያን፡ በሀገረ፡ ጥልጥልያ፡ ዘስሙ፡ ደቅስዮስ፡ ወኮነ፡ ውእቱ፡ ብእሲ፡ ኄረ፡ ወቡረከ፡ ወፈራኂ፡ እግዚአብሔር፡ ውእቱ፨,High,,,,FALSE,,,,,TRUE,,,FALSE,TRUE,,,,FALSE,,9,r,,,,1700,1899,18,14,1,1
+EMML (HMML) 642,315,,"Mary, Childhood of cycle: Saint Mary stays in the Temple. (315, 316-D, 447 similar)",10r,23,1,7,Scan 23 Col.1 line 11,,23,3,30,,ወነበረት፡ እግዝእትነ...፡ ጥዕምተ፡ ስም፡ ንግሥተ፡ አርያም፡ መድኃኒተ፡ ኵሉ፡ ዓለም። ውስተ፡ ቤተ፡ መቅደስ፡ እንዘ፡ ትትለአክ፡ በኅድዓት፡ ወበትሕትና፡ ኵሎሙ፡ ካህናት፡ እንዘ ያስተበጽእዋ,High,ወነበረት፡ እግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ጥዕምተ፡ ስም፡ ንግሥተ፡ አርያም፡ መድኃኒተ፡ ኵሉ፡ ዓለም። ውስተ፡ ቤተ፡ መቅደስ፡ እንዘ፡ ትትለአክ፡ በኅድዓት፡ ወበትሕትና፡ ኵሎሙ፡ ካህናት፡ እንዘ ያስተበጽእዋ,,,FALSE,,,,,TRUE,,,FALSE,FALSE,,,,FALSE,,10,r,,,,1700,1899,18,15,1,1
+EMML (HMML) 642,296,,"Mary, Nativity of cycle: The Jews plot to kill Saint Mary because of the miracles she was working while still in the womb of Saint Anne.",10v,24,1,6,Scan 24 Col.1 line 10,,,,,,ስምዑኒ፡ ኦፍቁራንየ፡ ወለብው፡ ከመ፡ ታእምሩ፡ ልደታ፡ ወበዓታ፡ ለእግዝእትነ...፡ ወጥቀ፡ ትከብር፡ እምአዝማዲሃ፡ ወእምነ፡ ኵሉ፡ ዓለም፡ ወለሕዝበ፡ እስራኤልሰ፡ ቦአ፡ ሰይጣን፡ ውስተ፡ አልባቢሆሙ,High,ስምዑኒ፡ ኦፍቁራንየ፡ ወለብው፡ ከመ፡ ታእምሩ፡ ልደታ፡ ወበዓታ፡ ለእግዝእትነ፡ ቅድስት፡ ድንግል፡ በ፪ማርያም፡ ወላዲተ፡ አምላክ፡ ወጥቀ፡ ትከብር፡ እምአዝማዲሃ፡ ወእምነ፡ ኵሉ፡ ዓለም፡ ወለሕዝበ፡ እስራኤልሰ፡ ቦአ፡ ሰይጣን፡ ውስተ፡ አልባቢሆሙ,,,FALSE,,,,,TRUE,,,FALSE,TRUE,,,,FALSE,,10,v,,,,1700,1899,18,17,1,1
 EMML (HMML) 642,,,,10v,24,3,19,,,,,,,,,,,,FALSE,,,,,TRUE,,,FALSE,TRUE,,,,FALSE,,10,v,,,,1700,1899,18,,0,0
 EMML (HMML) 642,317,,"Mary, Engagement of cycle: Saint Mary is espoused to Saint Joseph.",11r,25,2,32,,,,,,,,,,,,FALSE,,,,,TRUE,,,FALSE,FALSE,,,,FALSE,,11,r,,,,1700,1899,18,16,0,1
 EMML (HMML) 642,,,,12r,27,2,18,,,,,,,,,,,,FALSE,,,,,TRUE,,,FALSE,TRUE,,,,FALSE,,12,r,,,,1700,1899,18,,0,0
@@ -14849,273 +15119,3 @@ Ethio-SPaRe (UH) BHM-002,125,,The story of the cannibal from Qemer.,73r,,,,,,,,,
 Ethio-SPaRe (UH) BHM-002,152,,The widow who prayed to Saint Mary and saved her only son from death by hanging.,77v,,,,,,,,,31,,,,,,FALSE,,0,,,FALSE,,,FALSE,FALSE,0,0,,FALSE,,77,v,,,,1700,1800,18,14,0,1
 Ethio-SPaRe (UH) BHM-002,148,,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),80r,,,,,,,,,32,,,,,,FALSE,,0,,,FALSE,,,FALSE,FALSE,0,0,,FALSE,,80,r,,,,1700,1800,18,14,0,1
 Ethio-SPaRe (UH) BHM-002,236,,Saint Mary gives a thirsty dog water to drink from her shoe.,83r,,,,,,,,,33,,,,,,FALSE,,0,,,FALSE,,,FALSE,FALSE,0,0,,FALSE,,83,r,,,,1700,1800,18,16,0,1
-TGS (EOTC) 1971,,,,,,,,,,,,,1,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,1971,1971,20,,0,0
-,,,,,,,,,,,,,2,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,3,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,4,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,5,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,6,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,7,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,8,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,9,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,10,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,11,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,12,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,13,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,14,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,15,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,16,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,17,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,18,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,19,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,20,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,21,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,22,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,23,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,24,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,25,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,26,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,27,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,28,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,29,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,30,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,31,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,32,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,33,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,34,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,35,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,36,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,37,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,38,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,39,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,40,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,41,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,42,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,43,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,44,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,45,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,46,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,47,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,48,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,49,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,50,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,51,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,52,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,53,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,54,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,55,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,56,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,57,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,58,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,59,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,60,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,61,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,62,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,63,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,64,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,65,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,66,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,67,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,68,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,69,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,70,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,71,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,72,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,73,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,74,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,75,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,76,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,77,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,78,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,79,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,80,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,81,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,82,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,83,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,84,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,85,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,86,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,87,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,88,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,89,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,90,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,91,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,92,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,93,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,94,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,95,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,96,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,97,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,98,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,99,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,100,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,101,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,102,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,103,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,104,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,105,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,106,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,107,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,108,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,109,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,110,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,111,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,112,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,113,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,114,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,115,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,116,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,117,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,118,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,119,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,120,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,121,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,122,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,123,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,124,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,125,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,126,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,127,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,128,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,129,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,130,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,131,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,132,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,133,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,134,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,135,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,136,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,137,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,138,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,139,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,140,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,141,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,142,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,143,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,144,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,145,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,146,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,147,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,148,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,149,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,150,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,151,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,152,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,153,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,154,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,155,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,156,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,157,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,158,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,159,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,160,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,161,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,162,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,163,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,164,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,165,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,166,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,167,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,168,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,169,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,170,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,171,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,172,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,173,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,174,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,175,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,176,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,177,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,,,,,,,,,,,
-,,,,,,,,,,,,,178,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,179,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,180,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,181,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,182,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,183,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,184,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,185,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,186,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,187,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,188,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,189,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,190,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,191,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,192,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,193,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,194,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,195,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,196,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,197,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,198,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,199,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,200,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,201,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,202,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,203,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,204,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,205,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,206,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,207,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,208,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,209,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,210,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,211,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,212,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,213,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,214,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,215,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,216,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,217,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,218,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,219,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,220,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,221,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,222,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,223,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,224,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,225,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,226,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,227,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,228,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,229,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,230,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,231,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,232,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,233,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,234,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,235,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,236,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,237,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,238,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,239,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,240,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,241,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,242,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,243,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,244,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,245,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,246,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,247,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,248,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,249,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,250,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,251,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,252,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,253,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,254,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,255,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,256,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,257,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,258,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,259,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,260,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,261,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,262,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,263,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,264,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,265,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,266,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,267,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-TGS (EOTC) 1971,1050,,The famine in Egypt caused by the shortage of water in the Nile during the reign of Patriarch Matthew I (1378-1408).,,,,,,,,,,268,ወበውእቱ፡ መዋዕል፡ በዝኁ፡ ተንባላት፡ ውስተ፡ ብሔረ፡ ግብዕ፡ ወጸንዓ፡ ሕማም፡ ላዕለ፡ ከርለቴያን፡ ወፌድፋደሰ፡ በኀበ፡ እለ፡ በቍለፕንፕንያ፡ ወበኢየሩሰሴም፡ ወእሰ፡ በሶርያ። ወሶበ፡ ርእዩ፡ ዘንተ፡ ግፍዓ፡ ለብአ፡ አፍርንጊ፡ ተጋቢአሙ፡ ደርገ፡ መከፋ፡ ወኀበፋ፡ ቃለ፡ ወጸሐፉ፡ ጦማረ፡ መልእክት፡ ወለአኩ፡ ኀበ፡ ኄር፡ ወጻድቅ፡ ዳዊት፡ ንጉሠ፡ ኢትዮጵያ።,High,,,,FALSE,,,,,FALSE,,,TRUE,FALSE,,,,FALSE,,,,,,,1971,1971,20,19,1,1
-,,,,,,,,,,,,,269,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,270,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,
