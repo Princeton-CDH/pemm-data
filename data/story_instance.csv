@@ -7707,33 +7707,33 @@ EMML (HMML) 213,,,,83r,101,1,,,,,,,141,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALS
 EMML (HMML) 213,,,,83r,101,3,,,,,,,142,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,83,r,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,83v,102,1,,,,,,,143,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,83,v,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,84r,102,2,,,,,,,144,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,84,r,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,84v,,3,,,,,,,145,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,84,v,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,146,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,147,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,148,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,149,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,150,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,87r,,,,,,,,,151,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,87,r,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,152,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,153,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,154,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,155,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,156,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,157,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,158,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,159,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,160,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,90v,,,,,,,,,161,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,90,v,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,162,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,163,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,164,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,165,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,166,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,167,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,168,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,169,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,170,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,93v,,,,,,,,,171,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,93,v,,,,1965,1966,20,,0,0
+EMML (HMML) 213,606,,Saint Mary visits Calvary.,84v,103,3,,,,,,,145,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,84,v,,,,1965,1966,20,20,0,1
+EMML (HMML) 213,,,,85r,103,2,,,,,,,146,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,85,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,85r,103,3,,,,,,,147,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,85,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,607,,Homily on the greatness of Saint Mary.,85v,104,2,,,,,,,148,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,85,v,,,,1965,1966,20,20,0,1
+EMML (HMML) 213,,,,86r,104,2,,,,,,,149,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,86,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,87r,105,1,,,,,,,150,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,87,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,87r,105,2,,,,,,,151,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,87,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,87v,106,3,,,,,,,152,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,87,v,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,88r,106,2,,,,,,,153,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,88,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,88v,107,1,,,,,,,154,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,88,v,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,88v,107,2,,,,,,,155,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,88,v,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,89r,107,1,,,,,,,156,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,89,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,89r,107,3,,,,,,,157,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,89,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,89v,108,2,,,,,,,158,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,89,v,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,90r,109,1,,,,,,,159,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,90,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,90r,109,2,,,,,,,160,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,90,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,90v,110,2,,,,,,,161,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,90,v,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,90v,110,3,,,,,,,162,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,90,v,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,91r,110,2,,,,,,,163,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,91,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,91v,111,1,,,,,,,164,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,91,v,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,91v,111,3,,,,,,,165,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,91,v,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,92r,111,2,,,,,,,166,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,92,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,92v,112,2,,,,,,,167,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,92,v,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,93r,112,1,,,,,,,168,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,93,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,93r,112,3,,,,,,,169,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,93,r,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,93v,113,1,,,,,,,170,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,93,v,,,,1965,1966,20,,0,0
+EMML (HMML) 213,,,,93v,113,3,,,,,,,171,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,93,v,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,172,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,173,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,174,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
@@ -7767,8 +7767,8 @@ EMML (HMML) 213,,,,101v,,,,,,,,,201,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,
 EMML (HMML) 213,,,,,,,,,,,,,202,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,203,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,204,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,205,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,206,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
+EMML (HMML) 213,588,,A Christian retainer escapes unharmed when his king is defeated by the Muslims.,103r,,,,,,,,,205,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,103,r,,,,1965,1966,20,20,0,1
+EMML (HMML) 213,589,,The woman who was crossing a river on a raft [mezlal].,103v,,,,,,,,,206,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,103,v,,,,1965,1966,20,20,0,1
 EMML (HMML) 213,,,,,,,,,,,,,207,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,208,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,209,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
@@ -7800,7 +7800,7 @@ EMML (HMML) 213,,,,,,,,,,,,,234,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,
 EMML (HMML) 213,,,,,,,,,,,,,235,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,236,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,237,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,238,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
+EMML (HMML) 213,348,,The milk of Saint Mary that was poured on the ground in Egypt.,114v,,,,,,,,,238,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,114,v,,,,1965,1966,20,16,0,1
 EMML (HMML) 213,,,,,,,,,,,,,239,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,240,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,115v,,,,,,,,,241,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,115,v,,,,1965,1966,20,,0,0
@@ -7832,22 +7832,22 @@ EMML (HMML) 213,,,,,,,,,,,,,266,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,
 EMML (HMML) 213,,,,,,,,,,,,,267,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,268,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,269,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,270,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
+EMML (HMML) 213,319,,King Dawit (1382-1413) miracles: Saint Mary makes a covenant with King Dawit of Ethiopia.,125v,,,,,,,,,270,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,125,v,,,,1965,1966,20,16,0,1
 EMML (HMML) 213,,,,126v,,,,,,,,,271,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,126,v,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,272,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
+EMML (HMML) 213,320,,King Dawit  (1382-1413) miracles: The general of King (Dawit) of Ethiopia who defected to the enemy.,127r,,,,,,,,,272,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,127,r,,,,1965,1966,20,16,0,1
 EMML (HMML) 213,,,,,,,,,,,,,273,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,274,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,275,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,276,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,277,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,278,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,279,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,280,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
+EMML (HMML) 213,353,,The man who lost a slave that he was about to sell in Barara.,129r,,,,,,,,,278,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,129,r,,,,1965,1966,20,16,0,1
+EMML (HMML) 213,355,,The carpenter who asked for a copy of the Gadla samaˁtat as a reward for his services in building a church.,129v,,,,,,,,,279,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,129,v,,,,1965,1966,20,16,0,1
+EMML (HMML) 213,358,,The icon of Saint Mary in a church of Alexandria that some Europeans tried to steal.,130r,,,,,,,,,280,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,130,r,,,,1965,1966,20,16,0,1
 EMML (HMML) 213,,,,130v,,,,,,,,,281,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,130,v,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,282,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,283,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,284,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
-EMML (HMML) 213,,,,,,,,,,,,,285,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
+EMML (HMML) 213,364,,Giyorgis's writing: The abbot who rejected the horologium and other works of Abba Giyorgis.,131v,,,,,,,,,284,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,131,v,,,,1965,1966,20,16,0,1
+EMML (HMML) 213,365,,Giyorgis's writing: Saint Mary cuts short her visit to a pious monk when she hears her name invoked according to the horologium of Abba Giyorgis.,133r,,,,,,,,,285,,,,,,FALSE,,,,,FALSE,,,FALSE,FALSE,,,,FALSE,,133,r,,,,1965,1966,20,16,0,1
 EMML (HMML) 213,,,,,,,,,,,,,286,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,287,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
 EMML (HMML) 213,,,,,,,,,,,,,288,,,,,,FALSE,,,,,FALSE,,,FALSE,TRUE,,,,FALSE,,,,,,,1965,1966,20,,0,0
