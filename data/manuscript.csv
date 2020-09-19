@@ -341,7 +341,7 @@ G-Vatican (BAV) 238,,,1,,FALSE,,19th,1800,1899,,19,,TRUE,FALSE,,,,,,,0,,,,,,238,
 G-Vatican (BAV) 242,,,1,,FALSE,,17-18th,1600,1799,,17,,TRUE,FALSE,,,,,,,0,,,,,,242,G-Vatican (BAV),,,,,,,,,,,
 H-Berlin (BS) 15,not TM,,1,,FALSE,,18th,1700,1799,,18,,TRUE,FALSE,,,,,,,0,,,,,,15,H-Berlin (BS),,,,,,,,,,,
 H-Berlin (BS) 22,,,1,,FALSE,,18th,1700,1799,,18,,TRUE,FALSE,,,,,,,0,,,,,,22,H-Berlin (BS),,,,,,,,,,,
-H-Berlin (BS) 42,,,8,,FALSE,,14th,1350,1399,,14,,TRUE,FALSE,,,,,,,0,,,,,,42,H-Berlin (BS),,,,,,,,,,,
+H-Berlin (BS) 42,,Incomplete: almost done,8,,FALSE,,14th,1350,1399,,14,https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN875705472,TRUE,FALSE,41,,2,19-20,,9,1,No,,,,,42,H-Berlin (BS),,,"Hammerschmidt, AethHs 1, p. 109-111",,,,,,,,3
 H-Berlin (BS) 50,,,1,,FALSE,,,,,,,,TRUE,FALSE,,,,,,,0,,,,,,50,H-Berlin (BS),,,,,,,,,,,
 H-Berlin (BS) 74,not TM,,1,,FALSE,,18th,1700,1799,,18,,TRUE,FALSE,,,,,,,0,,,,,,74,H-Berlin (BS),,,,,,,,,,,
 H-Berlin (BS) 127,,,2,,FALSE,,16-17th,1500,1699,,16,,TRUE,FALSE,,,,,,,0,,,,,,127,H-Berlin (BS),,,,,,,,,,,
