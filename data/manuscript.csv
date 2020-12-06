@@ -345,7 +345,7 @@ EMML (HMML) 6062,,Unknown,27,,FALSE,,18th,1700,1799,,18,,TRUE,FALSE,,,,,,,0,,Jar
 EMML (HMML) 6343,,Unknown,1,,FALSE,,20th,1900,1999,,20,,TRUE,FALSE,,,,,,,0,,Menagesha Maryam,,,,6343,EMML (HMML),,EMML6343,,,https://w3id.org/vhmml/readingRoom/view/208117,,,,,,8
 G-Milan (BAM) 2,,Unknown,1,,FALSE,,16th,1500,1599,,16,,TRUE,FALSE,,,,,,,0,,,,,,2,G-Milan (BAM),,,,,,,,,,,8
 Duke (Duke) 12,,,96,,FALSE,,19-20th,1800,1999,,19,,TRUE,FALSE,,,,,,,0,,????,,,,12,Duke (Duke),,,,,,,,,,,
-EMIP (EMIP) 176,,,1,1 (EMIP Catalogue Vol 2),FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,176,EMIP (EMIP),,EMIP00176,,,,,,,,,
+EMIP (EMIP) 176,"not TM, not a sequence",Incomplete: irrelevant,1,1 (EMIP Catalogue Vol 2),FALSE,178,1962-1970,1962,1970,Date from ms (colophon),20,,FALSE,FALSE,,,2,22,,,0,,,,,,176,EMIP (EMIP),,EMIP00176,,,,,,,,,7
 G-Vatican (BAV) 54,,,2,,FALSE,,16th,1500,1599,,16,none on Beta Masaheft,TRUE,FALSE,,,,,,,0,,,,,,54,G-Vatican (BAV),,BAVet54,,,,,,,,,
 G-Vatican (BAV) 69,,,2,,FALSE,,16th,1500,1599,,16,none on Beta Masaheft,TRUE,FALSE,,,,,,,0,,,,,,69,G-Vatican (BAV),,BAVet69,,,,,,,,,
 G-Vatican (BAV) 73,,,6,,FALSE,,17th,1600,1699,,17,none on Beta Masaheft,TRUE,FALSE,,,,,,,0,,,,,,73,G-Vatican (BAV),,BAVet73,,,,,,,,,
