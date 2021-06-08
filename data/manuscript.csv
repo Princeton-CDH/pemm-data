@@ -411,7 +411,7 @@ G-Vatican (BAV) 242,,,1,,FALSE,,17-18th,1600,1799,,17,,TRUE,FALSE,,,,,,,0,,,,,,2
 H-Berlin (BS) 15,not TM,,1,,FALSE,,18th,1700,1799,,18,,TRUE,FALSE,,,,,,,0,,,,,,15,H-Berlin (BS),,,,,,,,,,,,1
 H-Berlin (BS) 22,,,1,,FALSE,,18th,1700,1799,,18,,TRUE,FALSE,,,,,,,0,,,,,,22,H-Berlin (BS),,,,,,,,,,,,1
 H-Berlin (BS) 50,,,1,,FALSE,,,,,,,,TRUE,FALSE,,,,,,,0,,,,,,50,H-Berlin (BS),,,,,,,,,,,,1
-H-Berlin (BS) 74,not TM,,1,,FALSE,,18th,1700,1799,,18,,TRUE,FALSE,,,,,,,0,,,,,,74,H-Berlin (BS),,,,,,,,,,,,1
+H-Berlin (BS) 74,not TM,,1,,FALSE,91,18th,1700,1799,,18,https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN880986085&PHYSID=PHYS_0005,TRUE,FALSE,,,,,,,0,,,,,,74,H-Berlin (BS),,,,,,,,,,,,1
 H-Berlin (BS) 127,,,2,,FALSE,,16-17th,1500,1699,,16,,TRUE,FALSE,,,,,,,0,,,,,,127,H-Berlin (BS),,,,,,,,,,,,2
 H-Berlin (BS) 129,,,5,,FALSE,,16-17th,1500,1699,,16,,TRUE,FALSE,,,,,,,0,,,,,,129,H-Berlin (BS),,,,,,,,,,,,5
 H-Berlin (BS) 157,,,3,,FALSE,,17th,1600,1699,,17,,TRUE,FALSE,,,,,,,0,,,,,,157,H-Berlin (BS),,,,,,,,,,,,3
