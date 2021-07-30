@@ -186,7 +186,7 @@ EMIP (EMIP) 2175,,Incomplete: being cataloged,0,178 (Ralph),FALSE,,17th?,1600,16
 EMIP (EMIP) 3238,,Incomplete: being cataloged,37,"about 37 (Beta Masaheft Github); 45 (Catholic University of America, Institute of Christian Oriental Research (ICOR) draft catalog)",FALSE,46,19th,1800,1899,Date from catalog,19,none on Beta Masaheft,FALSE,FALSE,,,,,,,0,,,,,,3238,EMIP (EMIP),,EMIP03238,,Catholic University; Weiner Codex 463 = EMIP 3238; we hope they will do this oe,,,,,,,2,15
 EMML (HMML) 3309,TM,Incomplete: being cataloged,100,100,FALSE,127,1952/3 A.D.,1952,1953,Date (other; see Notes field),20,https://w3id.org/vhmml/readingRoom/view/205125,FALSE,TRUE,,,,,,,0,Yes,Church of Gembi Giyorgis,,,"South: Qembebit, Shoa",3309,EMML (HMML),,EMML3309,https://archive.org/details/EMMLCatalog08/page/n211/mode/2up,Date information from Delamarter.,,,,,,,2,0
 EMML (HMML) 4789,TM,Incomplete: not started,0,188,FALSE,146,20th,1900,1999,,20,,FALSE,TRUE,,,,,,,0,,Church of Dasē Madḫānē Alam,,,"South: Desē, Wallo",4789,EMML (HMML),,EMML4789,https://archive.org/details/EMMLCatalog10/page/n319/mode/2up,Date information from Delamarter.,https://w3id.org/vhmml/readingRoom/view/206554,,,,,,5,0
-EMML (HMML) 5609,,Incomplete: not started,0,no catalog,FALSE,201,1865-1927,1865,1927,Date (other; see Notes field),19,https://w3id.org/vhmml/readingRoom/view/207354,FALSE,TRUE,,,,,,,0,,,,,,5609,EMML (HMML),,EMML5609,,Date information from Delamarter.,,,,,,,5,0
+EMML (HMML) 5609,,Assigned,0,no catalog,FALSE,201,1865-1927,1865,1927,Date (other; see Notes field),19,https://w3id.org/vhmml/readingRoom/view/207354,FALSE,TRUE,,,,,,,0,,,,,,5609,EMML (HMML),,EMML5609,,Date information from Delamarter.,,,,,,,,0
 EMML (HMML) 6676,,Assigned,0,no catalog,FALSE,,1806-1847,1806,1847,Date from king's name,19,https://w3id.org/vhmml/readingRoom/view/200308,FALSE,TRUE,,,,,,,0,,,,,,6676,EMML (HMML),,EMML6676,,"Our King Sahla Selase (King of Shewa, 1806-47). Date information from Delamarter.",,,,,,,,0
 EMML (HMML) 7606,,Incomplete: not started,0,no catalog,FALSE,,1721-1730,1721,1730,Date from king's name,18,https://w3id.org/vhmml/readingRoom/view/201133,FALSE,TRUE,,,,,,,0,,,,,,7606,EMML (HMML),,EMML7606,,"(f14r and passim) ""Our king Bakafa"". Date information from Delamarter.",,,,,,,5,0
 EMML (HMML) 7628,,Incomplete: not started,0,no catalog,FALSE,,,,,,,https://www.vhmml.org/readingRoom/view/201155,FALSE,FALSE,,,,,,,0,,,,,,7628,EMML (HMML),,,,,,,,,,,5,0
@@ -369,7 +369,7 @@ EMML (HMML) 3275,"not TM, a sequence",Incomplete: other,1,3,FALSE,,1930-74,1930,
 EMML (HMML) 3293,TM+Misc,Incomplete: other,1,50,FALSE,,1919,1919,1919,,20,,TRUE,FALSE,,,,,,,0,,Tatu Giyorgis Church,,,"South: Qəmbəbit, Mägäzäz, Šäwa",3293,EMML (HMML),,EMML3293,https://archive.org/details/EMMLCatalog08/page/n203/mode/2up,,https://w3id.org/vhmml/readingRoom/view/205109,,,0,0,,6,1
 EMML (HMML) 3303,TM,Incomplete: other,3,141,FALSE,,1947,1947,1947,,20,,TRUE,FALSE,,,,,,,0,,Fenpawa Kidana Mihret,,,"South: Qəmbəbit, Mägäzäz, Šäwa",3303,EMML (HMML),,EMML3303,https://archive.org/details/EMMLCatalog08/page/n209/mode/2up,,https://w3id.org/vhmml/readingRoom/view/205119,,,0,0,,6,3
 EMML (HMML) 3378,TM,Incomplete: other,40,228,FALSE,,19th,1800,1899,,19,,TRUE,FALSE,,,,,,,0,,Savior of the World (Waldeya Medhane Alam) Church,,,"South: Yağğu, Wallo",3378,EMML (HMML),,EMML3378,https://archive.org/details/EMMLCatalog08/page/n239/mode/2up,,https://w3id.org/vhmml/readingRoom/view/205194,,,0,0,,6,40
-EMML (HMML) 3388,TM,Incomplete: other,2,300,FALSE,,1930,1930,1930,,20,https://w3id.org/vhmml/readingRoom/view/205203,TRUE,TRUE,,,,,,,0,,Waldeya Gebriel Church,11.78794,39.59867,"South: Gubbālāfto, Yağğu, Wallo",3388,EMML (HMML),,EMML3388,https://archive.org/details/EMMLCatalog08/page/n243/mode/2up,,,,,0,0,,6,2
+EMML (HMML) 3388,TM,Assigned,2,300,FALSE,,1930,1930,1930,,20,https://w3id.org/vhmml/readingRoom/view/205203,TRUE,TRUE,,,,,,,0,,Waldeya Gebriel Church,11.78794,39.59867,"South: Gubbālāfto, Yağğu, Wallo",3388,EMML (HMML),,EMML3388,https://archive.org/details/EMMLCatalog08/page/n243/mode/2up,,,,,0,0,,,2
 EMML (HMML) 3421,TM+2,Incomplete: other,1,63,FALSE,,18th,1700,1799,,18,,TRUE,FALSE,,,,,,,0,,Waldeya Mika'el Church,,,"South: Gubbālāfto, Yağğu, Wallo",3421,EMML (HMML),,EMML3421,https://archive.org/details/EMMLCatalog08/page/n267/mode/2up,,https://w3id.org/vhmml/readingRoom/view/205235,,,0,0,,6,1
 EMML (HMML) 3472,TM+Misc,Complete,69,67,FALSE,,18th,1700,1799,,18,https://www.vhmml.org/readingRoom/view/205286,TRUE,FALSE,,,,,,,0,,Takla Haymanot Church,,,"South: Gubbālāfto, Yağğu, Wallo",3472,EMML (HMML),,EMML3472,https://archive.org/details/EMMLCatalog08/page/n295/mode/2up,,,,,0,0,,1,69
 EMML (HMML) 3475,TM+1,Incomplete: other,21,54,FALSE,,18th,1700,1799,,18,,TRUE,FALSE,,,,,,,0,,Marto Mika'el Church,,,"South: Gubbālāfto, Yağğu, Wallo",3475,EMML (HMML),,EMML3475,https://archive.org/details/EMMLCatalog08/page/n301/mode/2up,,https://w3id.org/vhmml/readingRoom/view/205289,,,0,0,,6,21
@@ -500,21 +500,28 @@ UNESCO 8.10,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 Windsor Palace Eth. 5,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 Yale Ethiopic 25,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 EMIP (EMIP) 760,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 761,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 EMIP (EMIP) 762,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 EMIP (EMIP) 763,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 764,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 EMIP (EMIP) 765,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 766,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 767,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 768,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 769,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 770,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 771,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 772,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 773,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 774,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 775,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 776,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 777,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 778,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 864,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 865,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 1044,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 1288,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 1289,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2145,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2156,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2173,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2196,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2509,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2519,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2541,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2550,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2609,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2638,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2642,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2645,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2701,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 3113,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 3246,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 3680,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 3689,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
