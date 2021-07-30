@@ -488,7 +488,7 @@ DL-E (Brown) 14,,has paintings,0,,FALSE,,,,,,,"available on-site only at HMML, f
 G-704 (EAP) 1-24,TM,Assigned,0,,FALSE,,20th,1900,1999,,20,https://eap.bl.uk/archive-file/EAP704-1-24,FALSE,FALSE,,,,,,,0,,"Monastery of Dabra Abbey, see https://eap.bl.uk/project/EAP704",,,"Shire region, Tigray Province, Ethiopia",1-24,G-704 (EAP),,,,,,,,,,,,0
 G-704 (EAP) 2-31,TM,Assigned,0,,FALSE,,20th,1900,1999,,20,https://eap.bl.uk/archive-file/EAP704-2-31,FALSE,FALSE,,,,,,,0,,"Monastery of Marawe Krestos, see https://eap.bl.uk/project/EAP704",,,,2-31,G-704 (EAP),,,,,,,,,,,,0
 G-704 (EAP) 2-30,TM,Assigned,0,,FALSE,,20th,1900,1999,,20,https://eap.bl.uk/archive-file/EAP704-2-30,FALSE,FALSE,,,,,,,0,,,,,,2-30,G-704 (EAP),,,,,,,,,,,,0
-Bob McCarthy 1547,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+Bob McCarthy 1547,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,EMIP (EMIP) 3689,,,,,,,,0
 Chester Beatty 951,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 VOHD Tanasee 102,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 VOHD Tanasee 155,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
@@ -499,19 +499,19 @@ UNESCO 6.10,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,
 UNESCO 8.10,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 Windsor Palace Eth. 5,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 Yale Ethiopic 25,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 760,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 762,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 763,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 765,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 864,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 865,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 1044,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 1288,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 1289,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2145,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2156,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2173,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2196,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 760,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 762,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 763,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 765,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 864,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 865,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 1044,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 1288,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 1289,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2145,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2156,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2173,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 2196,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 EMIP (EMIP) 2509,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 EMIP (EMIP) 2519,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 EMIP (EMIP) 2541,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
@@ -521,7 +521,6 @@ EMIP (EMIP) 2638,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 EMIP (EMIP) 2642,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 EMIP (EMIP) 2645,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 EMIP (EMIP) 2701,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 3113,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 3113,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 EMIP (EMIP) 3246,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 EMIP (EMIP) 3680,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 3689,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
