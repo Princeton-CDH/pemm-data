@@ -178,10 +178,10 @@ BOr (BL) 655,TM+1 (TM 206 folios),Complete,155,154,FALSE,228,First half of 18th 
 Davies (HMML) Dabra Warq,,Incomplete: being cataloged,0,,FALSE,,17th,1600,1699,Date (other; see Notes field),17,,FALSE,TRUE,,,,,,,0,,,,,,Dabra Warq,Davies (HMML),,,,Date information from Delamarter.,,,,,,,2,0
 EMDL (HMML) 2,,Incomplete: not started,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,2,EMDL (HMML),,,,,,,,,,,5,0
 EMDL (HMML) 62,,Incomplete: not started,0,,FALSE,,1750-1849,1750,1849,Date (other; see Notes field),18,,FALSE,TRUE,,,,,,,0,,,,,,62,EMDL (HMML),,,,Date from Delamarter.,,,,,,,5,0
-EMIP (EMIP) 761,,Incomplete: not started,0,,FALSE,246,17th,1600,1699,Date (other; see Notes field),17,none on Beta Masaheft,FALSE,TRUE,,,,,,,0,,,,,,761,EMIP (EMIP),,EMIP00761,,Date information from Delamarter. Beta Masaheft gives early-nineteenth. Other ms IDs: Chelekot Silassie 20.,,,,,,,5,0
-EMIP (EMIP) 832,,Incomplete: not started,0,,FALSE,187,1750-1849,1750,1849,Date (other; see Notes field),18,none on Beta Masaheft,FALSE,TRUE,,,,,,,0,,,,,,832,EMIP (EMIP),,EMIP00832,,Date information from Delamarter. Other ms IDs: Chelekot Silassie 93.,,,,,,,5,0
-EMIP (EMIP) 1153,,Incomplete: not started,0,,FALSE,182,1899-1900,1899,1900,Date from ms (colophon),19,none on Beta Masaheft,FALSE,TRUE,,,,,,,0,,,,,,1153,EMIP (EMIP),,EMIP01153,,Other ms IDs: Addis Alem 111.,,,,,,,5,0
-EMIP (EMIP) 1154,,Incomplete: not started,0,,FALSE,172,1868-1913,1868,1913,Date from ms (colophon),19,none on Beta Masaheft,FALSE,TRUE,,,,,,,0,,,,,,1154,EMIP (EMIP),,EMIP01154,,Other ms IDs: Addis Alem 112.,,,,,,,5,0
+EMIP (EMIP) 761,,Incomplete: not started,0,,FALSE,246,17th,1600,1699,Date (other; see Notes field),17,pdf in PEMM Dropbox,FALSE,TRUE,,,,,,,0,,,,,,761,EMIP (EMIP),,EMIP00761,,Date information from Delamarter. Beta Masaheft gives early-nineteenth. Other ms IDs: Chelekot Silassie 20.,,,,,,,5,0
+EMIP (EMIP) 832,,Incomplete: not started,0,,FALSE,187,1750-1849,1750,1849,Date (other; see Notes field),18,pdf in PEMM Dropbox,FALSE,TRUE,,,,,,,0,,,,,,832,EMIP (EMIP),,EMIP00832,,Date information from Delamarter. Other ms IDs: Chelekot Silassie 93.,,,,,,,5,0
+EMIP (EMIP) 1153,,Incomplete: not started,0,,FALSE,182,1899-1900,1899,1900,Date from ms (colophon),19,pdf in PEMM Dropbox,FALSE,TRUE,,,,,,,0,,,,,,1153,EMIP (EMIP),,EMIP01153,,Other ms IDs: Addis Alem 111.,,,,,,,5,0
+EMIP (EMIP) 1154,,Incomplete: not started,0,,FALSE,172,1868-1913,1868,1913,Date from ms (colophon),19,pdf in PEMM Dropbox,FALSE,TRUE,,,,,,,0,,,,,,1154,EMIP (EMIP),,EMIP01154,,Other ms IDs: Addis Alem 112.,,,,,,,5,0
 EMIP (EMIP) 2175,,Incomplete: being cataloged,0,178 (Ralph),FALSE,,17th?,1600,1699,Date from catalog,17,,FALSE,FALSE,,,,,,,0,,,,,,2175,EMIP (EMIP),,EMIP02175,,Weiner Codex 233,,,,,,,2,0
 EMIP (EMIP) 3238,,Incomplete: being cataloged,37,"about 37 (Beta Masaheft Github); 45 (Catholic University of America, Institute of Christian Oriental Research (ICOR) draft catalog)",FALSE,46,19th,1800,1899,Date from catalog,19,none on Beta Masaheft,FALSE,FALSE,,,,,,,0,,,,,,3238,EMIP (EMIP),,EMIP03238,,Catholic University; Weiner Codex 463 = EMIP 3238; we hope they will do this oe,,,,,,,2,15
 EMML (HMML) 3309,TM,Incomplete: being cataloged,100,100,FALSE,127,1952/3 A.D.,1952,1953,Date (other; see Notes field),20,https://w3id.org/vhmml/readingRoom/view/205125,FALSE,TRUE,,,,,,,0,Yes,Church of Gembi Giyorgis,,,"South: Qembebit, Shoa",3309,EMML (HMML),,EMML3309,https://archive.org/details/EMMLCatalog08/page/n211/mode/2up,Date information from Delamarter.,,,,,,,2,0
@@ -488,39 +488,39 @@ DL-E (Brown) 14,,has paintings,0,,FALSE,,,,,,,"available on-site only at HMML, f
 G-704 (EAP) 1-24,TM,Assigned,0,,FALSE,,20th,1900,1999,,20,https://eap.bl.uk/archive-file/EAP704-1-24,FALSE,FALSE,,,,,,,0,,"Monastery of Dabra Abbey, see https://eap.bl.uk/project/EAP704",,,"Shire region, Tigray Province, Ethiopia",1-24,G-704 (EAP),,,,,,,,,,,,0
 G-704 (EAP) 2-31,TM,Assigned,0,,FALSE,,20th,1900,1999,,20,https://eap.bl.uk/archive-file/EAP704-2-31,FALSE,FALSE,,,,,,,0,,"Monastery of Marawe Krestos, see https://eap.bl.uk/project/EAP704",,,,2-31,G-704 (EAP),,,,,,,,,,,,0
 G-704 (EAP) 2-30,TM,Assigned,0,,FALSE,,20th,1900,1999,,20,https://eap.bl.uk/archive-file/EAP704-2-30,FALSE,FALSE,,,,,,,0,,,,,,2-30,G-704 (EAP),,,,,,,,,,,,0
-Bob McCarthy 1547,,,0,,FALSE,,15th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,EMIP (EMIP) 3689,,,,,,,,0
-Chester Beatty 951,,,0,,FALSE,,19th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-VOHD Tanasee 102,,,0,,FALSE,,17th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-VOHD Tanasee 155,,,0,,FALSE,,late 18th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-VOHD Tanasee 165,,,0,,FALSE,,17th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-UNESCO 1.01,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-UNESCO 2.60,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-UNESCO 6.10,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-UNESCO 8.10,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-Windsor Palace Eth. 5,,,0,,FALSE,,1766,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+Bob McCarthy 1547,,Incomplete: being cataloged,0,,FALSE,,15th,1400,1499,,15,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,EMIP (EMIP) 3689,,,,,,,2,0
+Chester Beatty 951,,,0,,FALSE,,19th,1800,1899,,19,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+VOHD (HMML) 102,,,0,,FALSE,,17th,1600,1699,,17,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,102,VOHD (HMML),,,,,,,,,,,,0
+VOHD (HMML) 155,,,0,,FALSE,,late 18th,1775,1779,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,155,VOHD (HMML),,,,,,,,,,,,0
+VOHD (HMML) 165,,,0,,FALSE,,17th,1600,1699,,17,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,165,VOHD (HMML),,,,,,,,,,,,0
+UNESCO (HMML) 1.01,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,1.01,UNESCO (HMML),,,,,,,,,,,,0
+UNESCO (HMML) 2.60,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2.60,UNESCO (HMML),,,,,,,,,,,,0
+UNESCO (HMML) 6.10,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,6.10,UNESCO (HMML),,,,,,,,,,,,0
+UNESCO (HMML) 8.10,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,8.10,UNESCO (HMML),,,,,,,,,,,,0
+Windsor Palace Eth. 5,,,0,,FALSE,,1766,1766,1766,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 Yale Ethiopic 25,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 760,,,0,,FALSE,,20th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 762,,,0,,FALSE,,late 19th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 763,,,0,,FALSE,,19th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 765,,,0,,FALSE,,late 19th/early 20th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 864,,,0,,FALSE,,17th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 865,,,0,,FALSE,,20th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 1044,,,0,,FALSE,,late 18th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 1288,,,0,,FALSE,,20th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 1289,,,0,,FALSE,,early 20th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2145,,,0,,FALSE,,late 17th/early 18th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2156,,,0,,FALSE,,early 20th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2173,,,0,,FALSE,,17th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2196,,,0,,FALSE,,20th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2509,,,0,,FALSE,,early 20th,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2519,,,0,,FALSE,,late 19th,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2541,,,0,,FALSE,,20th,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2550,,,0,,FALSE,,1938/1939,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2609,,,0,,FALSE,,20th,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2638,,,0,,FALSE,,1974-1975,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2642,,,0,,FALSE,,20th,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2645,,,0,,FALSE,,20th,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 2701,,,0,,FALSE,,16th,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 3113,,,0,,FALSE,,20th,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 3246,,,0,,FALSE,,early 20th,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 3680,,,0,,FALSE,,20th,,,,,,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+EMIP (EMIP) 760,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,760,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 762,,Assigned,0,,FALSE,,late 19th,1875,1899,,19,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,762,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 763,,Assigned,0,,FALSE,,19th,1800,1899,,19,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,763,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 765,,Assigned,0,,FALSE,,late 19th/early 20th,1875,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,765,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 864,,Assigned,0,,FALSE,,17th,1600,1699,,17,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,864,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 865,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,865,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 1044,,Assigned,0,,FALSE,,late 18th,1775,1799,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,1044,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 1288,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,1288,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 1289,,Assigned,0,,FALSE,,early 20th,1900,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,1289,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 2145,,,0,,FALSE,,late 17th/early 18th,1675,1725,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2145,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 2156,,,0,,FALSE,,early 20th,1900,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2156,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 2173,,CUA will catalog,0,,FALSE,,17th,1600,1699,,17,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2173,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 2196,,,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2196,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 2509,,,0,,FALSE,,early 20th,1900,1925,,20,,FALSE,FALSE,,,,,,,0,,,,,,2509,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 2519,,,0,,FALSE,,late 19th,1875,1899,,19,,FALSE,FALSE,,,,,,,0,,,,,,2519,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 2541,,,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,2541,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 2550,,,0,,FALSE,,1938/1939,1938,1939,,20,,FALSE,FALSE,,,,,,,0,,,,,,2550,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 2609,,,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,2609,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 2638,,,0,,FALSE,,1974-1975,1974,1975,,20,,FALSE,FALSE,,,,,,,0,,,,,,2638,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 2642,,,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,2642,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 2645,,,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,2645,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 2701,,Assigned,0,,FALSE,,16th,1500,1599,,16,,FALSE,FALSE,,,,,,,0,,,,,,2701,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 3113,,,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,3113,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 3246,,CUA will catalog,0,,FALSE,,early 20th,1900,1925,,20,,FALSE,FALSE,,,,,,,0,,,,,,3246,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 3680,,CUA will catalog,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,3680,EMIP (EMIP),,,,,,,,,,,,0
