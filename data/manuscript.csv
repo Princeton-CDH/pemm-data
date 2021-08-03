@@ -178,7 +178,7 @@ BOr (BL) 655,TM+1 (TM 206 folios),Complete,155,154,FALSE,228,First half of 18th 
 Davies (HMML) Dabra Warq,,Incomplete: being cataloged,0,,FALSE,,17th,1600,1699,Date (other; see Notes field),17,,FALSE,TRUE,,,,,,,0,,,,,,Dabra Warq,Davies (HMML),,,,Date information from Delamarter.,,,,,,,2,0
 EMDL (HMML) 2,,Incomplete: not started,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,2,EMDL (HMML),,,,,,,,,,,5,0
 EMDL (HMML) 62,,Incomplete: not started,0,,FALSE,,1750-1849,1750,1849,Date (other; see Notes field),18,,FALSE,TRUE,,,,,,,0,,,,,,62,EMDL (HMML),,,,Date from Delamarter.,,,,,,,5,0
-EMIP (EMIP) 761,,Assigned,0,,FALSE,246,17th,1600,1699,Date (other; see Notes field),17,images in PEMM Dropbox,FALSE,TRUE,,,,,,,0,,,,,,761,EMIP (EMIP),,EMIP00761,,Date information from Delamarter. Beta Masaheft gives early-nineteenth. Other ms IDs: Chelekot Silassie 20.,,,,,,,,0
+EMIP (EMIP) 761,,Assigned,0,,FALSE,246,17th,1600,1699,Date (other; see Notes field),17,images in PEMM Dropbox,FALSE,TRUE,,,,,,,0,,Chelekot Sellasie Church in Tigray,13.36452,39.47195,,761,EMIP (EMIP),,EMIP00761,,Date information from Delamarter. Beta Masaheft gives early-nineteenth. Other ms IDs: Chelekot Silassie 20.,,,,,,,,0
 EMIP (EMIP) 832,,Assigned,0,,FALSE,187,1750-1849,1750,1849,Date (other; see Notes field),18,images in PEMM Dropbox,FALSE,TRUE,,,,,,,0,,,,,,832,EMIP (EMIP),,EMIP00832,,Date information from Delamarter. Other ms IDs: Chelekot Silassie 93.,,,,,,,,0
 EMIP (EMIP) 1153,,Assigned,0,,FALSE,182,1899-1900,1899,1900,Date from ms (colophon),19,images in PEMM Dropbox,FALSE,TRUE,,,,,,,0,,,,,,1153,EMIP (EMIP),,EMIP01153,,Other ms IDs: Addis Alem 111.,,,,,,,,0
 EMIP (EMIP) 1154,,Assigned,0,,FALSE,172,1868-1913,1868,1913,Date from ms (colophon),19,images in PEMM Dropbox,FALSE,TRUE,,,,,,,0,,,,,,1154,EMIP (EMIP),,EMIP01154,,Other ms IDs: Addis Alem 112.,,,,,,,,0
@@ -499,15 +499,15 @@ UNESCO (HMML) 6.10,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,
 UNESCO (HMML) 8.10,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,8.10,UNESCO (HMML),,,,,,,,,,,,0
 Windsor Palace Eth. 5,,,0,,FALSE,,1766,1766,1766,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 Yale Ethiopic 25,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
-EMIP (EMIP) 760,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,760,EMIP (EMIP),,,,,,,,,,,,0
-EMIP (EMIP) 762,,Assigned,0,,FALSE,,late 19th,1875,1899,,19,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,762,EMIP (EMIP),,,,,,,,,,,,0
-EMIP (EMIP) 763,,Assigned,0,,FALSE,,19th,1800,1899,,19,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,763,EMIP (EMIP),,,,,,,,,,,,0
-EMIP (EMIP) 765,,Assigned,0,,FALSE,,late 19th/early 20th,1875,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,765,EMIP (EMIP),,,,,,,,,,,,0
-EMIP (EMIP) 864,,Assigned,0,,FALSE,,17th,1600,1699,,17,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,864,EMIP (EMIP),,,,,,,,,,,,0
-EMIP (EMIP) 865,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,865,EMIP (EMIP),,,,,,,,,,,,0
-EMIP (EMIP) 1044,,Assigned,0,,FALSE,,late 18th,1775,1799,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,1044,EMIP (EMIP),,,,,,,,,,,,0
-EMIP (EMIP) 1288,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,1288,EMIP (EMIP),,,,,,,,,,,,0
-EMIP (EMIP) 1289,,Assigned,0,,FALSE,,early 20th,1900,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,1289,EMIP (EMIP),,,,,,,,,,,,0
+EMIP (EMIP) 760,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,Chelekot Sellasie Church in Tigray,13.36452,39.47195,North: Tigray,760,EMIP (EMIP),,,,Chelekot Sellase 19,,,,,,,,0
+EMIP (EMIP) 762,,Assigned,0,,FALSE,,late 19th,1875,1899,,19,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,Chelekot Sellasie Church in Tigray,13.36452,39.47195,North: Tigray,762,EMIP (EMIP),,,,Chelekot Sellase 21,,,,,,,,0
+EMIP (EMIP) 763,,Assigned,0,,FALSE,,19th,1800,1899,,19,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,Chelekot Sellasie Church in Tigray,13.36452,39.47195,North: Tigray,763,EMIP (EMIP),,,,Chelekot Sellase 22,,,,,,,,0
+EMIP (EMIP) 765,,Assigned,0,,FALSE,,late 19th/early 20th,1875,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,Chelekot Sellasie Church in Tigray,13.36452,39.47195,North: Tigray,765,EMIP (EMIP),,,,Chelekot Sellase 24,,,,,,,,0
+EMIP (EMIP) 864,,Assigned,0,,FALSE,,17th,1600,1699,,17,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,Chelekot Sellasie Church in Tigray,13.36452,39.47195,North: Tigray,864,EMIP (EMIP),,,,Chelekot Sellase 125,,,,,,,,0
+EMIP (EMIP) 865,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,Chelekot Sellasie Church in Tigray,13.36452,39.47195,North: Tigray,865,EMIP (EMIP),,,,Chelekot Sellase 126,,,,,,,,0
+EMIP (EMIP) 1044,,Assigned,0,,FALSE,,late 18th,1775,1799,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,Addis Alem,9.05245,38.43536,South,1044,EMIP (EMIP),,,,Addis Alem 2,,,,,,,,0
+EMIP (EMIP) 1288,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,1288,EMIP (EMIP),,,,Marqos Addis 3,,,,,,,,0
+EMIP (EMIP) 1289,,Assigned,0,,FALSE,,early 20th,1900,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,1289,EMIP (EMIP),,,,Marqos Addis 4,,,,,,,,0
 EMIP (EMIP) 2145,,,0,,FALSE,,late 17th/early 18th,1675,1725,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2145,EMIP (EMIP),,,,,,,,,,,,0
 EMIP (EMIP) 2156,,,0,,FALSE,,early 20th,1900,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2156,EMIP (EMIP),,,,,,,,,,,,0
 EMIP (EMIP) 2173,,CUA will catalog,0,,FALSE,,17th,1600,1699,,17,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2173,EMIP (EMIP),,,,,,,,,,,,0
