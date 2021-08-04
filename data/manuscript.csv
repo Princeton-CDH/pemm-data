@@ -493,11 +493,11 @@ Chester Beatty 951,,,0,,FALSE,,19th,1800,1899,,19,Jeremy has EMIP pdf,FALSE,FALS
 VOHD (HMML) 102,,,0,,FALSE,,17th,1600,1699,,17,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,102,VOHD (HMML),,,,,,,,,,,,0
 VOHD (HMML) 155,,,0,,FALSE,,late 18th,1775,1779,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,155,VOHD (HMML),,,,,,,,,,,,0
 VOHD (HMML) 165,,,0,,FALSE,,17th,1600,1699,,17,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,165,VOHD (HMML),,,,,,,,,,,,0
-UNESCO (HMML) 1.01,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,1.01,UNESCO (HMML),,,,,,,,,,,,0
-UNESCO (HMML) 2.60,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,2.60,UNESCO (HMML),,,,,,,,,,,,0
-UNESCO (HMML) 6.10,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,6.10,UNESCO (HMML),,,,,,,,,,,,0
-UNESCO (HMML) 8.10,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,8.10,UNESCO (HMML),,,,,,,,,,,,0
-Windsor Palace Eth. 5,,,0,,FALSE,,1766,1766,1766,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
+UNESCO (HMML) 1.01,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,"Patriarchal Library, Addis Ababa",9.03731,38.76107,South: Addis Ababa,1.01,UNESCO (HMML),,,,,,,,,,,,0
+UNESCO (HMML) 2.60,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,"National Library, Addis Ababa",9.01806,38.75000,South: Addis Ababa,2.60,UNESCO (HMML),,,,,,,,,,,,0
+UNESCO (HMML) 6.10,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,"Debre Tsehay Church, Gojjam",11.38249,37.06348,Gojjam Province,6.10,UNESCO (HMML),,,,,,,,,,,,0
+UNESCO (HMML) 8.10,,Assigned,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,"Qedus Giyorgis Church, Bichena, Gojjam",10.43925,38.21118,Gojjam Province,8.10,UNESCO (HMML),,,,,,,,,,,,0
+Windsor Palace Eth. 5,,,0,,FALSE,,1766,1766,1766,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,a church in the Gondar area,12.60860,37.46760,"Looted from Madḫāne ʿĀlam Church at መቅደላ Mäqdäla Magdala, but may have been made elsewhere, likely Gondar",,,,,,,,,,,,,,0
 Yale Ethiopic 25,,,0,,FALSE,,,,,,,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,,,,,,,,,,,,,,0
 EMIP (EMIP) 760,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,Chelekot Sellasie Church in Tigray,13.36452,39.47195,North: Tigray,760,EMIP (EMIP),,,,Chelekot Sellase 19,,,,,,,,0
 EMIP (EMIP) 762,,Assigned,0,,FALSE,,late 19th,1875,1899,,19,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,Chelekot Sellasie Church in Tigray,13.36452,39.47195,North: Tigray,762,EMIP (EMIP),,,,Chelekot Sellase 21,,,,,,,,0
@@ -506,8 +506,8 @@ EMIP (EMIP) 765,,Assigned,0,,FALSE,,late 19th/early 20th,1875,1925,,20,Jeremy ha
 EMIP (EMIP) 864,,Assigned,0,,FALSE,,17th,1600,1699,,17,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,Chelekot Sellasie Church in Tigray,13.36452,39.47195,North: Tigray,864,EMIP (EMIP),,,,Chelekot Sellase 125,,,,,,,,0
 EMIP (EMIP) 865,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,Chelekot Sellasie Church in Tigray,13.36452,39.47195,North: Tigray,865,EMIP (EMIP),,,,Chelekot Sellase 126,,,,,,,,0
 EMIP (EMIP) 1044,,Assigned,0,,FALSE,,late 18th,1775,1799,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,Addis Alem,9.05245,38.43536,South,1044,EMIP (EMIP),,,,Addis Alem 2,,,,,,,,0
-EMIP (EMIP) 1288,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,1288,EMIP (EMIP),,,,Marqos Addis 3,,,,,,,,0
-EMIP (EMIP) 1289,,Assigned,0,,FALSE,,early 20th,1900,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,provenance is known,,,,1289,EMIP (EMIP),,,,Marqos Addis 4,,,,,,,,0
+EMIP (EMIP) 1288,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,St. Mark's church in Addis Ababa,,,South: Addis Ababa,1288,EMIP (EMIP),,,,Marqos Addis 3,,,,,,,,0
+EMIP (EMIP) 1289,,Assigned,0,,FALSE,,early 20th,1900,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,St. Mark's church in Addis Ababa,,,South: Addis Ababa,1289,EMIP (EMIP),,,,Marqos Addis 4,,,,,,,,0
 EMIP (EMIP) 2145,,,0,,FALSE,,late 17th/early 18th,1675,1725,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2145,EMIP (EMIP),,,,,,,,,,,,0
 EMIP (EMIP) 2156,,,0,,FALSE,,early 20th,1900,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2156,EMIP (EMIP),,,,,,,,,,,,0
 EMIP (EMIP) 2173,,CUA will catalog,0,,FALSE,,17th,1600,1699,,17,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2173,EMIP (EMIP),,,,,,,,,,,,0
