@@ -185,7 +185,7 @@ EMIP (EMIP) 1154,,Assigned,0,,FALSE,172,1868-1913,1868,1913,Date from ms (coloph
 EMIP (EMIP) 2175,,Incomplete: being cataloged,0,178 (Ralph),FALSE,,17th?,1600,1699,Date from catalog,17,,FALSE,FALSE,,,,,,,0,,,,,,2175,EMIP (EMIP),,EMIP02175,,Weiner Codex 233,,,,,,,2,0
 EMIP (EMIP) 3238,,Incomplete: being cataloged,37,"about 37 (Beta Masaheft Github); 45 (Catholic University of America, Institute of Christian Oriental Research (ICOR) draft catalog)",FALSE,46,19th,1800,1899,Date from catalog,19,none on Beta Masaheft,FALSE,FALSE,,,,,,,0,,,,,,3238,EMIP (EMIP),,EMIP03238,,Catholic University; Weiner Codex 463 = EMIP 3238; we hope they will do this oe,,,,,,,2,15
 EMML (HMML) 3309,TM,Incomplete: being cataloged,100,100,FALSE,127,1952/3 A.D.,1952,1953,Date (other; see Notes field),20,https://w3id.org/vhmml/readingRoom/view/205125,FALSE,TRUE,,,,,,,0,Yes,Church of Gembi Giyorgis,,,"South: Qembebit, Shoa",3309,EMML (HMML),,EMML3309,https://archive.org/details/EMMLCatalog08/page/n211/mode/2up,Date information from Delamarter.,,,,,,,2,0
-EMML (HMML) 4789,TM,Incomplete: not started,0,188,FALSE,146,20th,1900,1999,,20,,FALSE,TRUE,,,,,,,0,,Church of Dasē Madḫānē Alam,,,"South: Desē, Wallo",4789,EMML (HMML),,EMML4789,https://archive.org/details/EMMLCatalog10/page/n319/mode/2up,Date information from Delamarter.,https://w3id.org/vhmml/readingRoom/view/206554,,,,,,5,0
+EMML (HMML) 4789,TM,Incomplete: not started,0,188,FALSE,151,20th,1900,1999,,20,https://www.vhmml.org/readingRoom/view/206554,FALSE,TRUE,,,,,,,0,,Dasē Madḫānē Ālam Church,,,"South: Desē, Wallo",4789,EMML (HMML),,EMML4789,https://archive.org/details/EMMLCatalog10/page/n319/mode/2up,Date information from Delamarter.,https://w3id.org/vhmml/readingRoom/view/206554,,,,,,5,0
 EMML (HMML) 5609,,Assigned,0,no catalog,FALSE,201,1865-1927,1865,1927,Date (other; see Notes field),19,https://w3id.org/vhmml/readingRoom/view/207354,FALSE,TRUE,,,,,,,0,,,,,,5609,EMML (HMML),,EMML5609,,Date information from Delamarter.,,,,,,,,0
 EMML (HMML) 6676,,Assigned,0,no catalog,FALSE,,1806-1847,1806,1847,Date from king's name,19,https://w3id.org/vhmml/readingRoom/view/200308,FALSE,TRUE,,,,,,,0,,,,,,6676,EMML (HMML),,EMML6676,,"Our King Sahla Selase (King of Shewa, 1806-47). Date information from Delamarter.",,,,,,,,0
 EMML (HMML) 7606,,Incomplete: not started,0,no catalog,FALSE,,1721-1730,1721,1730,Date from king's name,18,https://w3id.org/vhmml/readingRoom/view/201133,FALSE,TRUE,,,,,,,0,,,,,,7606,EMML (HMML),,EMML7606,,"(f14r and passim) ""Our king Bakafa"". Date information from Delamarter.",,,,,,,5,0
@@ -508,20 +508,20 @@ EMIP (EMIP) 865,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE
 EMIP (EMIP) 1044,,Assigned,0,,FALSE,,late 18th,1775,1799,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,Addis Alem,9.05245,38.43536,South,1044,EMIP (EMIP),,,,Addis Alem 2,,,,,,,,0
 EMIP (EMIP) 1288,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,St. Mark's church in Addis Ababa,,,South: Addis Ababa,1288,EMIP (EMIP),,,,Marqos Addis 3,,,,,,,,0
 EMIP (EMIP) 1289,,Assigned,0,,FALSE,,early 20th,1900,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,St. Mark's church in Addis Ababa,,,South: Addis Ababa,1289,EMIP (EMIP),,,,Marqos Addis 4,,,,,,,,0
-EMIP (EMIP) 2145,,,0,,FALSE,,late 17th/early 18th,1675,1725,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2145,EMIP (EMIP),,,,Weiner Codex 205,,,,,,,,0
-EMIP (EMIP) 2156,,,0,,FALSE,,early 20th,1900,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2156,EMIP (EMIP),,,,Weiner Codex 216,,,,,,,,0
+EMIP (EMIP) 2145,,Assigned,0,,FALSE,,late 17th/early 18th,1675,1725,,18,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2145,EMIP (EMIP),,,,Weiner Codex 205,,,,,,,,0
+EMIP (EMIP) 2156,,Assigned,0,,FALSE,,early 20th,1900,1925,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2156,EMIP (EMIP),,,,Weiner Codex 216,,,,,,,,0
 EMIP (EMIP) 2173,,CUA will catalog,0,,FALSE,,17th,1600,1699,,17,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2173,EMIP (EMIP),,,,Weiner Codex 233,,,,,,,,0
-EMIP (EMIP) 2196,,,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2196,EMIP (EMIP),,,,Mandeville Collection Codex 4,,,,,,,,0
-EMIP (EMIP) 2509,,,0,,FALSE,,early 20th,1900,1925,,20,,FALSE,FALSE,,,,,,,0,,,,,,2509,EMIP (EMIP),,,,Kaleab Addis Project 221,,,,,,,,0
-EMIP (EMIP) 2519,,,0,,FALSE,,late 19th,1875,1899,,19,,FALSE,FALSE,,,,,,,0,,,,,,2519,EMIP (EMIP),,,,Kaleab Addis Project 231,,,,,,,,0
-EMIP (EMIP) 2541,,,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,2541,EMIP (EMIP),,,,Kaleab Addis Project 253,,,,,,,,0
-EMIP (EMIP) 2550,,,0,,FALSE,,1938/1939,1938,1939,,20,,FALSE,FALSE,,,,,,,0,,,,,,2550,EMIP (EMIP),,,,Kaleab Addis Project 262,,,,,,,,0
-EMIP (EMIP) 2609,,,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,2609,EMIP (EMIP),,,,Kaleab Addis Project 321,,,,,,,,0
-EMIP (EMIP) 2638,,,0,,FALSE,,1974-1975,1974,1975,,20,,FALSE,FALSE,,,,,,,0,,,,,,2638,EMIP (EMIP),,,,Kaleab Addis Project 350,,,,,,,,0
-EMIP (EMIP) 2642,,,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,2642,EMIP (EMIP),,,,Kaleab Addis Project 354,,,,,,,,0
-EMIP (EMIP) 2645,,,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,2645,EMIP (EMIP),,,,Kaleab Addis Project 357,,,,,,,,0
+EMIP (EMIP) 2196,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,2196,EMIP (EMIP),,,,Mandeville Collection Codex 4,,,,,,,,0
+EMIP (EMIP) 2509,,Assigned,0,,FALSE,,early 20th,1900,1925,,20,,FALSE,FALSE,,,,,,,0,,,,,,2509,EMIP (EMIP),,,,Kaleab Addis Project 221,,,,,,,,0
+EMIP (EMIP) 2519,,Assigned,0,,FALSE,,late 19th,1875,1899,,19,,FALSE,FALSE,,,,,,,0,,,,,,2519,EMIP (EMIP),,,,Kaleab Addis Project 231,,,,,,,,0
+EMIP (EMIP) 2541,,Assigned,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,2541,EMIP (EMIP),,,,Kaleab Addis Project 253,,,,,,,,0
+EMIP (EMIP) 2550,,Assigned,0,,FALSE,,1938/1939,1938,1939,,20,,FALSE,FALSE,,,,,,,0,,,,,,2550,EMIP (EMIP),,,,Kaleab Addis Project 262,,,,,,,,0
+EMIP (EMIP) 2609,,Assigned,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,2609,EMIP (EMIP),,,,Kaleab Addis Project 321,,,,,,,,0
+EMIP (EMIP) 2638,,Assigned,0,,FALSE,,1974-1975,1974,1975,,20,,FALSE,FALSE,,,,,,,0,,,,,,2638,EMIP (EMIP),,,,Kaleab Addis Project 350,,,,,,,,0
+EMIP (EMIP) 2642,,Assigned,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,2642,EMIP (EMIP),,,,Kaleab Addis Project 354,,,,,,,,0
+EMIP (EMIP) 2645,,Assigned,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,2645,EMIP (EMIP),,,,Kaleab Addis Project 357,,,,,,,,0
 EMIP (EMIP) 2701,,Assigned,0,,FALSE,,16th,1500,1599,,16,,FALSE,FALSE,,,,,,,0,,,,,,2701,EMIP (EMIP),,,,"Kidus Giorgis 12, Kaleab Addis Project",,,,,,,,0
-EMIP (EMIP) 3113,,,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,3113,EMIP (EMIP),,,,"Hazarian Collection, Ms 96",,,,,,,,0
+EMIP (EMIP) 3113,,Assigned,0,,FALSE,,20th,1900,1999,,20,Jeremy has EMIP pdf,FALSE,FALSE,,,,,,,0,,,,,,3113,EMIP (EMIP),,,,"Hazarian Collection, Ms 96",,,,,,,,0
 EMIP (EMIP) 3246,,CUA will catalog,0,,FALSE,,early 20th,1900,1925,,20,,FALSE,FALSE,,,,,,,0,,,,,,3246,EMIP (EMIP),,,,Weiner Codex 473,,,,,,,,0
 EMIP (EMIP) 3680,,CUA will catalog,0,,FALSE,,20th,1900,1999,,20,,FALSE,FALSE,,,,,,,0,,,,,,3680,EMIP (EMIP),,,,Weiner 483,,,,,,,,0
 IES-286 (EAP) 1-1-1626,,,0,,FALSE,97,19th,1800,1899,,19,images in PEMM Dropbox,FALSE,FALSE,,,2,25,25,,0,,,,,,1-1-1626,IES-286 (EAP),,,,"IES 01626, Photographs of a Nineteenth-century manuscript of Miracles of Mary, Part II",,,,,,,,0
