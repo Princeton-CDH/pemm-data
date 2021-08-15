@@ -519,9 +519,9 @@
                     },
                     {
                         "name": "Miracle Number",
-                        "type": "integer",
+                        "type": "number",
                         "format": "default",
-                        "description": "The number that represents the place of the miracle in the sequence of Miracles of Mary in this mss. The count always starts from 1, even in the case of composite mss (e.g., a manuscript that begins with three Miracles of Jesus, followed by a sequence of Miracles of Mary still lists the Marian miracle as \"1\" not \"4\"). For mss rebound in disorder, miracle numbers correspond to the original sequence of miracles."
+                        "description": "The number that represents the place of the miracle in the sequence of Miracles of Mary in this ms. The count always starts from 1, even in the case of composite mss (e.g., a manuscript that begins with three Miracles of Jesus, followed by a sequence of Miracles of Mary still lists the Marian miracle as \"1\" not \"4\"). For mss rebound in disorder, miracle numbers correspond to the original sequence of miracles. If several distinct stories (i.e. several Canonical IDs) are presented as a continuous miracle, the place of each ID in a miracle is shown after the miracle number. E.g., miracle numbers \"14.1\" and \"14.2\" corresponding to IDs 100 and 101 mean these IDs form a single story in the manuscript, and ID 100 goes first."
                     },
                     {
                         "name": "Incipit",
