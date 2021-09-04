@@ -499,7 +499,7 @@ G-Vatican (BAV) 242,,Unknown,1,,FALSE,,17-18th,1600,1799,,17,,TRUE,FALSE,,,,,,,0
 H-Berlin (BS) 15,not TM,Unknown,1,,FALSE,,18th,1700,1799,,18,,TRUE,FALSE,,,,,,,0,,,,,,15,H-Berlin (BS),,,,,,,,,,,8,1
 H-Berlin (BS) 22,,Unknown,1,,FALSE,,18th,1700,1799,,18,,TRUE,FALSE,,,,,,,0,,,,,,22,H-Berlin (BS),,,,,,,,,,,8,1
 H-Berlin (BS) 50,,Unknown,1,,FALSE,,,,,,,,TRUE,FALSE,,,,,,,0,,,,,,50,H-Berlin (BS),,,,,,,,,,,8,1
-H-Berlin (BS) 74,not TM,Unknown,1,,FALSE,91,18th,1700,1799,,18,https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN880986085&PHYSID=PHYS_0005,TRUE,FALSE,,,,,,,0,,,,,,74,H-Berlin (BS),,,,,,,,,,,8,1
+H-Berlin (BS) 74,not TM,Complete,1,,FALSE,91,18th,1700,1799,,18,https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN880986085&PHYSID=PHYS_0005,TRUE,FALSE,,,,,,,0,,,,,,74,H-Berlin (BS),,,,"from Jeremy: ID 14 is the only miracle. The book is a Praises of Mary and it is introduced with that miracle, which is how the Praises of Mary was revealed to the Syrian potter.",,,,,,,1,1
 H-Berlin (BS) 127,,Unknown,2,,FALSE,,16-17th,1500,1699,,16,,TRUE,FALSE,,,,,,,0,,,,,,127,H-Berlin (BS),,,,Staatsbibliothek zu Berlin Ms. orient. quart. 1007,,,,,,,8,2
 H-Berlin (BS) 157,,Unknown,3,,FALSE,,17th,1600,1699,,17,,TRUE,FALSE,,,,,,,0,,,,,,157,H-Berlin (BS),,,,,,,,,,,8,3
 H-Berlin (BS) 158,,Unknown,1,,FALSE,,17-18th,1600,1799,,17,,TRUE,FALSE,,,,,,,0,,,,,,158,H-Berlin (BS),,,,,,,,,,,8,1
