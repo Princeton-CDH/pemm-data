@@ -293,12 +293,12 @@ EMIP (EMIP) 1153,,Assigned,0,,FALSE,182,1899-1900,1899,1900,Date from ms (coloph
 EMIP (EMIP) 1154,,Assigned,0,,FALSE,172,1868-1913,1868,1913,Date from ms (colophon),19,images in PEMM Dropbox,FALSE,TRUE,,,,,,,0,,,,,,1154,EMIP (EMIP),,EMIP01154,,Other ms IDs: Addis Alem 112.,,,,,,,4,0
 EMIP (EMIP) 1288,,Complete,372,,FALSE,,1872-1889,1872,1889,Date from king's name,19,images in PEMM Dropbox,FALSE,FALSE,,,,,,,2,Yes,St. Mark's church in Addis Ababa,,,South: Addis Ababa,1288,EMIP (EMIP),,,,the same manuscript as EMML 22; Marqos Addis 3; mention on Emperor Yohannes IV on f. 73r,,,,,,,1,372
 EMIP (EMIP) 1289,,Assigned,220,,FALSE,,1921 E.C.,1928,1929,,20,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,St. Mark's church in Addis Ababa,,,South: Addis Ababa,1289,EMIP (EMIP),,,,"Marqos Addis 4; colophon on f. 187v says that the manuscript was completed in 1921 EC ""for the land of Gojjam"". It was then gifted to the Church of Saint Mark in Addis Ababa by Haile Sellase.",,,,,,,4,217
-EMIP (EMIP) 2145,,Assigned,0,,FALSE,,late 17th/early 18th,1675,1725,,18,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2145,EMIP (EMIP),,,,Weiner Codex 205,,,,,,,4,0
-EMIP (EMIP) 2156,,Assigned,0,,FALSE,,early 20th,1900,1925,,20,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2156,EMIP (EMIP),,,,Weiner Codex 216,,,,,,,4,0
-EMIP (EMIP) 2196,,Assigned,0,,FALSE,,20th,1900,1999,,20,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2196,EMIP (EMIP),,,,Mandeville Collection Codex 4,,,,,,,4,0
-EMIP (EMIP) 2509,,Assigned,0,,FALSE,,early 20th,1900,1925,,20,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2509,EMIP (EMIP),,,,Kaleab Addis Project 221,,,,,,,4,0
-EMIP (EMIP) 2519,,Assigned,0,,FALSE,,late 19th,1875,1899,,19,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2519,EMIP (EMIP),,,,Kaleab Addis Project 231,,,,,,,4,0
-EMIP (EMIP) 2541,,Assigned,0,,FALSE,,20th,1900,1999,,20,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2541,EMIP (EMIP),,,,Kaleab Addis Project 253,,,,,,,4,0
+EMIP (EMIP) 2145,,Complete,88,,FALSE,,late 17th/early 18th,1675,1725,,18,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2145,EMIP (EMIP),,,,Weiner Codex 205,,,,,,,1,88
+EMIP (EMIP) 2156,,Complete,51,,FALSE,,early 20th,1900,1925,,20,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2156,EMIP (EMIP),,,,Weiner Codex 216,,,,,,,1,51
+EMIP (EMIP) 2196,,Complete,111,,FALSE,,20th,1900,1999,,20,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2196,EMIP (EMIP),,,,Mandeville Collection Codex 4,,,,,,,1,111
+EMIP (EMIP) 2509,,Complete,25,,FALSE,,early 20th,1900,1925,,20,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2509,EMIP (EMIP),,,,Kaleab Addis Project 221,,,,,,,1,25
+EMIP (EMIP) 2519,,Complete,124,,FALSE,,late 19th,1875,1899,,19,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2519,EMIP (EMIP),,,,Kaleab Addis Project 231,,,,,,,1,123
+EMIP (EMIP) 2541,,Complete,33,,FALSE,,20th,1900,1999,,20,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2541,EMIP (EMIP),,,,Kaleab Addis Project 253,,,,,,,1,33
 EMIP (EMIP) 2550,,Assigned,0,,FALSE,,1938/1939,1938,1939,,20,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2550,EMIP (EMIP),,,,Kaleab Addis Project 262,,,,,,,4,0
 EMIP (EMIP) 2609,,Assigned,0,,FALSE,,20th,1900,1999,,20,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2609,EMIP (EMIP),,,,Kaleab Addis Project 321,,,,,,,4,0
 EMIP (EMIP) 2638,,Assigned,0,,FALSE,,1974-1975,1974,1975,,20,images in PEMM Dropbox,FALSE,FALSE,,,,,,,0,,,,,,2638,EMIP (EMIP),,,,Kaleab Addis Project 350,,,,,,,4,0
