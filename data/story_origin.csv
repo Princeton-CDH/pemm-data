@@ -1,48 +1,48 @@
-Name,Region,Notes,Town/Country
-Africa confirmed,Africa confirmed,,
-Africa Egypt confirmed,Africa Egypt confirmed,,
-Africa Ethiopia confirmed,Africa Ethiopia confirmed,,
-Africa Egypt confirmed (Scete),Africa Egypt confirmed,,Scete
-Africa Egypt confirmed (Dabra Mǝtmāq),Africa Egypt confirmed,,Dabra Mǝtmāq
-Africa Egypt confirmed (Däbrä Qaləmon),Africa Egypt confirmed,,Däbrä Qaləmon
-Africa Egypt confirmed (Däbrä Qʷəsqʷam),Africa Egypt confirmed,,Däbrä Qʷəsqʷam
-Africa Ethiopia confirmed (Dabra Zamaddo),Africa Ethiopia confirmed,,Dabra Zamaddo
-Africa probably,Africa probably,,
-Africa Egypt probably,Africa Egypt probably,,
-Africa Ethiopia probably,Africa Ethiopia probably,,
-Europe confirmed,Europe confirmed,,
-Europe confirmed (by way of Arabic),Europe confirmed,,by way of Arabic
-"Europe confirmed (Montserrat, France)",Europe confirmed,,"Montserrat, France"
-Europe confirmed (France),Europe confirmed,,France
-Europe confirmed (Germany),Europe confirmed,,Germany
-Europe confirmed (Aragon),Europe confirmed,,Aragon
-Europe confirmed (Spain by way of Arabic),Europe confirmed,,Spain by way of Arabic
-Europe confirmed (Spain),Europe confirmed,,Spain
-Europe confirmed (Portugal),Europe confirmed,,Portugal
-Europe confirmed (England),Europe confirmed,,England
-Europe confirmed (Ireland),Europe confirmed,,Ireland
-Europe confirmed (Scotland),Europe confirmed,,Scotland
-Europe confirmed (Greece),Europe confirmed,,Greece
-Europe confirmed (Iceland),Europe confirmed,,Iceland
-Europe confirmed (Italy),Europe confirmed,,Italy
-Europe confirmed (Hungary),Europe confirmed,,Hungary
-Europe probably,Europe probably,,
-Europe probably (Poland),Europe probably,,Poland
-Europe probably (France),Europe probably,,France
-Europe probably (Germany),Europe probably,,Germany
-Europe probably (Aragon),Europe probably,,Aragon
-Europe probably (Spain),Europe probably,,Spain
-Europe probably (Portugal),Europe probably,,Portugal
-Europe probably (England),Europe probably,,England
-Europe probably (Ireland),Europe probably,,Ireland
-Europe probably (Scotland),Europe probably,,Scotland
-Europe probably (Hungary),Europe probably,,Hungary
-Europe confirmed (but earlier versions),Europe confirmed,,but earlier versions
-Levant confirmed,Levant confirmed,,
-Levant confirmed (Jerusalem),Levant confirmed,,Jerusalem
-Levant confirmed (Bethlehem),Levant confirmed,,Bethlehem
-Levant confirmed (Syria),Levant confirmed,,Syria
-Levant probably,Levant probably,,
-Levant probably (Jerusalem),Levant probably,,Jerusalem
-Levant probably (Bethlehem),Levant probably,,Bethlehem
-Levant probably (Syria),Levant probably,,Syria
+Name,Region,Notes,Town/Country,Province,Country,Region,Continent,Place Type,"Neighborhood, Church, Monastery",Latitude,Longitude
+Africa confirmed,Africa confirmed,,,,,,,,,,
+Africa Egypt confirmed,Africa Egypt confirmed,,,,,,,,,,
+Africa Ethiopia confirmed,Africa Ethiopia confirmed,,,,,,,,,,
+Africa Egypt confirmed (Scete),Africa Egypt confirmed,,Scete,,,,,,,,
+Africa Egypt confirmed (Dabra Mǝtmāq),Africa Egypt confirmed,,Dabra Mǝtmāq,,,,,,,,
+Africa Egypt confirmed (Däbrä Qaləmon),Africa Egypt confirmed,,Däbrä Qaləmon,,,,,,,,
+Africa Egypt confirmed (Däbrä Qʷəsqʷam),Africa Egypt confirmed,,Däbrä Qʷəsqʷam,,,,,,,,
+Africa Ethiopia confirmed (Dabra Zamaddo),Africa Ethiopia confirmed,,Dabra Zamaddo,,,,,,,,
+Africa probably,Africa probably,,,,,,,,,,
+Africa Egypt probably,Africa Egypt probably,,,,,,,,,,
+Africa Ethiopia probably,Africa Ethiopia probably,,,,,,,,,,
+Europe confirmed,Europe confirmed,,,,,,,,,,
+Europe confirmed (by way of Arabic),Europe confirmed,,by way of Arabic,,,,,,,,
+"Europe confirmed (Montserrat, France)",Europe confirmed,,"Montserrat, France",,,,,,,,
+Europe confirmed (France),Europe confirmed,,France,,,,,,,,
+Europe confirmed (Germany),Europe confirmed,,Germany,,,,,,,,
+Europe confirmed (Aragon),Europe confirmed,,Aragon,,,,,,,,
+Europe confirmed (Spain by way of Arabic),Europe confirmed,,Spain by way of Arabic,,,,,,,,
+Europe confirmed (Spain),Europe confirmed,,Spain,,,,,,,,
+Europe confirmed (Portugal),Europe confirmed,,Portugal,,,,,,,,
+Europe confirmed (England),Europe confirmed,,England,,,,,,,,
+Europe confirmed (Ireland),Europe confirmed,,Ireland,,,,,,,,
+Europe confirmed (Scotland),Europe confirmed,,Scotland,,,,,,,,
+Europe confirmed (Greece),Europe confirmed,,Greece,,,,,,,,
+Europe confirmed (Iceland),Europe confirmed,,Iceland,,,,,,,,
+Europe confirmed (Italy),Europe confirmed,,Italy,,,,,,,,
+Europe confirmed (Hungary),Europe confirmed,,Hungary,,,,,,,,
+Europe probably,Europe probably,,,,,,,,,,
+Europe probably (Poland),Europe probably,,Poland,,,,,,,,
+Europe probably (France),Europe probably,,France,,,,,,,,
+Europe probably (Germany),Europe probably,,Germany,,,,,,,,
+Europe probably (Aragon),Europe probably,,Aragon,,,,,,,,
+Europe probably (Spain),Europe probably,,Spain,,,,,,,,
+Europe probably (Portugal),Europe probably,,Portugal,,,,,,,,
+Europe probably (England),Europe probably,,England,,,,,,,,
+Europe probably (Ireland),Europe probably,,Ireland,,,,,,,,
+Europe probably (Scotland),Europe probably,,Scotland,,,,,,,,
+Europe probably (Hungary),Europe probably,,Hungary,,,,,,,,
+Europe confirmed (but earlier versions),Europe confirmed,,but earlier versions,,,,,,,,
+Levant confirmed,Levant confirmed,,,,,,,,,,
+Levant confirmed (Jerusalem),Levant confirmed,,Jerusalem,,,,,,,,
+Levant confirmed (Bethlehem),Levant confirmed,,Bethlehem,,,,,,,,
+Levant confirmed (Syria),Levant confirmed,,Syria,,,,,,,,
+Levant probably,Levant probably,,,,,,,,,,
+Levant probably (Jerusalem),Levant probably,,Jerusalem,,,,,,,,
+Levant probably (Bethlehem),Levant probably,,Bethlehem,,,,,,,,
+Levant probably (Syria),Levant probably,,Syria,,,,,,,,
