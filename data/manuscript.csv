@@ -523,7 +523,7 @@ S-Rome (ANL) 60,,Unknown,1,,FALSE,,18th,1700,1799,,18,,TRUE,FALSE,,,,,,,0,,,,,,6
 S-Rome (ANL) 76,,Unknown,3,,FALSE,,20th,1900,1999,,20,,TRUE,FALSE,,,,,,,0,,,,,,76,S-Rome (ANL),,,,,,,,,,,8,3,Unknown,8r,
 S-Rome (ANL) 83,,Unknown,2,,FALSE,,20th,1900,1999,,20,,TRUE,FALSE,,,,,,,0,,,,,,83,S-Rome (ANL),,,,,,,,,,,8,2,Unknown,30v,
 S-Rome (ANL) 133,,Unknown,1,,FALSE,,17th,1600,1699,,17,,TRUE,FALSE,,,,,,,0,,,,,,133,S-Rome (ANL),,,,,,,,,,,8,1,Unknown,43v,
-T-Saint Petersburg (IVR) 255,,Unknown,97,,FALSE,86,15th,1400,1499,Date from Hamburg,15,,FALSE,FALSE,,,2,35-37,,,0,,,,,,255,T-Saint Petersburg (IVR),,IVsuhtelen255,,The miracles records and the mss description are imported from Beta Masaheft.,,,,,,,8,0,Unknown,,
+T-Saint Petersburg (IVR) 255,Duplicate,Unknown,97,95,FALSE,86,15th,1400,1499,Date from Hamburg,15,,FALSE,FALSE,,,2,35-37,,,0,,,,,,255,T-Saint Petersburg (IVR),,IVsuhtelen255,,Already in PEMM Database as cataloged by Cerulli. The miracles records and the mss description are imported from Beta Masaheft.,,,,,,,8,0,Unknown,,
 Temporary fix 37,,Unknown,1,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,37,Temporary fix,,,,,,,,,,,8,1,Unknown,,
 Temporary fix 38,,Unknown,1,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,38,Temporary fix,,,,,,,,,,,8,1,Unknown,,
 Temporary fix 39,,Unknown,1,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,39,Temporary fix,,,,,,,,,,,8,1,Unknown,,
