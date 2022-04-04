@@ -587,7 +587,7 @@ C-Ar (HMML) CCM 00008,Arabic TM+9,Complete,1,1,FALSE,204,17th,1600,1699,Date fro
 C-Ar (HMML) CCM 00007,Arabic TM+12,Complete,1,1,FALSE,116,18th,1700,1799,Date from catalog,18,https://w3id.org/vhmml/readingRoom/view/132210,FALSE,FALSE,151,,1,,,,0,No,Chaldean Cathedral,,,"Z-Outside Ethiopia: Mardin, Turkey",CCM 00007,C-Ar (HMML),,,,,,,,,,,1,0,Unknown,,,1,0,0,1,0,0,TRUE
 MB-Ar (HMML) MBM 00386,Arabic TM+10,Complete,1,1,FALSE,173,17th,1600,1699,Date from catalog,17,https://w3id.org/vhmml/readingRoom/view/131684,FALSE,FALSE,173,,1,,,,0,No,Mar Behnam Monastery,,,"Z-Outside Ethiopia: Mosul, Iraq",MBM 00386,MB-Ar (HMML),,,,,,,,,,,1,0,Unknown,,,1,0,0,1,0,0,TRUE
 C-Ar (HMML) CCM 00340,Arabic TM+9,Complete,1,1,FALSE,106,18th,1700,1799,Date from catalog,18,https://w3id.org/vhmml/readingRoom/view/130033,FALSE,FALSE,106,,1,,,,0,No,Chaldean Cathedral,,,"Z-Outside Ethiopia: Mardin, Turkey",CCM 00340,C-Ar (HMML),,,,,,,,,,,1,0,Unknown,,,1,0,0,1,0,0,TRUE
-,,,,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,19,,,,,,,,,Unknown,,,0,0,0,0,0,0,FALSE
+SOAM-Ar (HMML) ASOM 00200,,Assigned,0,,FALSE,181,18th-19th century,1700,1899,Date from catalog,18,https://w3id.org/vhmml/readingRoom/view/133900,FALSE,FALSE,181,,1,,,,0,No,Syrian Orthodox Archdiocese of Mosul,,,"Z-Outside Ethiopia: Mosul, Iraq",ASOM 00200,SOAM-Ar (HMML),,,,,,,,,,,4,0,Unknown,,,1,0,0,1,0,0,FALSE
 ,,,,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,20,,,,,,,,,Unknown,,,0,0,0,0,0,0,FALSE
 ,,,,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,21,,,,,,,,,Unknown,,,0,0,0,0,0,0,FALSE
 ,,,,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,22,,,,,,,,,Unknown,,,0,0,0,0,0,0,FALSE
