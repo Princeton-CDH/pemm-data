@@ -449,17 +449,15 @@ H-Berlin (BS) 157,TM +9,Complete,3,3,FALSE,,17th,1600,1699,,17,,TRUE,FALSE,,,,,,
 H-Berlin (BS) 158,not TM,Complete,1,1,FALSE,,17-18th,1600,1799,,17,,TRUE,FALSE,,,,,,,0,,,,,,158,H-Berlin (BS),,,,,,,,,,,1,1,Unknown,144r,,0,0,0,0,0,0,FALSE
 L-Uppsala (UU) 31,TM,Complete,16,16,FALSE,,1563-97,1563,1597,,16,no digital (list of digitized Uppsala mss: http://www.alvin-portal.org/alvin/resultList.jsf?aq=%5B%5B%7B%22RES%22%3A%22text+OR+text_manuscript%22%7D%2C%7B%22A_FQ%22%3A%22ethiopic%22%7D%2C%7B%22MANUSCRIPT_bool%22%3A%22true%22%7D%5D%5D&p=1&sortString=relevance_sort_desc&aqe=%5B%5D&af=%5B%22alpha3_facet%3Agez%22%5D&searchType=EXTENDED&noOfRows=10&fs=true&dswid=-5094),TRUE,FALSE,,,,,,,0,,,,,,31,L-Uppsala (UU),,,,,,Taˀamməra Māryām (Miracles of the Virgin Mary),,,,,1,16,Unknown,,,0,0,0,0,0,0,FALSE
 L-Uppsala (UU) 32,TM+1,Complete,48,48,FALSE,,1883-1913,1883,1913,,19,no digital (list of digitized Uppsala mss: http://www.alvin-portal.org/alvin/resultList.jsf?aq=%5B%5B%7B%22RES%22%3A%22text+OR+text_manuscript%22%7D%2C%7B%22A_FQ%22%3A%22ethiopic%22%7D%2C%7B%22MANUSCRIPT_bool%22%3A%22true%22%7D%5D%5D&p=1&sortString=relevance_sort_desc&aqe=%5B%5D&af=%5B%22alpha3_facet%3Agez%22%5D&searchType=EXTENDED&noOfRows=10&fs=true&dswid=-5094),TRUE,FALSE,,,,,,,0,,,,,,32,L-Uppsala (UU),,,,,,,,,,,1,46,Unknown,,,0,0,0,0,0,0,FALSE
-M-Dourgne (AEC) 1,TM+2,Unknown,75,,FALSE,,16th,1500,1599,,16,scans can be purchased from HMML,TRUE,FALSE,,,,,,,0,,,,,,1,M-Dourgne (AEC),,,,HMML name: HMML Sep. France. Dourgne. Abbaye d' En Calcat. Ms. Éthiop. 1,,,,,,,7,75,Unknown,7r,,0,0,0,0,0,0,FALSE
+M-Dourgne (AEC) 1,TM+2,Incomplete: has print catalog,75,,FALSE,,16th,1500,1599,,16,scans can be purchased from HMML,TRUE,FALSE,,,,,,,0,,,,,,1,M-Dourgne (AEC),,,,HMML name: HMML Sep. France. Dourgne. Abbaye d' En Calcat. Ms. Éthiop. 1,,,,,,,,75,Unknown,7r,,0,0,0,0,0,0,FALSE
 S-Paris (BNF) 381,not TM,Complete,1,1,FALSE,121,18-19th,1700,1899,,18,https://gallica.bnf.fr/ark:/12148/btv1b100299197,TRUE,FALSE,121,256,2,,,,0,No,,,,,381,S-Paris (BNF),,,,,,,,,,,1,1,Unknown,121r,,1,0,0,0,0,0,FALSE
 S-Rome (ANL) 23,TM+3,Complete,33,33,FALSE,,20th,1900,1999,,20,,TRUE,FALSE,,,,,,,0,,,,,,23,S-Rome (ANL),,,,,,,,,,,1,33,Unknown,,,0,0,0,0,0,0,FALSE
 S-Rome (ANL) 43,TM+3,Complete,34,34,FALSE,,20th,1900,1999,,20,,TRUE,FALSE,,,,,,,0,,,,,,43,S-Rome (ANL),,,,,,,,,,,1,34,Unknown,,,0,0,0,0,0,0,FALSE
 S-Rome (ANL) 60,not TM,Complete,1,1,FALSE,,18th,1700,1799,,18,,TRUE,FALSE,,,,,,,0,,,,,,60,S-Rome (ANL),,,,,,,,,,,1,1,Unknown,63r,,0,0,0,0,0,0,FALSE
-S-Rome (ANL) 76,,Unknown,3,,FALSE,,20th,1900,1999,,20,,TRUE,FALSE,,,,,,,0,,,,,,76,S-Rome (ANL),,,,,,,,,,,7,3,Unknown,8r,,0,0,0,0,0,0,FALSE
-S-Rome (ANL) 83,,Unknown,2,,FALSE,,20th,1900,1999,,20,,TRUE,FALSE,,,,,,,0,,,,,,83,S-Rome (ANL),,,,,,,,,,,7,2,Unknown,30v,,0,0,0,0,0,0,FALSE
-S-Rome (ANL) 133,,Unknown,1,,FALSE,,17th,1600,1699,,17,,TRUE,FALSE,,,,,,,0,,,,,,133,S-Rome (ANL),,,,,,,,,,,7,1,Unknown,43v,,0,0,0,0,0,0,FALSE
+S-Rome (ANL) 76,,Incomplete: has print catalog,3,,FALSE,,20th,1900,1999,,20,,TRUE,FALSE,,,,,,,0,,,,,,76,S-Rome (ANL),,,,,,,,,,,,3,Unknown,8r,,0,0,0,0,0,0,FALSE
+S-Rome (ANL) 83,not TM,Complete,2,2,FALSE,,20th,1900,1999,,20,,TRUE,FALSE,,,,,,,0,,,,,,83,S-Rome (ANL),,,,,,,,,,,1,2,Unknown,30v,,0,0,0,0,0,0,FALSE
+S-Rome (ANL) 133,not TM,Complete,1,1,FALSE,,17th,1600,1699,,17,,TRUE,FALSE,,,,,,,0,,,,,,133,S-Rome (ANL),,,,,,,,,,,1,1,Unknown,43v,,0,0,0,0,0,0,FALSE
 T-Saint Petersburg (IVR) 255,Duplicate,Unknown,0,95,FALSE,86,15th,1400,1499,Date from Hamburg,15,,FALSE,FALSE,,,2,35-37,,,0,,,,,,255,T-Saint Petersburg (IVR),,IVsuhtelen255,,Already in PEMM Database as cataloged by Cerulli. The mss description is imported from Beta Masaheft.,,,,,,,7,0,Unknown,,,0,0,0,0,0,0,FALSE
-Temporary fix 37,,Unknown,1,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,37,Temporary fix,,,,,,,,,,,7,1,Unknown,,,0,0,0,0,0,0,FALSE
-Temporary fix 38,,Unknown,1,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,38,Temporary fix,,,,,,,,,,,7,1,Unknown,,,0,0,0,0,0,0,FALSE
 Temporary fix 39,,Unknown,1,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,39,Temporary fix,,,,,,,,,,,7,1,Unknown,,,0,0,0,0,0,0,FALSE
 Temporary fix 40,,Unknown,1,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,40,Temporary fix,,,,,,,,,,,7,1,Unknown,,,0,0,0,0,0,0,FALSE
 VL-Vatican (BAV) 267,,Unknown,58,,FALSE,,20th,1900,1999,,20,,TRUE,FALSE,,,,,,,0,,,,,,267,VL-Vatican (BAV),,,,,,,,,,,7,58,Unknown,13r,,0,0,0,0,0,0,FALSE
