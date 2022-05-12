@@ -632,7 +632,7 @@ EMDL (EMDL) 621,TM,Incomplete: not started,0,,FALSE,170,1938/1939,1938,1939,Date
 EMDL (EMDL) 646,TM,Incomplete: not started,0,,FALSE,151,20th,1900,1999,,20,images in PEMM Dropbox,FALSE,FALSE,151,159,3,,,,0,RelatedImages,Sheguala Maryam,,,North: Tigray Province,646,EMDL (EMDL),,,,ShegualaMaryam 008,,,,,,,6,0,Unknown,1r,,0,0,0,0,0,0,Yes,1950
 EMDL (EMDL) 691,TM+1,Incomplete: not started,0,,FALSE,74,20th,1900,1999,,20,images in PEMM Dropbox,FALSE,FALSE,74,81,2,,,,0,No,Dabra Sehay Selassie Mekelle,,,North: Tigray Province,691,EMDL (EMDL),,,,Dabra Sehay Selassie Mekelle_24,,,,,,,6,0,Unknown,7r,,0,0,0,0,0,0,Yes,1950
 EMDL (EMDL) 694,TM,Incomplete: not started,0,,FALSE,66,1984/1985,1984,1985,Date from ms (colophon),20,images in PEMM Dropbox,FALSE,FALSE,66,73,2,,,,0,No,Dabra Sehay Selassie Mekelle,,,North: Tigray Province,694,EMDL (EMDL),,,,"1977 EC = 1984-1985, f. 65r; Dabra Sehay Selassie Mekelle_27",,,,,,,6,0,Unknown,7r,,0,0,0,0,0,0,Yes,1985
-StAnneJerusalem (SS-AJ) 60,,,0,,FALSE,,19th,1800,1899,,19,https://w3id.org/vhmml/readingRoom/view/511374,FALSE,FALSE,,,,,,,0,,,,,,60,StAnneJerusalem (SS-AJ),,,,69,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850
+StAnneJerusalem (SS-AJ) 60,TM+,Assigned to Jeremy,0,,FALSE,200,19th,1800,1899,,19,https://w3id.org/vhmml/readingRoom/view/511374,FALSE,FALSE,200,207,1,,,,0,No,Séminaire Sainte-Anne de Jérusalem,31.78106,35.23644,Z-Outside Ethiopia: Jerusalem,60,StAnneJerusalem (SS-AJ),,,,69,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850
 ,,,,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,70,,,,,,,,,Unknown,,,0,0,0,0,0,0,Not filled,
 ,,,,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,71,,,,,,,,,Unknown,,,0,0,0,0,0,0,Not filled,
 ,,,,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,72,,,,,,,,,Unknown,,,0,0,0,0,0,0,Not filled,
