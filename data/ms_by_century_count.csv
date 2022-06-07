@@ -1,15 +1,15 @@
 COUNT of Century Numeric,Century Numeric,,,,,,,,,
 MS Status,,13,14,15,16,17,18,19,20,Grand Total
-,0,,,,,,,,,0
+,0,,,,,2,29,52,29,112
 Assigned to Dawit,,,,,,,2,9,3,14
 Assigned to Jeremy,,,,1,,,2,,,3
 Assigned to Mehari,,,,,,,2,3,,5
 Complete,0,1,2,23,51,67,92,103,118,457
 CUA will catalog,,,,,1,,2,3,8,14
 Duplicate,,,,2,1,1,,2,2,8
-Incomplete: awaiting digitization,0,,,,,,13,6,,19
+Incomplete: awaiting digitization,0,,,,,,14,9,13,36
 Incomplete: irrelevant,,,,,,,8,3,4,15
 Incomplete: not digitized,0,,,1,3,3,10,6,3,26
-Incomplete: not started,0,,,,,,1,8,34,43
+Incomplete: not started,0,,,,,,1,8,35,44
 Incomplete: other,0,,,,,,2,4,4,10
-Grand Total,0,1,2,27,56,71,134,147,176,614
+Grand Total,0,1,2,27,56,73,164,202,219,744
