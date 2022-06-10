@@ -887,28 +887,28 @@ EMML (HMML) 6509,,,0,,FALSE,,20th,1900,1995,Date from catalog,20,not digitized,F
 EMML (HMML) 6544,,,0,,FALSE,,,,,,,https://w3id.org/vhmml/readingRoom/view/200181,FALSE,FALSE,,,,,,,0,,,,,,6544,EMML (HMML),,,,"List of EMML mss says ms is a TM, but images are not of a TM",,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
 EMML (HMML) 6564,,,0,,FALSE,60,19th,1800,1899,Date from catalog,19,https://w3id.org/vhmml/readingRoom/view/200200,FALSE,FALSE,60,66,2,,,,0,,Enṭoṭṭo Maryam,,,"Enṭoṭṭo, Shoa",6564,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
 EMML (HMML) 6598,,,0,,FALSE,,19th,1800,1899,Date from catalog,19,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6598,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
-EMML (HMML) 6600,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6600,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6602,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6602,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6611,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6611,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6615,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6615,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6630,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6630,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6638,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6638,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6642,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6642,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6650,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6650,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6656,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6656,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6664,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6664,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
+EMML (HMML) 6600,,,0,,FALSE,,19th,1800,1899,Date from catalog,19,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6600,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
+EMML (HMML) 6602,,,0,,FALSE,,20th,1900,1995,Date from catalog,20,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6602,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1948,#N/A
+EMML (HMML) 6611,,,0,,FALSE,,18th ,1700,1799,Date from catalog,18,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6611,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1750,#N/A
+EMML (HMML) 6615,,,0,,FALSE,,20th,1900,1995,Date from catalog,20,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6615,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1948,#N/A
+EMML (HMML) 6630,,,0,,FALSE,,19th,1800,1899,Date from catalog,19,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6630,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
+EMML (HMML) 6638,,,0,,FALSE,,18th ,1700,1799,Date from catalog,18,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6638,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1750,#N/A
+EMML (HMML) 6642,,,0,,FALSE,,18th ,1700,1799,Date from catalog,18,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6642,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1750,#N/A
+EMML (HMML) 6650,,,0,,FALSE,,20th,1900,1995,Date from catalog,20,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6650,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1948,#N/A
+EMML (HMML) 6656,,,0,,FALSE,,20th,1900,1995,Date from catalog,20,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6656,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1948,#N/A
+EMML (HMML) 6664,,,0,,FALSE,,19th,1800,1899,Date from catalog,19,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6664,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
 EMML (HMML) 6669,,,0,350,FALSE,218,1889-1913,1889,1913,Date from king's name,20,https://w3id.org/vhmml/readingRoom/view/200302,FALSE,FALSE,218,231,3,,,,0,,Enṭoṭṭo Maryam,,,"Enṭoṭṭo, Shoa",6669,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1901,#N/A
-EMML (HMML) 6714,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6714,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6724,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6724,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1881,#N/A
+EMML (HMML) 6714,,,0,,FALSE,,19th,1800,1899,Date from catalog,19,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6714,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
+EMML (HMML) 6724,,,0,,FALSE,,19th,1800,1899,Date from catalog,19,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6724,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1881,#N/A
 EMML (HMML) 6731,,,0,,FALSE,172,1872-1889,1872,1889,Date from king's name,19,https://w3id.org/vhmml/readingRoom/view/200359,FALSE,FALSE,172,187,3,,,,0,,Zobel Addabay Iyesus,,,South: Wallo,6731,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,#REF!,#N/A
-EMML (HMML) 6741,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6741,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6748,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6748,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
+EMML (HMML) 6741,,,0,,FALSE,,19th,1800,1899,Date from catalog,19,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6741,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
+EMML (HMML) 6748,,,0,,FALSE,,19th,1800,1899,Date from catalog,19,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6748,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
 EMML (HMML) 6794,,,0,,FALSE,161,1866-1889,1866,1889,Date from king's name,19,https://w3id.org/vhmml/readingRoom/view/200422,FALSE,FALSE,161,165,3,,,,0,,Dabra Libanos Monastery,,,South: Shoa,6794,EMML (HMML),,,,Negus Sahle Maryam,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1878,#N/A
-EMML (HMML) 6807,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6807,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6854,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6854,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6860,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6860,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6876,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6876,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 6881,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6881,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
+EMML (HMML) 6807,,,0,,FALSE,,20th,1900,1978,Date from catalog,20,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6807,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1939,#N/A
+EMML (HMML) 6854,,,0,,FALSE,,19th,1800,1899,Date from catalog,19,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6854,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
+EMML (HMML) 6860,,,0,,FALSE,,19th,1800,1899,Date from catalog,19,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6860,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
+EMML (HMML) 6876,,,0,,FALSE,,19th,1800,1899,Date from catalog,19,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6876,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
+EMML (HMML) 6881,,,0,,FALSE,,18th,1700,1799,Date from catalog,18,not digitized,FALSE,FALSE,,,,,,,0,,,,,,6881,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1750,#N/A
 EMML (HMML) 6914,,,0,,FALSE,112,18th,1700,1799,Date from catalog,18,https://w3id.org/vhmml/readingRoom/view/200541,FALSE,FALSE,112,123,3,,,,0,,Church of Bēta Madḫānē 'Ālam,,,South: Wallo,6914,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1750,#N/A
 EMML (HMML) 6966,,,0,,FALSE,159,20th,1900,1978,Date from catalog,20,https://w3id.org/vhmml/readingRoom/view/200591,FALSE,FALSE,159,165,3,,,,0,,Dabra Zamaddo Monastery,,,South: Wallo,6966,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1939,#N/A
 EMML (HMML) 6967,,,0,,FALSE,198,19th,1800,1899,Date from catalog,19,https://w3id.org/vhmml/readingRoom/view/200592,FALSE,FALSE,198,204,2,,,,0,,Dabra Zamaddo Monastery,,,South: Wallo,6967,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
@@ -920,7 +920,7 @@ EMML (HMML) 7160,,,0,,FALSE,131,19th,1800,1899,Date from catalog,19,https://w3id
 EMML (HMML) 7193,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,7193,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
 EMML (HMML) 7239,,,0,,FALSE,126,20th,1900,1978,Date from catalog,20,https://w3id.org/vhmml/readingRoom/view/200811,FALSE,FALSE,126,134,3,,,,0,,Bete Gabre'el,,,South: Wallo,7239,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1939,#N/A
 EMML (HMML) 7258,,,0,33,FALSE,142,18th ,1700,1799,Date from catalog,18,https://w3id.org/vhmml/readingRoom/view/200830,FALSE,FALSE,142,149,2,,,,0,,Church of Bēta Māryām,,,South: Wallo,7258,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1750,#N/A
-EMML (HMML) 7266,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,7266,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
+EMML (HMML) 7266,,,0,,FALSE,,20th,1900,1978,Date from catalog,20,not digitized,FALSE,FALSE,,,,,,,0,,,,,,7266,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1939,#N/A
 EMML (HMML) 7272,,,0,80,FALSE,99,18th ,1700,1799,Date from catalog,18,https://w3id.org/vhmml/readingRoom/view/200844,FALSE,FALSE,99,106,2,,,,0,,Church of Ešatan Māryām,,,South: Wallo,7272,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1750,#N/A
 EMML (HMML) 7281,,,0,,FALSE,,18th ,1700,1799,Date from catalog,18,not digitized,FALSE,FALSE,,,,,,,0,,,,,,7281,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1750,#N/A
 EMML (HMML) 7287,,,0,,FALSE,,18th ,1700,1799,Date from catalog,18,not digitized,FALSE,FALSE,,,,,,,0,,,,,,7287,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1750,#N/A
@@ -931,9 +931,9 @@ EMML (HMML) 7366,,,0,,FALSE,28,,,,,,https://w3id.org/vhmml/readingRoom/view/2009
 EMML (HMML) 7432,,,0,,FALSE,,20th,1900,1978,Date from catalog,20,not digitized,FALSE,FALSE,,,,,,,0,,,,,,7432,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1939,#N/A
 EMML (HMML) 7496,,,0,,FALSE,215,18th ,1700,1799,Date from catalog,18,https://w3id.org/vhmml/readingRoom/view/201030,FALSE,FALSE,215,221,2,,,,0,,Church of Bēta Golgotā,,,South: Wallo,7496,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1750,#N/A
 EMML (HMML) 7515,,,0,,FALSE,166,18th ,1700,1799,Date from catalog,18,https://w3id.org/vhmml/readingRoom/view/201049,FALSE,FALSE,166,169,2,,,,0,,Beta Emmanuel,,,West: Lalibala,7515,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1750,#N/A
-EMML (HMML) 7567,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,7567,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 7571,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,7571,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
-EMML (HMML) 7572,,,0,,FALSE,,,,,,,not digitized,FALSE,FALSE,,,,,,,0,,,,,,7572,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
+EMML (HMML) 7567,,,0,,FALSE,,18th ,1700,1799,Date from catalog,18,not digitized,FALSE,FALSE,,,,,,,0,,,,,,7567,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1750,#N/A
+EMML (HMML) 7571,,,0,,FALSE,,19th,1800,1899,Date from catalog,19,not digitized,FALSE,FALSE,,,,,,,0,,,,,,7571,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
+EMML (HMML) 7572,,,0,,FALSE,,19th,1800,1899,Date from catalog,19,not digitized,FALSE,FALSE,,,,,,,0,,,,,,7572,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1850,#N/A
 EMML (HMML) 7605,,,0,,FALSE,232,20th,1900,1980,,20,https://w3id.org/vhmml/readingRoom/view/201132,FALSE,FALSE,232,375,3,,,,0,,Kibran Gabriel,,,West: Gondar,7605,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,1940,#N/A
 EMML (HMML) 7641,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,7641,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
 EMML (HMML) 7690,,,0,,FALSE,,,,,,,,FALSE,FALSE,,,,,,,0,,,,,,7690,EMML (HMML),,,,,,,,,,,,0,Unknown,,,0,0,0,0,0,0,Not filled,,#N/A
