@@ -1,4 +1,4 @@
-Name,Region,Notes,Town/Country,,CONCATENATE,Town/Country 2,Country 2,Continent 2,Likelihood,,Province,Country,Region_,Continent,Place Type,"Neighborhood, Church, Monastery",Latitude,Longitude
+Name,Region,Notes,Town/Country,Blank 1,CONCATENATE,Town/Country 2,Country 2,Continent 2,Likelihood,Blank 2,Province,Country,Region_,Continent,Place Type,"Neighborhood, Church, Monastery",Latitude,Longitude
 Africa confirmed,Africa confirmed,,,,Africa (confirmed),,,Africa,(confirmed),,,,,,,,,
 Africa Egypt confirmed,Africa Egypt confirmed,,,,"Egypt, Africa (confirmed)",,Egypt,Africa,(confirmed),,,,,,,,,
 Africa Ethiopia confirmed,Africa Ethiopia confirmed,,,,"Ethiopia, Africa (confirmed)",,Ethiopia,Africa,(confirmed),,,,,,,,,
