@@ -1,4 +1,4 @@
-Name,Town,Country,Continent,Certainty,Notes,Blank,Province,Country,Region_,Continent,Place Type,"Neighborhood, Church, Monastery",Latitude,Longitude
+Name,Town,Country,Continent,Certainty,Notes,Blank,Province,Country_,Region,Continent_,Place Type,"Neighborhood, Church, Monastery",Latitude,Longitude
 Africa (confirmed),,,Africa,confirmed,,,,,,,,,,
 "Egypt, Africa (confirmed)",,Egypt,Africa,confirmed,,,,,,,,,,
 "Ethiopia, Africa (confirmed)",,Ethiopia,Africa,confirmed,,,,,,,,,,
