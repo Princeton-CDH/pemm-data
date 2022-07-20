@@ -648,17 +648,27 @@
                         "format": "default"
                     },
                     {
-                        "name": "Region",
+                        "name": "Town",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Country",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Continent",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Certainty",
                         "type": "string",
                         "format": "default"
                     },
                     {
                         "name": "Notes",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Town/Country",
                         "type": "string",
                         "format": "default"
                     }
