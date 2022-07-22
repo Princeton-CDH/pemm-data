@@ -17,7 +17,7 @@
                         "constraints": {
                             "required": true,
                             "unique": true,
-                            "pattern": "^[1-9]\\d*(-[A-F][1-2]?)?$"
+                            "pattern": "^[0-9]\\d*(-[A-F][1-2]?)?$"
                         }
                     },
                     {
