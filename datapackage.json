@@ -439,7 +439,7 @@
                         "format": "default",
                         "description": "Canonical Story (or Macomber) ID from canonical_story.csv; determined by catalogers using the Incipit Search Tool.",
                         "constraints": {
-                            "pattern": "^[1-9]\\d*(-[A-F][1-2]?)?$"
+                            "pattern": "^[1-9]\\d*(-[A-G][1-2]?)?$"
                         }
                     },
                     {
